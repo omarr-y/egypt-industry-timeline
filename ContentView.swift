@@ -16,6 +16,9 @@ struct ContentView: View {
             ChartsView()
                 .tabItem { Label("Charts", systemImage: "chart.bar.xaxis") }
         }
-        .task { await store.refresh() }
+        .task {
+            await store.refresh()
+            await NewsSync.requestNotificationPermission()
+        }
     }
 }

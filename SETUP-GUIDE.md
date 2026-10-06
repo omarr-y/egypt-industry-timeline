@@ -94,3 +94,35 @@ Edit the `.swift` files in Xcode, test with ▶ Run, then repeat Step 4 and Step
 2. In Xcode's left sidebar, select all the `.swift` files inside the yellow `EgyptIndustry` folder → right-click → **Delete → Move to Trash**. Keep `news.json` and `Assets`.
 3. Drag all the `.swift` files from the unzipped folder onto the yellow `EgyptIndustry` folder, with **Copy items if needed** ticked.
 4. Press ▶ Run to test, then rebuild and reinstall (Steps 4 and 6).
+
+---
+
+## Step 7. Widget, notifications and app icon (one time)
+
+Files that live in the Xcode project folder are updated by **replacing them in Finder**: Xcode reads them straight from that folder.
+
+### 7a. Update the code files
+1. Download the latest code zip from GitHub and unzip it.
+2. Copy all the `.swift` files from its top level into the folder Xcode uses
+   (`Desktop/EgyptIndustry/EgyptIndustry/egypt-industry-timeline-claude-optimistic-bardeen-3sdlmt/`), choosing **Replace**.
+3. In Xcode, right-click that folder in the sidebar → **Add Files to "EgyptIndustry"…** → select `BackgroundRefresh.swift` → under *Add to targets* tick only **EgyptIndustry** → **Add**.
+
+### 7b. Notifications: two settings (the app crashes at launch without the second one)
+1. Click the blue **EgyptIndustry** project at the top of the sidebar → under *Targets* select **EgyptIndustry** → **Signing & Capabilities** → **+ Capability** → **Background Modes** → tick **Background fetch**.
+2. **Info** tab → hover any row → **+** → type `Permitted background task scheduler identifiers` → click the triangle next to it → **+** → set *Item 0* to `com.omar.EgyptIndustry.refresh`.
+
+### 7c. Widget
+1. **File → New → Target… → iOS → Widget Extension → Next**.
+2. Product Name: `EgyptIndustryWidget`. **Untick** "Include Live Activity" and "Include Configuration App Intent". **Finish**. If asked to activate the scheme, click **Cancel**.
+3. In the new yellow `EgyptIndustryWidget` folder, delete `EgyptIndustryWidget.swift` and `EgyptIndustryWidgetBundle.swift` (**Move to Trash**).
+4. Drag `widget/EgyptIndustryWidget.swift` from the zip onto that folder. Tick **Copy items if needed**, and under *Add to targets* tick only **EgyptIndustryWidgetExtension**.
+
+### 7d. App icon
+In the sidebar, open **Assets** (in the app's folder) → **AppIcon** → drag `icon/AppIcon.png` from the zip onto the 1024×1024 square.
+
+### 7e. Build and install
+Make sure the scheme at the top says **EgyptIndustry**, press **⌘B** to check for errors, then run `bash build-ipa.sh` and install with AltServer (**⌥-click ◆ → Sideload .ipa…**). Installing over the old version keeps your stars.
+
+**Adding the widget:** long-press the home screen → **Edit** (top left) → **Add Widget** → search "Egypt Industry". For the Lock Screen, long-press the Lock Screen → **Customize**.
+
+**Notifications** arrive when iOS runs the background check (every few hours, at times iOS chooses, and less often in Low Power Mode) *and* GitHub has new items. They only appear after the weekly update has added something new.
