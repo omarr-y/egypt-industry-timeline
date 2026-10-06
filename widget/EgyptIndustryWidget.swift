@@ -147,10 +147,10 @@ struct Provider: TimelineProvider {
         return sorted(data)
     }
 
-    /// Newest first, at most 4 (the most the large widget shows).
+    /// Newest first, at most 5 (the most the large widget shows).
     private static func sorted(_ data: Data) -> [WidgetItem] {
         guard let feed = try? JSONDecoder().decode(WidgetFeed.self, from: data) else { return [] }
-        return Array(feed.items.sorted { ($0.date, $0.id) > ($1.date, $1.id) }.prefix(4))
+        return Array(feed.items.sorted { ($0.date, $0.id) > ($1.date, $1.id) }.prefix(5))
     }
 }
 
@@ -177,7 +177,7 @@ struct LatestNewsView: View {
                 case .accessoryRectangular:
                     LockScreenView(item: entry.items[0])
                 case .systemLarge:
-                    ListView(items: Array(entry.items.prefix(4)))
+                    ListView(items: Array(entry.items.prefix(5)))
                 default:
                     ListView(items: Array(entry.items.prefix(2)))
                 }
@@ -219,7 +219,7 @@ private struct SmallView: View {
     }
 }
 
-/// Medium (2 items) and large (4 items).
+/// Medium (2 items) and large (5 items).
 private struct ListView: View {
     let items: [WidgetItem]
 
