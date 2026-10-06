@@ -1,0 +1,2236 @@
+{
+ "updated": "2026-10-06",
+ "count": 143,
+ "items": [
+  {
+   "id": "n-b1252cd96927",
+   "date": "2026-10-05",
+   "title": "ElAraby and South Africa's Malben team up on auto components",
+   "summary": "Egypt's ElAraby Group and South Africa's Malben Engineering agreed to set up a joint platform for manufacturing automotive components, and a protocol was signed to launch an Egyptian–South African Business Council. No investment figure was disclosed.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "automotive components"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/05/egypt-south-africa-seek-deeper-industrial-integration-automotive-cooperation/",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "n-77b7a3870c68",
+   "date": "2026-10-05",
+   "title": "ECES study identifies 50 industrial products for European investment",
+   "summary": "ECES screened 1,058 products and found 50 opportunities for European investors, from electrical machinery to pharma. European FDI stock in Egypt was EUR 36.6bn in 2024, and SCZone has drawn $16.5bn of FDI in 3.5 years.",
+   "figure": "50 products",
+   "category": "investment",
+   "sectors": [
+    "electrical equipment",
+    "machinery",
+    "pharmaceuticals",
+    "steel"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/business-economix/industry-insights/2026/10/05/egypt-maps-50-industrial-opportunities-as-europe-recasts-its-supply-chains",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-09d8de08bedf",
+   "date": "2026-10-05",
+   "title": "Steelmakers and rolling mills push to scrap billet duties",
+   "summary": "Rolling mills and steel producers are coordinating to lobby against the billet anti-dumping duties extended in April, citing input shortages; eight new billet licences (2.8m tonnes) remain under review and the ministry says it may review the measures.",
+   "figure": "2.8m tonnes pending licences",
+   "category": "policy",
+   "sectors": [
+    "engineering",
+    "steel"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/10/05/rolling-mills-and-steel-producers-are-coordinating-a-push-to-scrap-egypts-billet-anti-dumping-duties/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-08c74c6a6181",
+   "date": "2026-10-05",
+   "title": "Egypt PMI falls back to 47.2 in September",
+   "summary": "The PMI dropped to 47.2 in September 2026 from 49.6, as output and new orders fell sharply on weaker demand, geopolitical disruption and inflation. Higher oil, metals, electricity and transport costs pushed firms to raise selling prices strongly, though employment rose for a second month.",
+   "figure": "PMI 47.2 (Aug 49.6)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "Trading Economics",
+   "url": "https://tradingeconomics.com/egypt/manufacturing-pmi/news/589380",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-cbb0247e8e61",
+   "date": "2026-10-04",
+   "title": "Egypt-Africa trade rises 11.8% to $6.1bn in seven months",
+   "summary": "CAPMAS: Egyptian exports to African Union countries reached $4.5bn in January-July 2026, against imports of $1.6bn. Libya ($869m), Sudan ($659m) and Algeria ($566m) were the top markets; total trade with the bloc rose 11.8% to $6.1bn.",
+   "figure": "$4.5bn exports",
+   "category": "trade",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/04/egypt-au-trade-exchange-rises-11-8-to-6-1bn-in-7m-2026/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-5d66999f18d4",
+   "date": "2026-10-04",
+   "title": "Industrial production index falls 9.6% in July 2026",
+   "summary": "CAPMAS said the manufacturing and extractive index (excluding crude oil and petroleum) fell 9.6% to 123.73 in July 2026 from 136.91 in June. Electrical appliances (-11.9%) and furniture (-10.2%) fell on weaker demand, matching the weak PMI in the same month.",
+   "figure": "Index 123.73 (-9.6% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "electrical appliances",
+    "furniture",
+    "manufacturing"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-manufacturing-extractive-output-falls-9-6-in-july-capmas/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-863c22904a36",
+   "date": "2026-10-02",
+   "title": "EGP 1bn Distressed Factories Restructuring Fund launched",
+   "summary": "The CBE and Industry Ministry launched the EGP 1bn closed-ended fund (FRA licence 1033), backed by NBE, Banque Misr and other banks and managed by CI Capital, to restructure struggling factories in food, engineering, chemicals, textiles, pharma and building materials. Bank-funded, so off the state budget.",
+   "figure": "EGP 1bn",
+   "category": "policy",
+   "sectors": [
+    "building materials",
+    "chemicals",
+    "engineering",
+    "food",
+    "garments",
+    "pharmaceuticals",
+    "textiles"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=578014",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-690e0fe50e1e",
+   "date": "2026-10-01",
+   "title": "Sisi orders withdrawal of unused industrial land",
+   "summary": "President Sisi directed the withdrawal of vacant and unused industrial land and faster factory set-up in priority sectors, including feeder industries (refractories, alloys) and steel. Aims to free land for active investors.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing",
+    "engineering",
+    "steel"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/sisi-directs-withdrawal-of-unused-industrial-land/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-f026837b74c8",
+   "date": "2026-09-29",
+   "title": "Industry ministry pushes mineral value chains, limits raw phosphate exports",
+   "summary": "Industry Minister Khaled Hashem said Egypt is limiting raw phosphate exports in favour of local phosphoric acid and fertilizer production, and has partnered with two companies this year to process manganese ore locally. The aim is to capture more value added and cut imports of refractory materials.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "mining",
+    "fertilizers",
+    "metals"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/09/29/egypt-targets-integrated-mineral-value-chains-to-drive-industrial-growth/",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "n-d52d80ea2ecd",
+   "date": "2026-09-29",
+   "title": "PM offers incentives and state equity stakes for mining",
+   "summary": "At the Egypt Mining Forum, PM Madbouly said the government will offer incentives and take equity stakes to fast-track mining projects to production, and invest in energy and infrastructure for mineral processing. State equity implies possible fiscal exposure.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "mineral processing",
+    "mining"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/09/29/government-ready-to-offer-incentives-and-equity-partnerships-to-accelerate-mining-projects-egypt-pm-says/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-efc5f898f06d",
+   "date": "2026-09-28",
+   "title": "Food industry exports top $5.1bn in eight months, up 11%",
+   "summary": "The Food Export Council said food exports reached $5.128bn in January–August 2026, up 10.8% from $4.629bn a year earlier, with Arab markets taking 47% and the EU 22%. Food is one of the fastest-growing non-oil export lines, which matters for export-rebate outlays and the trade balance.",
+   "figure": "$5.13bn (+10.8% y/y)",
+   "category": "trade",
+   "sectors": [
+    "food processing"
+   ],
+   "source": "SEE News",
+   "url": "https://see.news/egypt-food-exports-surpass-5-billion-in-8-months-rising-11",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "n-c88708450fca",
+   "date": "2026-09-28",
+   "title": "Egypt and Russia discuss FTA as first firms line up for RIZ",
+   "summary": "Russian exports to Egypt reached $5.9bn in January–July 2026 (+15.6% y/y), and Moscow said the first resident companies are lined up for the Russian Industrial Zone in SCZone, which targets $5bn of investment by 2028. About 30 Russian firms are weighing the zone, which carries a 49-year tax and customs incentive package, a cost for future tax receipts.",
+   "figure": "$5bn RIZ target by 2028",
+   "category": "trade",
+   "sectors": [
+    "construction materials",
+    "pharmaceuticals",
+    "agricultural machinery"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/09/28/egypt-russia-discuss-simplifying-trade-procedures-and-advancing-a-bilateral-free-trade-agreement/",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "n-d71e026d6ae2",
+   "date": "2026-09-27",
+   "title": "Finance ministry plans two sector support funds",
+   "summary": "Kouchouk reiterated the EGP 80bn budget allocation for production, exports and entrepreneurship, with concessional lending via MSMEDA, and said the ministry plans two funds with the Investment and Industry ministries to target support at specific sectors.",
+   "figure": "EGP 80bn",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing",
+    "exports",
+    "smes"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/09/27/egp-80bn-allocated-to-support-production-exports-and-entrepreneurship-in-2026-27-budget-minister/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-7896314dde41",
+   "date": "2026-09-26",
+   "title": "Unilever Egypt opens export-only 13th line at Mashreq plant",
+   "summary": "Industry Minister Khaled Hashem opened Unilever's 13th production line at its Mashreq personal care plant, raising annual capacity by 20%, with the new line's output allocated entirely to exports. About 80% of inputs are sourced locally and around 65% of the plant's capacity already goes to more than 30 export markets, which supports FX earnings.",
+   "figure": "+20% capacity",
+   "category": "investment",
+   "sectors": [
+    "personal care",
+    "fmcg"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/09/26/unilever-egypt-opens-13th-production-line-at-mashreq-personal-care-plant/",
+   "addedAt": "2026-10-06"
+  },
+  {
+   "id": "n-5c918c003bbd",
+   "date": "2026-09-26",
+   "title": "Gold exports fall 44% in seven months amid regional disruption",
+   "summary": "Gold exports fell 44% to about $2.4bn in January-July 2026 from $4.3bn; exports to the UAE fell 65%. Causes were strong local demand, air-freight disruption from the regional conflict, and VAT refund delays. Gold had been a large source of the 2025 export gain.",
+   "figure": "$2.4bn",
+   "category": "trade",
+   "sectors": [
+    "gold",
+    "jewellery"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/09/26/egypts-gold-exports-fall-44-in-seven-months-amid-stronger-local-demand-flight-disruptions/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-4a08b3336e51",
+   "date": "2026-09-23",
+   "title": "300,000 sqm of industrial land allocated under rent-to-own",
+   "summary": "The IDA allocated over 300,000 sqm of serviced land in eight zones under the new rent-to-own scheme, with rent deducted from the later purchase price; investors must be operating within 24 months. Lowers upfront capital needs while delaying land-sale revenue.",
+   "figure": "300,000+ sqm",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "chemicals",
+    "engineering",
+    "food",
+    "pharmaceuticals",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/09/23/egypt-allocates-over-300000-sqm-of-industrial-land-under-rent-to-own-scheme/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-349d5b638885",
+   "date": "2026-09-20",
+   "title": "PM reviews export strategy with 112 export council proposals",
+   "summary": "PM Madbouly, Finance Minister Kouchouk and Investment Minister Farid reviewed the national export strategy, including 112 export council proposals. These include faster payment of export dues, logistics upgrades and incentives for Upper Egypt.",
+   "figure": "112 proposals",
+   "category": "trade",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/09/20/egyptian-pm-advances-national-export-development-strategy-to-drive-non-petroleum-trade-growth/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c9e0fdc1e597",
+   "date": "2026-09-13",
+   "title": "CATL and BME sign EGP 2bn EV battery plant deal",
+   "summary": "BME Battery Manufacturing and China's CATL signed an initial EGP 2bn+ ($39m) battery plant: 1 GWh a year for heavy commercial vehicles, rising to 5 GWh for cars and energy storage, with 40% local components. It is Egypt's first major EV battery link with the world's largest maker.",
+   "figure": "EGP 2bn",
+   "category": "investment",
+   "sectors": [
+    "batteries",
+    "electric vehicles"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypt-signs-deal-with-chinas-catl-to-build-ev-battery-plant/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-62a1250eaf65",
+   "date": "2026-09-09",
+   "title": "Sovereign fund creates EGP 10bn industrial sub-fund for exporters",
+   "summary": "The Sovereign Fund of Egypt set up an EGP 10bn (about $196m) industrial sub-fund with EGP 500m paid in, to back export-oriented textiles, food, pharma, auto components and electronics. It supports the $100bn non-oil export goal for 2030.",
+   "figure": "EGP 10bn",
+   "category": "trade",
+   "sectors": [
+    "automotive components",
+    "electronics",
+    "food",
+    "pharmaceuticals",
+    "textiles"
+   ],
+   "source": "Arab News",
+   "url": "https://www.arabnews.com/business/egypt-establishes-196m-industrial-investment-sub-fund-to-boost-exports-3001044",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-5a6eb541347a",
+   "date": "2026-09-09",
+   "title": "Non-oil trade deficit widens 11% to $20.8bn in H1 2026",
+   "summary": "Non-oil exports excluding gold rose 12% to $23.3bn in H1 2026, but non-gold imports rose 11.5% to $44bn, widening the non-oil deficit to $20.8bn. The EU cut temporary tariffs on Egyptian glass-fibre products from 26% to 11%.",
+   "figure": "$20.8bn deficit",
+   "category": "trade",
+   "sectors": [
+    "building materials",
+    "chemicals",
+    "engineering",
+    "food"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-non-oil-trade-deficit-widens-11-in-h1-2026/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-69b94157a8c7",
+   "date": "2026-09-08",
+   "title": "Sovereign fund sets up EGP 10bn industrial investment sub-fund",
+   "summary": "The Sovereign Fund of Egypt created an industrial sub-fund with EGP 10bn authorised and EGP 500m paid-in capital. It targets export-oriented firms in auto components, electronics, food, textiles and pharma.",
+   "figure": "EGP 10bn",
+   "category": "investment",
+   "sectors": [
+    "industrial finance"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/09/08/egypt-establishes-egp-10bn-industrial-investment-sub-fund-to-boost-exports/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-154c8e6f705e",
+   "date": "2026-09-07",
+   "title": "June exports up 37% but trade deficit surges to $7.5bn",
+   "summary": "CAPMAS: June 2026 exports rose 37.4% to $5bn, but imports jumped 49.4% to $12.4bn, so the deficit widened 58.5% to $7.5bn. Garments rose 47.7%; fertilisers (-12%) and pharmaceuticals (-13.2%) fell.",
+   "figure": "$7.5bn deficit",
+   "category": "trade",
+   "sectors": [
+    "fertilisers",
+    "food",
+    "pharmaceuticals",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/09/07/egyptian-exports-rise-37-4-to-5bn-in-june-2026/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-df9f66ebd07a",
+   "date": "2026-09-06",
+   "title": "Economy grows 5.1% in FY2025/26, non-oil manufacturing up 9%",
+   "summary": "The Planning Ministry said GDP grew 5.1% in FY2025/26 (4.4% the year before), beating the IMF's 4.6% forecast, while Q4 growth slowed to 4.7% from 5.0%. Non-oil manufacturing grew 9% for the year and was the largest single contributor to growth.",
+   "figure": "FY GDP +5.1%; Q4 +4.7%; non-oil mfg +9%",
+   "category": "pmi",
+   "sectors": [
+    "extractive industries",
+    "manufacturing"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/09/06/egypts-economy-grew-5-1-in-fy-2025-26-beating-the-imfs-forecast/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-cd9a40223915",
+   "date": "2026-09-06",
+   "title": "Nine Sokhna factories worth $84.5m inaugurated",
+   "summary": "Madbouly opened nine projects worth $84.5m in the Sokhna zone, creating about 2,000 jobs, including a $10m NaTrans phosphate fertilizer plant (100,000 tonnes) and a $12m door factory. Sectors span building materials, chemicals, textiles and medical supplies.",
+   "figure": "$84.5m",
+   "category": "investment",
+   "sectors": [
+    "building materials",
+    "chemicals",
+    "fertilizers",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/09/06/madbouly-inaugurates-nine-industrial-projects-in-sokhna-with-84-5m-investments/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-fdf4fe4a9f3d",
+   "date": "2026-09-03",
+   "title": "Egypt PMI jumps to 49.6 in August, seven-month high",
+   "summary": "The PMI rose to 49.6 in August 2026 from 46.8, the softest decline since January, with employment rising for the first time since October 2025 at the second-fastest pace on record. Input and output prices accelerated again, and purchasing fell sharply on material shortages and Strait of Hormuz disruption.",
+   "figure": "PMI 49.6 (Jul 46.8)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "FX.co (Trading Economics)",
+   "url": "https://www.fx.co/en/forex-news/3137929",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-6268e2eee7ea",
+   "date": "2026-08-26",
+   "title": "'Qeema' certificate to link incentives to factory performance",
+   "summary": "The reconstituted Industrial Product Preference Committee (PM Decision 2286/2026) is studying a 'Qeema' certificate that grades factories and adjusts their price advantage in government tenders by local content and value added. Ties procurement preference, effectively a public cost, to measurable performance.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/08/26/industry-ministry-studies-qeema-certification-to-link-incentives-to-industrial-performance/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-2fb6c1ac3067",
+   "date": "2026-08-21",
+   "title": "Golden licence for $12m leather shoe factory in Robiki",
+   "summary": "The cabinet approved a golden licence for Sky Nova's $12m leather plant in Robiki Leather City, targeting 2.5m pairs of shoes a year, 1,000 jobs and $148.4m of exports in 2027–2032.",
+   "figure": "$12m",
+   "category": "policy",
+   "sectors": [
+    "footwear",
+    "leather"
+   ],
+   "source": "SEE News",
+   "url": "https://see.news/egypt-cabinet-approves-750m-solar-project-12m-leather-factory-new-investment-measures",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-6556a53e1c9a",
+   "date": "2026-08-20",
+   "title": "Study sees $30bn untapped non-oil export potential by 2030",
+   "summary": "A Strategic Gears report estimates $30bn in untapped non-oil export revenue by 2030. Textiles, food, base metals and chemicals make up over 70% of the competitive export base.",
+   "figure": "$30bn",
+   "category": "trade",
+   "sectors": [
+    "base metals",
+    "chemicals",
+    "food",
+    "textiles"
+   ],
+   "source": "Consultancy-me.com",
+   "url": "https://www.consultancy-me.com/news/14165/egypt-has-opportunity-to-unlock-30-billion-in-non-oil-export-revenue-strategic-gears-report",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-01827573e6c5",
+   "date": "2026-08-20",
+   "title": "Industrial production index rises 5.1% in June 2026",
+   "summary": "CAPMAS said the manufacturing and extractive index rose 5.1% to 136.44 in June 2026 from 129.81, led by beverages (+22.5%) and printing (+16.2%). Chemicals fell 23.5%.",
+   "figure": "Index 136.44 (+5.1% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "beverages",
+    "chemicals",
+    "manufacturing"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-manufacturing-extractive-industries-output-rises-5-1-in-june-capmas/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-68e4e3cf3b21",
+   "date": "2026-08-11",
+   "title": "EGP 6bn third instalment for exporter arrears",
+   "summary": "The Finance Ministry allocated EGP 6bn as a third instalment of overdue export support for shipments before July 2024, with payments from 22 October; the FY budget carries EGP 48bn for export support.",
+   "figure": "EGP 6bn",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing",
+    "exports"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContentP/3/574388/Business/Egypt-allocates-EGP--bln-third-instalment-for-expo.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-85929e7feebc",
+   "date": "2026-08-10",
+   "title": "SCZone signs EGP 2.4bn ready-built factory complex in West Qantara",
+   "summary": "SCZone and Capital Company for Factory Management signed an EGP 2.4bn ($48m) project for prefabricated factories for lease in West Qantara. The zone now hosts 54 projects worth about $1.54bn and 68,915 jobs.",
+   "figure": "EGP 2.4bn",
+   "category": "investment",
+   "sectors": [
+    "industrial zones"
+   ],
+   "source": "Zawya",
+   "url": "https://www.zawya.com/en/economy/north-africa/sczone-pens-48mln-contract-for-industrial-project-in-egypts-west-qantara-zone-426235",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-161ce585430e",
+   "date": "2026-08-09",
+   "title": "May exports rise 3.6% and trade deficit edges down",
+   "summary": "CAPMAS: May 2026 exports rose 3.58% to $4.53bn and imports rose 1.72% to $8.52bn, leaving the deficit flat at $3.99bn. Plastics (+29.1%) and fertilisers (+9.4%) recovered.",
+   "figure": "$3.99bn deficit",
+   "category": "trade",
+   "sectors": [
+    "chemicals",
+    "fertilisers",
+    "plastics"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-exports-rise-3-58-in-may-trade-deficit-falls-capmas/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-9a9d41d4c110",
+   "date": "2026-08-05",
+   "title": "Decree 171 eases industrial land transfer and activity changes",
+   "summary": "Ministerial Decree No. 171 of 2026 scraps the three-year operating rule before transferring factory ownership, allows sector changes with IDA approval, and sets new grace periods for delayed projects. Makes industrial assets easier to sell or refinance.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/08/05/egypt-eases-industrial-land-transfer-rules-activity-changes-and-relief-measures-for-delayed-projects/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-e5d2f33a3574",
+   "date": "2026-08-04",
+   "title": "Egypt PMI edges up to 46.8 in July, still contracting",
+   "summary": "The PMI rose to 46.8 in July 2026 from 46.0, a seventh month below 50, with output falling at the slowest pace in four months. Input cost inflation eased to a six-month low and business confidence hit its strongest since mid-2022.",
+   "figure": "PMI 46.8 (Jun 46.0)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "S&P Global",
+   "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/1a8765e159c14fe19b3f9a72434c1058",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-640e0c5e01a8",
+   "date": "2026-07-30",
+   "title": "Industrial production index falls 4.3% in May 2026",
+   "summary": "CAPMAS said the manufacturing and extractive index fell 4.3% to 130.02 in May 2026 from 135.79. Mining (+9.5%) and chemicals (+10.7%, fertilisers and paints) rose, while food (-10.8%) and textiles (-10.3%) fell.",
+   "figure": "Index 130.02 (-4.3% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "chemicals",
+    "food",
+    "manufacturing",
+    "mining",
+    "textiles"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-manufacturing-extractive-industries-index-falls-4-3-in-may/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-e3a442511eaf",
+   "date": "2026-07-28",
+   "title": "Industrial investment fund and 2.8m tonnes of iron licences planned",
+   "summary": "Minister Hashem said Egypt will launch its first industrial investment fund in September, issue iron licences totalling about 2.8m tonnes a year, drop the 25% upfront land payment through lease-to-own, and expand industrial developers from about 16 to 30.",
+   "figure": "2.8m tonnes iron capacity",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing",
+    "steel"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/07/28/egypt-to-launch-industrial-investment-fund-issue-new-iron-production-licences/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-b4fbe090a253",
+   "date": "2026-07-28",
+   "title": "US raises tariff on Egyptian goods to 12.5%",
+   "summary": "From 24 July 2026 the US applies a 12.5% tariff on Egyptian goods under a forced-labour enforcement regime, replacing the expired 10% surcharge. This weakens Egypt's low-tariff advantage; the US imported $1.4bn from Egypt in January-May 2026.",
+   "figure": "12.5%",
+   "category": "trade",
+   "sectors": [
+    "all manufacturing",
+    "textiles"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/logistics/2026/07/28/the-us-raised-egypts-tariff-to-12-5-while-cairo-opened-its-market-wider-to-us-cars/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-95b4dbf77b8d",
+   "date": "2026-07-28",
+   "title": "Siemens opens switchgear and automation factory in Egypt",
+   "summary": "Siemens inaugurated a factory making switchgear, substation control and protection systems, alongside a Siemens Power Academy. It localises grid equipment supporting Egypt's 45% renewables target by 2028; no investment figure was given.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "electrical equipment"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/07/28/siemens-opens-electrification-automation-factory-in-egypt-to-boost-local-manufacturing/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-690997d547e6",
+   "date": "2026-07-28",
+   "title": "Garment exports rise 15% to $1.78bn in H1 2026",
+   "summary": "Ready-made garment exports reached $1.78bn in H1 2026 (+15%), and June alone was $355m (+47%). Europe ($767m) overtook the US ($693m); the council targets $4bn for the year.",
+   "figure": "$1.78bn",
+   "category": "trade",
+   "sectors": [
+    "garments",
+    "textiles"
+   ],
+   "source": "Egypt Today",
+   "url": "https://www.egypttoday.com/Article/3/148581/Egypt%E2%80%99s-Garment-exports-rise-15-to-1-78B-in-H1",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-8a30c339b36c",
+   "date": "2026-07-27",
+   "title": "$100m Eipico 3 pharmaceutical factory opens in 10th of Ramadan",
+   "summary": "Eipico's third factory, worth over $100m, makes advanced injectables for cancer, blood and kidney diseases. Eipico's three plants employ 5,000 and account for 25% of Egypt's pharmaceutical exports.",
+   "figure": "$100m",
+   "category": "investment",
+   "sectors": [
+    "pharmaceuticals"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContent/3/14/573533/Business/Markets--Companies/Egypt-inaugurates--mln-Eipico-pharmaceutical-facto.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-a2e77d13f2ad",
+   "date": "2026-07-22",
+   "title": "Two export-support instalments worth EGP 12.6bn paid in one year",
+   "summary": "The Finance Ministry paid two arrears instalments in FY2025/26: EGP 5.3bn and EGP 7.3bn, totalling EGP 12.6bn, to 2,500 exporters. Half of dues are paid in cash and half through offsets against tax and customs.",
+   "figure": "EGP 12.6bn",
+   "category": "trade",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContentP/3/573316/Business/Egypt-ahead-of-schedule-on-export-support-payments.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-df1f6154e738",
+   "date": "2026-07-20",
+   "title": "Building materials exports jump 36% to $14.9bn in 2025",
+   "summary": "Building materials exports reached $14.875bn in 2025, up from $10.872bn, about 30% of non-oil exports. They totalled $4.8bn in the first five months of 2026.",
+   "figure": "$14.9bn",
+   "category": "trade",
+   "sectors": [
+    "building materials",
+    "metallurgy"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/07/20/egypts-building-materials-exports-jump-36-to-14-9bn-in-2025/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c18adbff33da",
+   "date": "2026-07-16",
+   "title": "Turkish Ukinox signs $14m stainless steel sink plant in Sokhna",
+   "summary": "Ukinox will invest $14m in a 37,000 sq m Sokhna plant making 1.2 million stainless steel kitchen sinks a year, creating 220 jobs, with production from mid-2028. It expands engineering exports from the zone.",
+   "figure": "$14m",
+   "category": "investment",
+   "sectors": [
+    "engineering",
+    "metal products"
+   ],
+   "source": "Logistics Update Africa",
+   "url": "https://www.logupdateafrica.com/amp/trade/sczone-secures-14mn-turkish-factory-to-boost-exports-from-sokhna-1359905",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-297d82c0efce",
+   "date": "2026-07-16",
+   "title": "SCZone FY2025/26: $7.26bn in 117 new projects, record revenue",
+   "summary": "SCZone contracted 117 new projects worth $7.26bn in FY2025/26, expected to create about 73,500 direct jobs, while revenue rose 37% to a record EGP 15.9bn. Cumulative investment reached $16bn across 412 projects.",
+   "figure": "$7.26bn",
+   "category": "investment",
+   "sectors": [
+    "industrial zones"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=572953",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-f30cd910a6e5",
+   "date": "2026-07-15",
+   "title": "Ceramics factories commit to cut gas use up to 25%",
+   "summary": "Twenty-five ceramics and sanitary-ware factories agreed plans to cut natural gas use by up to 25% and electricity by 15%, backed by rooftop solar under the 'Industry Sun' initiative and green financing. Reduces demand on subsidised, partly imported gas.",
+   "figure": "Gas use -25%",
+   "category": "policy",
+   "sectors": [
+    "building materials",
+    "ceramics"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/07/15/ceramics-factories-to-cut-natural-gas-use-by-25-under-egypts-new-industrial-energy-plan/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-901b3b48bcc9",
+   "date": "2026-07-14",
+   "title": "Exporter arrears repayment up 55% to EGP 28bn",
+   "summary": "Egypt repaid EGP 28bn of overdue export subsidies in FY2025/26, up 55%, and aims to clear all arrears within two years. These are a recurring budget liability that improves exporters' liquidity.",
+   "figure": "EGP 28bn",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing",
+    "exports"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=572835",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c586e6067570",
+   "date": "2026-07-13",
+   "title": "Karnak Textile to build $15m export garment factory in Sadat City",
+   "summary": "Karnak Textile will invest $15m in a garment factory in Sadat City, creating about 3,500 jobs and exporting its entire output to the EU and US from May 2027. At least half of inputs will be sourced locally.",
+   "figure": "$15m",
+   "category": "investment",
+   "sectors": [
+    "garments",
+    "textiles"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/07/13/egypt-bets-on-export-led-manufacturing-with-15m-garment-investment/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-b7bfbd571dbc",
+   "date": "2026-07-13",
+   "title": "April exports climb 21% but deficit widens to $4.8bn",
+   "summary": "CAPMAS: April 2026 exports rose 21.1% to $5.1bn and imports rose 20.7% to $9.9bn, so the deficit grew to $4.8bn. Garments (+30%) gained, while fertilisers (-58.4%) and iron products (-37.6%) fell.",
+   "figure": "$5.1bn exports",
+   "category": "trade",
+   "sectors": [
+    "fertilisers",
+    "steel",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/07/13/egypts-exports-climb-21-1-to-5-1bn-in-april-2026/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-9f421397a81b",
+   "date": "2026-07-08",
+   "title": "Industrial production index rises 7.8% in April 2026",
+   "summary": "CAPMAS said the manufacturing and extractive index rose 7.8% to 137.88 in April 2026 from 127.87, led by beverages (+19.6%) and ready-made garments (+16.5%). Food and pharmaceuticals declined.",
+   "figure": "Index 137.88 (+7.8% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "beverages",
+    "garments",
+    "manufacturing",
+    "pharmaceuticals"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-manufacturing-extractive-industries-index-rises-7-8-in-april/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-98e8b64afef1",
+   "date": "2026-07-07",
+   "title": "Egypt June PMI falls to 46.0, lowest in 3.5 years",
+   "summary": "The PMI fell to 46.0 in June 2026 from 47.1, the lowest since January 2023, with new orders falling at the fastest pace since November 2022. Firms cited liquidity constraints, raw material shortages and supply disruptions, though they stayed fairly optimistic about future output.",
+   "figure": "PMI 46.0 (May 47.1)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "Zawya",
+   "url": "https://www.zawya.com/en/economy/north-africa/egypts-june-pmi-falls-to-lowest-in-nearly-35-years-uxjxovb9",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-f18e61b24256",
+   "date": "2026-06-23",
+   "title": "VAT law amended: longer machinery suspension, faster refunds",
+   "summary": "Parliament passed VAT changes extending the VAT suspension on industrial machinery from 2 to 4 years, giving local machinery makers deduction rights, cutting refund time from 6 to 4 months and medical-equipment VAT to 5%. Offsetting revenue: 14% VAT on soap, detergents and gypsum and a EGP 20 per 1,000 cubic feet tax on natural gas.",
+   "figure": "Machinery VAT suspension 2→4 years",
+   "category": "policy",
+   "sectors": [
+    "building materials",
+    "detergents",
+    "machinery",
+    "medical devices",
+    "pharmaceuticals"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContent/3/12/571441/Business/Economy/Egypt-passes-VAT-reform-package-to-support-industr.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-07bd4f7179fa",
+   "date": "2026-06-21",
+   "title": "MSMEDA financed EGP 3bn of industrial projects since 2022",
+   "summary": "MSMEDA financed about EGP 3bn of industrial projects between January 2022 and April 2026; productive projects were 30% of its financing in 2025. Shows the modest scale of state small-industry lending relative to larger initiatives.",
+   "figure": "EGP 3bn",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing",
+    "smes"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/06/21/msmeda-finances-industrial-projects-worth-over-egp-3bn-in-2022-2026-ceo/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-d2b7386c688c",
+   "date": "2026-06-15",
+   "title": "China's ROX Motor and El Sewedy to make EVs locally",
+   "summary": "ROX Motor and Ezz El Arab El Sewedy Industrial Investment Group agreed to manufacture ROX range-extended electric vehicles in Egypt. It supports the target of 100,000 vehicles a year by 2030 under the auto industry programme.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "automotive",
+    "electric vehicles"
+   ],
+   "source": "Arab News",
+   "url": "https://www.arabnews.com/node/2647257/business-economy",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-68e482dd29c4",
+   "date": "2026-06-10",
+   "title": "Updated Industrial Development Strategy 2030 targets $100bn exports",
+   "summary": "Minister Hashem unveiled the updated strategy targeting $100bn in exports by 2030, with seven priority industries (garments, textiles, food, pharma, autos, electrical/engineering, electronics) and 1,000MW of factory solar in two years under the 'Sun of Industry' initiative.",
+   "figure": "$100bn exports by 2030",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "electronics",
+    "food",
+    "garments",
+    "pharmaceuticals",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/06/10/egypt-unveils-updated-industrial-development-strategy-2030-targets-100bn-in-exports/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-dee54e17ef5b",
+   "date": "2026-06-07",
+   "title": "PM opens Alexandria industrial projects supporting 20,700 jobs",
+   "summary": "Madbouly opened factories in Alexandria including Turkish-owned Jade Textile (target exports $250-500m a year), Gharably steel fabrication, Shahinler garments and an Alstom rail complex. Together they support over 20,700 direct jobs.",
+   "figure": "20,700 jobs",
+   "category": "investment",
+   "sectors": [
+    "food processing",
+    "rail equipment",
+    "steel",
+    "textiles"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/570292.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-86be6db1bef8",
+   "date": "2026-06-03",
+   "title": "Egypt PMI at 47.1 in May as input prices surge",
+   "summary": "The PMI rose slightly to 47.1 in May 2026 from 46.6 but stayed in contraction for a fifth month; input prices rose at the fastest rate since January 2023 on fuel, electricity and currency depreciation. Job cuts were the fastest since June 2020 and delivery times lengthened the most in nearly four years.",
+   "figure": "PMI 47.1 (Apr 46.6)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "S&P Global (via Enterprise)",
+   "url": "https://ent.news/2026/6/272.pdf",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-69bdf3f9720f",
+   "date": "2026-06-03",
+   "title": "March trade deficit widens 48.8% as fertiliser exports fall",
+   "summary": "CAPMAS: March 2026 exports fell 2.5% to $4.6bn and imports rose 17.8% to $9.3bn, widening the deficit to $4.6bn. Fertiliser exports fell 23.3%; imports of iron and steel inputs fell 31.5%.",
+   "figure": "$4.6bn deficit",
+   "category": "trade",
+   "sectors": [
+    "fertilisers",
+    "food",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/06/03/egypts-trade-deficit-widens-48-8-to-4-6bn-in-march-amid-rising-imports/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-6a79c69dbe7c",
+   "date": "2026-06-01",
+   "title": "Budget support package detailed: EGP 48bn for export rebates",
+   "summary": "Kouchouk detailed the FY2026/27 support package as EGP 90bn: EGP 48bn export rebates, about EGP 5bn for the automotive industry, EGP 6bn productive-sector financing, EGP 5bn small business and EGP 2bn priority-industry incentives. Note this source gives EGP 90bn versus EGP 80bn cited elsewhere.",
+   "figure": "EGP 90bn (EGP 48bn rebates)",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "exports",
+    "smes",
+    "tourism"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypt-allocates-egp-90-bln-in-fy2026-27-budget-to-support-exports-industry/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-09429b5c6437",
+   "date": "2026-05-25",
+   "title": "New seven-year export incentives for electronics and semiconductor design",
+   "summary": "The Investment and ICT ministries, ITIDA and the Export Development Fund agreed a seven-year incentive scheme from FY2025/26. It pays exporters in electronics design, semiconductors and embedded systems based on export growth and jobs created, which adds to future export-support commitments.",
+   "figure": "7 years",
+   "category": "trade",
+   "sectors": [
+    "electronics",
+    "semiconductors"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/569666.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-6b8d7636ddbc",
+   "date": "2026-05-24",
+   "title": "Industrial production index rises 6.6% in March 2026",
+   "summary": "CAPMAS said the manufacturing and extractive index rose 6.6% to 128.14 in March 2026 from 120.21, led by food products (+21.6%) and chemicals (+17.2%). Tobacco and electrical equipment declined.",
+   "figure": "Index 128.14 (+6.6% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "chemicals",
+    "food",
+    "manufacturing",
+    "tobacco"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-manufacturing-extractive-industries-index-rises-6-6-in-march-capmas/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-0afb69edbc00",
+   "date": "2026-05-08",
+   "title": "Trade deficit up 49% to $10.3bn in January-February 2026",
+   "summary": "CAPMAS: exports fell to $8bn in January-February 2026 (down $1.2bn) while imports rose to $18.3bn, widening the deficit 49%; non-petroleum exports fell $1.5bn. In February alone the deficit rose 87.5% to $5.1bn.",
+   "figure": "$10.3bn deficit",
+   "category": "trade",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContent/3/12/567522/Business/Economy/Egypt%E2%80%99s-trade-deficit-rises--to--billion-in-JanFeb.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-255afbcc5a9d",
+   "date": "2026-05-07",
+   "title": "Egypt imposes $90-per-ton export tax on nitrogen fertilisers",
+   "summary": "A three-month export levy of $90 per tonne on nitrogen fertilisers took effect on 5 May 2026 to secure domestic supply as world prices rose with the Hormuz disruption. Egypt exported about 3.54m tonnes in 2024, so the tax brings in revenue but may reduce FX earnings from the sector.",
+   "figure": "$90/ton",
+   "category": "trade",
+   "sectors": [
+    "chemicals",
+    "fertilisers"
+   ],
+   "source": "Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news/0705-55342-egypt-introduces-fertilizer-export-tax-amid-global-market-tensions",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-11f6ad340958",
+   "date": "2026-05-06",
+   "title": "GDP grows 5% in Q3 FY2025/26 as non-oil manufacturing slows",
+   "summary": "GDP grew 5% in January–March 2026 (4.8% a year earlier), beating a 4.6% projection, but non-oil manufacturing growth slowed sharply to 2.1%. Wood products (+60%), motor vehicles (+27%) and chemicals (+10%) still grew strongly.",
+   "figure": "GDP +5.0%; non-oil mfg +2.1%",
+   "category": "pmi",
+   "sectors": [
+    "automotive",
+    "chemicals",
+    "manufacturing"
+   ],
+   "source": "Egypt Today",
+   "url": "https://www.egypttoday.com/Article/3/146957/Egypt-posts-5-GDP-growth-in-Q3-FY2025-2026",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-414ec78905eb",
+   "date": "2026-05-05",
+   "title": "SCZone attracted $7.1bn of investment in FY2025/26",
+   "summary": "SCZone attracted $7.1bn in FY2025/26, including $1.8bn in the past two months, and $16bn over about three years and nine months. The zone is pitching itself as a hub as shipping routes shift.",
+   "figure": "$7.1bn",
+   "category": "investment",
+   "sectors": [
+    "industrial zones"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/567340.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-3b00735ede47",
+   "date": "2026-05-05",
+   "title": "Egypt PMI drops to 46.6 in April, steepest fall since 2023",
+   "summary": "The PMI fell to 46.6 in April 2026 from 48.0, the sharpest deterioration since January 2023, with new orders down markedly in manufacturing and wholesale. Input prices rose at the fastest rate since early 2023 and selling prices at the fastest since August 2024; S&P links the reading to about 3.9% GDP growth.",
+   "figure": "PMI 46.6 (Mar 48.0)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector",
+    "wholesale"
+   ],
+   "source": "S&P Global",
+   "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/6da6b456a57e437297aa6776bd1e0a40",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-fb004f16c8c0",
+   "date": "2026-05-03",
+   "title": "Industry minister targets $99bn non-oil exports by 2030",
+   "summary": "Minister of Industry Khaled Hashem set a $99bn non-oil export target for 2030. He launched a digital platform for environmental verification and conformity assessment to cut exporters' compliance time.",
+   "figure": "$99bn target",
+   "category": "trade",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/05/03/egypt-targets-99bn-in-non-oil-exports-by-2030/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-38365a5eee02",
+   "date": "2026-05-03",
+   "title": "Industrial gas prices raised about $2/MMBtu by decree",
+   "summary": "PM Decree No. 1306 of 2026 raised gas prices: cement to $14/MMBtu, steel, non-nitrogen fertiliser and petrochemicals to $7.75, other industry to $6.75, and the petrochemical ethane/propane floor to $6.50 from $4.50. Narrows the gap with supply cost (cutting subsidy costs) but feeds into product prices.",
+   "figure": "+~$2/MMBtu",
+   "category": "policy",
+   "sectors": [
+    "cement",
+    "fertilisers",
+    "petrochemicals",
+    "steel"
+   ],
+   "source": "Manassa",
+   "url": "https://manassa.news/en/news/31701",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-e4dae2136075",
+   "date": "2026-05-01",
+   "title": "New relief package for delayed industrial projects to year-end",
+   "summary": "After earlier grace periods expired in April, the Industry Ministry issued new tiered grace periods (6–18 months) and penalty exemptions valid 1 May–31 December 2026, and let withdrawn land be re-offered to original investors at market prices.",
+   "figure": "6–18 month grace periods",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContent/3/12/567031/Business/Economy/Egypt-rolls-out-new-incentives-for-industrial-proj.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-9c7a8a011722",
+   "date": "2026-04-28",
+   "title": "Turkish firms sign $8m garment plant in West Qantara",
+   "summary": "Dinamik Raus Tekstil and YILTEM Apparel will invest $8m in a 21,000 sq m, 90% export-oriented garment plant creating about 700 jobs. Turkish investment in West Qantara now totals over $560m across 15 projects.",
+   "figure": "$8m",
+   "category": "investment",
+   "sectors": [
+    "garments",
+    "textiles"
+   ],
+   "source": "Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news-industry/2804-55059-egypt-s-suez-canal-zone-signs-8-mln-turkish-textile-plant-deal",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-4e68b8081642",
+   "date": "2026-04-24",
+   "title": "Nissan to invest $45m to expand Cairo car plant",
+   "summary": "Nissan will add a $45m line raising output by at least 10,000 vehicles a year at its Cairo plant (about 30,000 now), with over half the parts sourced locally. Egypt is positioned as its African export hub.",
+   "figure": "$45m",
+   "category": "investment",
+   "sectors": [
+    "automotive"
+   ],
+   "source": "Just Auto",
+   "url": "https://www.just-auto.com/news/nissan-plans-45m-egypt-expansion/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-6458a1edf83b",
+   "date": "2026-04-23",
+   "title": "PM opens nine SCZone factories worth $182.5m in Sokhna",
+   "summary": "Nine plants worth $182.5m opened in the Sokhna zone, creating 1,300+ jobs, led by Modern Hygienic International's $100m paper and hygiene products facility. Others include glassware, textiles, recycling and chemicals.",
+   "figure": "$182.5m",
+   "category": "investment",
+   "sectors": [
+    "chemicals",
+    "glass",
+    "paper",
+    "textiles"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContentP/3/566564/Business/Egypt-inaugurates--mln-industrial-projects-in-SCZo.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-f6113a85c1aa",
+   "date": "2026-04-22",
+   "title": "Industrial production index rises 1.5% in February 2026",
+   "summary": "CAPMAS said the manufacturing and extractive index rose 1.5% to 120.69 in February 2026 from 118.88. Motor vehicles (+29.3%) and pharmaceuticals (+9.1%) grew, while textiles fell 7.4% during Ramadan.",
+   "figure": "Index 120.69 (+1.5% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "automotive",
+    "manufacturing",
+    "pharmaceuticals",
+    "textiles"
+   ],
+   "source": "Egypt Today",
+   "url": "https://www.egypttoday.com/Article/3/146609/Egypt%E2%80%99s-manufacturing-index-rises-1-5-in-February-2026",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-d75420ca3055",
+   "date": "2026-04-22",
+   "title": "Pharco opens EGP 500m eye-drops line in Alexandria",
+   "summary": "Pharco launched an eye-drops production line in Amreya, Alexandria, within an EGP 500m+ investment, with capacity of 20 million packs a year. It can cover about 19% of Egypt's demand and cut import reliance.",
+   "figure": "EGP 500m",
+   "category": "investment",
+   "sectors": [
+    "pharmaceuticals"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/04/22/pharco-launches-egp-500m-eye-drops-production-line-with-annual-capacity-of-20-million-packs/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-2d7e3474e2ef",
+   "date": "2026-04-22",
+   "title": "FY2026/27 budget earmarks EGP 80bn for production and exports",
+   "summary": "Finance Minister Kouchouk said the 2026/27 budget allocates EGP 80bn to production, manufacturing, entrepreneurship and exports, including EGP 48bn for export rebates and EGP 6bn financing for productive sectors. Total spending is projected at EGP 5.1 trillion, with energy support at EGP 120bn.",
+   "figure": "EGP 80bn",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing",
+    "exports",
+    "tourism"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/04/22/egp-80bn-allocated-in-fy2026-27-budget-to-boost-production-exports-finance-minister/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-4157fef06c49",
+   "date": "2026-04-15",
+   "title": "EU imposes 11% anti-dumping duty on Egyptian glass fibre",
+   "summary": "The European Commission imposed definitive anti-dumping duties of 11.0% on continuous filament glass fibre from Egypt, which supplies about 200,000 of the 1 million tonnes the EU uses each year. This raises costs for a sizeable export line to Egypt's largest regional market.",
+   "figure": "11% duty",
+   "category": "trade",
+   "sectors": [
+    "building materials",
+    "glass fibre"
+   ],
+   "source": "European Commission (DG Trade)",
+   "url": "https://policy.trade.ec.europa.eu/news/commission-acts-against-unfairly-traded-imports-glass-fibre-2026-04-15_en",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-057683fc0e77",
+   "date": "2026-04-15",
+   "title": "Exceptional incentives promised to lure global carmakers",
+   "summary": "PM Madbouly said Egypt will offer exceptional incentives to international carmakers, with EV priority; criteria include minimum volumes and local-content ratios, and Investment Law 72/2017 incentives are being studied. A working group includes the Finance Ministry, implying future tax-expenditure costs.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "electric vehicles"
+   ],
+   "source": "Egypt Today",
+   "url": "https://www.egypttoday.com/Article/3/146423/Egypt-to-offer-exceptional-incentives-to-attract-global-automakers",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-2bf2bcec8e9d",
+   "date": "2026-04-08",
+   "title": "Indorama to build $525m phosphate fertilizer complex in Sokhna",
+   "summary": "Indorama signed a $525m first phase of a 600,000-tonne-a-year phosphate fertilizer and chemicals complex on 522,000 sq m in Sokhna, with 80% of output for export. It will create 2,500 operational and 500 construction jobs.",
+   "figure": "$525m",
+   "category": "investment",
+   "sectors": [
+    "chemicals",
+    "fertilizers"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/04/08/indorama-to-invest-525m-in-egypt-fertiliser-plant-targeting-80-exports/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-8e116c44c45d",
+   "date": "2026-04-06",
+   "title": "January 2026 exports fall 20% as fertiliser shipments drop",
+   "summary": "CAPMAS: exports fell 20.3% to $3.6bn in January 2026 and the trade deficit widened 15% to $4.8bn. Fertiliser exports fell 47.1% and plastics 21.3%.",
+   "figure": "$4.8bn deficit",
+   "category": "trade",
+   "sectors": [
+    "chemicals",
+    "fertilisers",
+    "plastics"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/04/06/egypts-trade-deficit-widens-to-4-8bn-in-january-2026-capmas/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-f258bdcd66b7",
+   "date": "2026-04-05",
+   "title": "Electricity tariffs raised about 20% for businesses including factories",
+   "summary": "Commercial electricity tariffs, covering businesses and industrial facilities, rose about 20% across all brackets, while households above 2,000 kWh a month face about 16%. Driven by the energy import bill doubling amid the regional war; cuts electricity subsidy costs but raises production costs.",
+   "figure": "~20% commercial tariff rise",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Egyptian Streets",
+   "url": "https://egyptianstreets.com/2026/04/05/egypt-raises-electricity-tariffs-for-high-use-households-and-commercial-users-starting-in-april/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-1863a0273a3c",
+   "date": "2026-04-05",
+   "title": "Middle East war drags Egypt PMI to 48.0 in March",
+   "summary": "The PMI fell to 48.0 in March 2026 from 48.9, the weakest in nearly two years, as the Middle East war hit demand; input costs rose at the sharpest pace since end-2024 on fuel and currency weakness. Firms turned pessimistic about future activity for the first time on record; S&P links the reading to about 4.3% GDP growth.",
+   "figure": "PMI 48.0 (Feb 48.9)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "S&P Global",
+   "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/65d5caaba994437da3d5c020c732d171",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-d1f9a32ebf0e",
+   "date": "2026-04-02",
+   "title": "Steel and billet anti-dumping duties extended three years",
+   "summary": "The Investment Ministry extended duties on imported steel for three years, e.g. cold-rolled 13.7% falling to 12.5% and galvanised 14% to 13%, covering about 1 million tonnes ($1bn) of yearly imports. Protects integrated steelmakers but raises input costs for appliance, electrical and auto makers.",
+   "figure": "12.5–14.5% duties",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "engineering",
+    "home appliances",
+    "steel"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/04/02/egypt-greenlights-three-year-steel-and-billet-anti-dumping-duties-despite-downstream-industry-pushback/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-f6d4e774030c",
+   "date": "2026-03-25",
+   "title": "Industrial production index falls 2% in January 2026",
+   "summary": "CAPMAS said the manufacturing and extractive index fell 2% to 125.89 in January 2026 from 128.47 in December. Food (+19.4%) and beverages rose ahead of Ramadan, while electronics (-53.3%) and motor vehicles (-20.7%) fell.",
+   "figure": "Index 125.89 (-2% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "automotive",
+    "electronics",
+    "food and beverages",
+    "manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/03/25/egypts-manufacturing-extractive-index-declines-2-in-january/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c88ff36a930c",
+   "date": "2026-03-25",
+   "title": "Egyptian urea plants keep full output despite Israeli gas halt",
+   "summary": "Egyptian urea producers kept running at full rates (7.2-7.3m tonnes a year capacity) despite Israel suspending gas exports after the Iran war began. Producers say they remain exposed if gas rationing widens.",
+   "figure": "7.2-7.3m tonnes/yr",
+   "category": "investment",
+   "sectors": [
+    "fertilizers"
+   ],
+   "source": "World Fertilizer",
+   "url": "https://www.worldfertilizer.com/materials-handling/25032026/egyptian-urea-production-continues-to-run-despite-gas-shortages/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-8bfa76357ff4",
+   "date": "2026-03-12",
+   "title": "Trade deficit widens to $4.9bn in December 2025",
+   "summary": "CAPMAS: December 2025 exports rose 6.8% to $4.6bn but imports rose 9.6% to $9.5bn, widening the deficit 12.2% to $4.9bn. Garments (+19.3%) and food preparations (+14.9%) led export growth.",
+   "figure": "$4.9bn deficit",
+   "category": "trade",
+   "sectors": [
+    "food",
+    "textiles"
+   ],
+   "source": "Egypt Today",
+   "url": "https://www.egypttoday.com/Article/3/145547/Egypt%E2%80%99s-trade-deficit-widens-to-4-9-B-in-December",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-df05ee065114",
+   "date": "2026-03-10",
+   "title": "Hormuz closure puts Egypt's fertilizer output at gas-supply risk",
+   "summary": "Egypt makes 7-8 million tonnes of nitrogen fertilizer a year, exporting 40-50%, and could fill a global gap as urea prices jumped 29.3% in a month. But industry sources warned gas could be diverted to power generation, cutting plant output.",
+   "figure": "7-8m tonnes",
+   "category": "investment",
+   "sectors": [
+    "fertilizers"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/03/10/hormuz-strait-closure-leaves-gap-in-global-fertilizer-market-and-also-cuts-off-the-gas-we-need-to-fill-it/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-827abde0bf60",
+   "date": "2026-03-10",
+   "title": "Factories can now be leased after one year of operation",
+   "summary": "Industry Minister Decision No. 73 of 2026 cut the operating period required before a factory in an industrial zone can be leased from three years to one. Aims to put idle production capacity back to use.",
+   "figure": "3 years to 1 year",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/03/10/industry-minister-issues-decision-to-facilitate-factory-leasing-in-industrial-zones/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-1409ebc21e36",
+   "date": "2026-03-10",
+   "title": "Gulf conflict freight costs hit $9bn of Egyptian Gulf-bound exports",
+   "summary": "Higher freight and insurance costs from the regional conflict affect about $9bn of Egyptian goods bound for the Gulf. Some exporters are rerouting to Europe or pausing shipments, a risk to FX earnings from key Gulf markets.",
+   "figure": "$9bn",
+   "category": "trade",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/logistics/2026/03/10/today-rising-freight-costs-reshape-egypts-export-flows-plus-hormuz-standoff-drives-red-sea-gains/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c2ac55dc6c9c",
+   "date": "2026-03-08",
+   "title": "13th industrial land offering: 1,272 serviced plots",
+   "summary": "The Industrial Development Authority offered 1,272 serviced plots totalling about 9.78 million sqm in 35 zones across 23 governorates, with study fees halved, no guarantees and a 10% booking deposit. Expands land supply for manufacturers at reduced upfront cost.",
+   "figure": "1,272 plots, 9.78m sqm",
+   "category": "policy",
+   "sectors": [
+    "building materials",
+    "chemicals",
+    "engineering",
+    "food",
+    "pharmaceuticals",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/03/08/egypt-launches-13th-offering-of-serviced-industrial-land-via-digital-platform/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-f6b2063e8151",
+   "date": "2026-03-03",
+   "title": "Egypt PMI falls to 48.9 as costs jump in February",
+   "summary": "The PMI fell to 48.9 in February 2026 from 49.8, with output falling for the first time since October and job cuts for a third month. Business costs rose at the sharpest rate in nine months on higher oil and metals prices, while firms only marginally raised selling prices, squeezing margins.",
+   "figure": "PMI 48.9 (Jan 49.8)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "S&P Global",
+   "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/55e3b68c83eb4848b7bccc7a998a02b5",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-081594b6a7ec",
+   "date": "2026-02-28",
+   "title": "Subsidised industrial loan scheme expanded, per-client cap EGP 100m",
+   "summary": "Cabinet approved phase two of the concessional financing initiative (phase one launched January 2025 with EGP 30bn): the per-client cap rises to EGP 100m from 75m and related parties to EGP 150m, at rates below 15% for five years. The Finance Ministry pays the interest-rate difference, so higher caps raise budget subsidy costs.",
+   "figure": "EGP 100m per client",
+   "category": "policy",
+   "sectors": [
+    "building materials",
+    "chemicals",
+    "engineering",
+    "food",
+    "metals",
+    "pharmaceuticals",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/02/28/cabinet-approves-expansion-of-concessional-financing-initiative-for-priority-industries/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-7e096e8bc2f5",
+   "date": "2026-02-26",
+   "title": "Egypt seeks wider QIZ access and lower Israeli content rule",
+   "summary": "QIZ exports to the US rose 12% to $1.33bn in 2025, with a $2bn target for 2026. Cairo is negotiating to cut the Israeli-content requirement from 10.5% to 5-8% and to add sectors such as glassware.",
+   "figure": "$1.33bn",
+   "category": "trade",
+   "sectors": [
+    "garments",
+    "glassware",
+    "textiles"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/logistics/2026/02/26/egypt-eyes-expanding-qiz-membership-as-talks-open-to-reduce-israeli-content-requirement/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-14b343010348",
+   "date": "2026-02-25",
+   "title": "Decree 503 grants up to 50% investment tax deductions",
+   "summary": "PM Decree No. 503 of 2026 grants tax deductions of 50% (Sector A: Upper Egypt, New Capital, SCZONE) or 30% (Sector B) of investment costs over seven years, capped at 80% of paid-in capital, for autos, EVs, electric motors, fridge parts, pipes and sulphuric acid. A direct tax expenditure aimed at import substitution.",
+   "figure": "50% / 30% tax deduction",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "chemicals",
+    "electrical appliances",
+    "food processing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/02/25/egypt-pm-expands-industrial-investment-incentives-with-up-to-50-tax-deductions/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c7e256920cff",
+   "date": "2026-02-22",
+   "title": "PM backs plan for five priority industries with feeder chains",
+   "summary": "PM Madbouly reviewed the Industry Ministry's plan for five priority industries, each supported by five feeder industries, plus an industrial investment map, automated licensing and land allocation. Frames the new minister's export-led industrial agenda.",
+   "figure": "5 priority industries",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/02/22/madbouly-explores-accelerating-egypts-export-driven-industrial-strategy/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-4a00d436f5a3",
+   "date": "2026-02-18",
+   "title": "GDP grows 5.3% in Q2 FY2025/26, non-oil industry up 9.6%",
+   "summary": "Planning Minister Ahmed Rostom said GDP grew 5.3% in Q2 FY2025/26, with non-oil industrial activity up 9.6% on localisation policies. Non-oil exports rose 17% to $48.5bn in 2025, and full-year growth was projected at 5.2%.",
+   "figure": "GDP +5.3%; non-oil industry +9.6%",
+   "category": "pmi",
+   "sectors": [
+    "exports",
+    "manufacturing"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/562632.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-967e65afaf51",
+   "date": "2026-02-14",
+   "title": "Khaled Hashem appointed Minister of Industry in reshuffle",
+   "summary": "Khaled Hashem, Honeywell's Middle East and Africa president, replaced Kamel Al-Wazir as Minister of Industry in a cabinet reshuffle, with a mandate to accelerate industrial development and exports. Sets the leadership for industrial policy for the rest of the year.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/02/10/khaled-hashem-appointed-egypts-minister-of-industry-trade/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c969ae6ecbb5",
+   "date": "2026-02-12",
+   "title": "SCZone signs $13m mining and fertilizer projects in Ain Sokhna",
+   "summary": "SCZone signed two deals worth $13m: Al-Atta Group's EGP 515m metals and stone processing complex (up to 10,000 tonnes a year) and Grass Egypt's EGP 94m fertilizer plant. Together they create about 100 jobs from 2027.",
+   "figure": "$13m",
+   "category": "investment",
+   "sectors": [
+    "fertilizers",
+    "mining"
+   ],
+   "source": "The Voice of Africa",
+   "url": "https://thevoiceofafrica.com/2026/02/12/egypts-sczone-signs-13-million-industrial-deals-in-ain-sokhna-to-boost-mining-and-food-manufacturing/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-bf0deb8f879a",
+   "date": "2026-02-04",
+   "title": "Apparel exports projected at $4.4bn in 2026 on foreign investment",
+   "summary": "The garment export council expects exports to rise 22% to $4.4bn in 2026 from $3.6bn in 2025, as new Chinese and Turkish textile plants start up.",
+   "figure": "$4.4bn",
+   "category": "trade",
+   "sectors": [
+    "garments",
+    "textiles"
+   ],
+   "source": "Ecofin Agency",
+   "url": "https://www.ecofinagency.com/news-agriculture/0402-52573-egypt-s-apparel-exports-seen-reaching-4-4b-in-2026-as-chinese-turkish-investment-ramps-up",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-cd274ee3e396",
+   "date": "2026-02-03",
+   "title": "Egypt PMI dips below 50 to 49.8 in January",
+   "summary": "The PMI slipped to 49.8 in January 2026 from 50.2; output rose for a third month on export sales but new orders fell and employment dropped at the sharpest pace since late 2023. Firms cut selling prices for the first time since mid-2020, a disinflationary signal.",
+   "figure": "PMI 49.8 (Dec 50.2)",
+   "category": "pmi",
+   "sectors": [
+    "exports",
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "Trading Economics",
+   "url": "https://tradingeconomics.com/egypt/manufacturing-pmi/news/522440",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-12ae6c74f4b5",
+   "date": "2026-02-03",
+   "title": "Finance ministry reviews tariffs on 150 production inputs",
+   "summary": "The Finance Ministry is reviewing requests from about 80 firms to cut duties on 150 inputs by 10–30% (to effective 2–5%) while raising duties on some finished imports up to 60%. Would shift customs revenue from inputs to finished goods; duty instalments and 29 clearance measures also planned.",
+   "figure": "150 items; inputs to 2–5%",
+   "category": "policy",
+   "sectors": [
+    "automotive glass",
+    "chemicals",
+    "home appliances",
+    "renewables",
+    "textiles"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/02/03/finmin-eyes-150-customs-items-for-overhaul-to-protect-local-industry/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-2ecdf505ecee",
+   "date": "2026-02-02",
+   "title": "Engineering exports hit record $6.5bn in 2025, target $7.5bn",
+   "summary": "Engineering exports rose 13% to a record $6.5bn in 2025, led by cables ($1.5bn) and home appliances ($1.46bn). The council targets $7.5bn in 2026.",
+   "figure": "$6.5bn",
+   "category": "trade",
+   "sectors": [
+    "automotive components",
+    "engineering",
+    "home appliances"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/02/02/egypts-engineering-exports-target-7-5bn-in-2026-after-record-breaking-year/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-63aa4c0b528b",
+   "date": "2026-01-27",
+   "title": "Non-oil exports rise 17% to $48.5bn in 2025",
+   "summary": "Non-oil exports rose 17% to $48.5bn in 2025 and non-oil imports rose 5% to $83.1bn, so the non-oil trade deficit narrowed 9% to $34.4bn. Building materials ($14.8bn) and chemicals/fertilisers ($9.4bn) led; gold exports more than doubled to $7.6bn.",
+   "figure": "$48.5bn",
+   "category": "trade",
+   "sectors": [
+    "building materials",
+    "chemicals",
+    "engineering",
+    "food",
+    "textiles"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContentP/3/561256/Business/Egypt-nonoil-exports-rise-by--to--bln-in-.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-619f5e213c7c",
+   "date": "2026-01-27",
+   "title": "Ezz Steel plans $1.16bn capacity expansion over two years",
+   "summary": "Ezz Steel plans to invest about $1.16bn over two years to expand production as tariffs abroad cut its export revenue from $1.6bn in 2024 to under $1bn in 2025. The company is refocusing on domestic and regional infrastructure demand.",
+   "figure": "$1.16bn",
+   "category": "investment",
+   "sectors": [
+    "steel"
+   ],
+   "source": "SteelOrbis",
+   "url": "https://www.steelorbis.com/steel-news/latest-news/egypts-ezz-steel-to-invest-116-billion-over-two-years-to-expand-production-amid-global-protectionism-1431996.htm",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-99307e691d3e",
+   "date": "2026-01-26",
+   "title": "Solar plants told to buy local panels under preference law",
+   "summary": "Under the Local Product Preference Law, the Industry Ministry notifies solar plant operators that they must source locally made cells and panels if competitively priced; large new factories must also source a share of energy from solar. A local-content tool linking renewable rollout to domestic manufacturing.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "renewable energy",
+    "solar equipment"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/01/26/egypt-elite-solar-review-expansion-plans-local-manufacturing-strategy/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-4bffd741c9f7",
+   "date": "2026-01-26",
+   "title": "Industrial production index falls 5.6% in November 2025",
+   "summary": "CAPMAS said the manufacturing and extractive index fell 5.6% to 119.08 in November 2025 from 126.13. Textiles (+6.9%) and mining and quarrying (+8.6%) rose, while beverages and printing declined.",
+   "figure": "Index 119.08 (-5.6% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "beverages",
+    "manufacturing",
+    "mining",
+    "textiles"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-manufacturing-extractive-industries-index-declines-by-5-6-in-nov-25-capmas/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-e2ed566fc857",
+   "date": "2026-01-21",
+   "title": "Three new cement plant licences and expansions approved",
+   "summary": "The Ministerial Group for Industrial Development approved three new cement factory licences plus expansions at existing plants, expected to produce within a year. Reverses earlier caps on cement capacity to meet domestic demand and expected Gaza reconstruction.",
+   "figure": "3 new licences",
+   "category": "policy",
+   "sectors": [
+    "building materials",
+    "cement"
+   ],
+   "source": "S&P Global",
+   "url": "https://www.spglobal.com/energy/en/news-research/latest-news/fertilizers/012126-egypt-approves-new-cement-factories-expansions-to-meet-demand",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-a2970129c733",
+   "date": "2026-01-21",
+   "title": "Turkish Eroglu to build $175m packaging plant in Qantara West",
+   "summary": "Eroglu Global signed a $175m packaging facility (cartons, Tetra Pak-type units) on 70,000 sq m in Qantara West, creating 2,000 jobs with half of output for export. It is Eroglu's fourth project, making it the zone's largest industrial investor.",
+   "figure": "$175m",
+   "category": "investment",
+   "sectors": [
+    "packaging",
+    "paper"
+   ],
+   "source": "Packaging Gateway",
+   "url": "https://www.packaging-gateway.com/news/sczone-eroglu-packaging-facility/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-74e4584f1ac3",
+   "date": "2026-01-11",
+   "title": "Sungrow battery plant and Scatec solar-storage deals signed worth $1.8bn",
+   "summary": "Egypt signed $1.8bn of deals including Scatec's 1.7 GW solar plus 4 GWh storage project in Minya and a Sungrow battery manufacturing plant in Ain Sokhna's TEDA zone (about 150 jobs, production from April 2027). It adds energy-storage equipment manufacturing to the SCZone.",
+   "figure": "$1.8bn",
+   "category": "investment",
+   "sectors": [
+    "batteries",
+    "renewable energy equipment"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContent/3/12/560283/Business/Economy/Egypt-signs--bln-renewables-and-energy-storage-dea.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-5d0afbaa906b",
+   "date": "2026-01-07",
+   "title": "El Marakby Steel to invest EGP 1bn in new input plant",
+   "summary": "El Marakby Steel will invest EGP 1bn ($21m) in 2026 in a new 6th October City plant to make inputs previously imported, raising total investments to EGP 6.5bn by 2030. The firm exported about $100m in 2025 amid weak domestic demand.",
+   "figure": "EGP 1bn",
+   "category": "investment",
+   "sectors": [
+    "steel"
+   ],
+   "source": "SteelOrbis",
+   "url": "https://www.steelorbis.com/steel-news/latest-news/egypts-el-marakby-steel-to-invest-in-new-plant-to-localize-production-inputs-1428100.htm",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-a2bb5c465939",
+   "date": "2026-01-06",
+   "title": "Egypt PMI stays in growth at 50.2 in December",
+   "summary": "The PMI eased to 50.2 in December 2025 from 51.1, a second month above 50, as new orders and output kept growing more slowly and purchasing rose for the first time in ten months. Employment fell for the first time in 13 months and cost inflation stayed subdued; S&P links the reading to roughly 5% GDP growth.",
+   "figure": "PMI 50.2 (Nov 51.1)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "S&P Global",
+   "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/33a2a0f0f85e4f2c9005f745fb00fe01",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c22fa47f34a7",
+   "date": "2025-12-29",
+   "title": "Garment exports exceed $3bn for the first time",
+   "summary": "Ready-made garment exports reached $3.1bn in January-November 2025, up 22%. Foreign-invested factories coming online could take the sector above $4bn in the coming years.",
+   "figure": "$3.1bn",
+   "category": "trade",
+   "sectors": [
+    "garments",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/12/29/egypts-apparel-exports-exceed-3bn-for-first-time/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-246b6dcbf12e",
+   "date": "2025-12-29",
+   "title": "Industrial production index rises 4.7% in October 2025",
+   "summary": "CAPMAS said the manufacturing and extractive index rose 4.7% to 125.90 in October 2025 from 120.27 in September, led by computers and electronics (+112.7%) and leather (+45%). Machinery fell 20.2% on lower demand for air conditioners.",
+   "figure": "Index 125.90 (+4.7% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "electronics",
+    "leather",
+    "machinery",
+    "manufacturing"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-manufacturing-extractive-industries-index-rises-4-7-in-oct-25-capmas/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-d559c1d726ea",
+   "date": "2025-12-24",
+   "title": "Engineering exports pass record $5.9bn in eleven months",
+   "summary": "Engineering exports reached $5.93bn in January-November 2025 (+13.9%), and November alone was $621m (+35.4%). Machinery (+25%) and auto components (+22%) grew strongly.",
+   "figure": "$5.93bn",
+   "category": "trade",
+   "sectors": [
+    "automotive components",
+    "engineering",
+    "home appliances"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/12/24/egypts-engineering-exports-reach-record-5-9bn-for-first-time/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-163c9135267e",
+   "date": "2025-12-24",
+   "title": "Chinese firms sign $1.15bn polyester, tyre and hygiene plants in SCZone",
+   "summary": "TEDA Egypt signed three Chinese projects worth $1.15bn: an $800m Xinfengming polyester fibre plant (1.08m tonnes), a $190m Langma tyre factory and a $160m hygiene products plant, creating about 5,400 jobs. SCZone investments for FY2025/26 rose to $5.1bn.",
+   "figure": "$1.15bn",
+   "category": "investment",
+   "sectors": [
+    "consumer goods",
+    "textiles",
+    "tyres"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContentP/3/559267/Business/TEDA-Egypt-inks--bln-deals-with-Chinese-firms-for-.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c703c43685b3",
+   "date": "2025-12-22",
+   "title": "SCZone signs EGP 1bn ready-factory complex and $8m food plant",
+   "summary": "SCZone signed an EGP 1bn ($20.3m) deal for a 200,000 sq m prefabricated factory complex for SMEs in Qantara West, plus an $8m Pitcairn food plant in Ain Sokhna (18,000 tonnes frozen vegetables, 450 jobs). Ready-built units lower entry costs for small manufacturers.",
+   "figure": "EGP 1bn",
+   "category": "investment",
+   "sectors": [
+    "food processing",
+    "industrial zones"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContentP/3/559172/Business/SCZone-signs-EGP--bln-deal-to-build-prefabricated-.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-ab34e62877d8",
+   "date": "2025-12-21",
+   "title": "Non-oil exports reach $44.4bn in January-November 2025",
+   "summary": "Cabinet data show non-oil exports of $44.4bn in the first 11 months of 2025, up 18.4%. Building materials ($13.7bn, +39%) and chemicals ($8.6bn) led, with exports to the UAE up 131%.",
+   "figure": "$44.4bn",
+   "category": "trade",
+   "sectors": [
+    "building materials",
+    "chemicals",
+    "engineering",
+    "food",
+    "textiles"
+   ],
+   "source": "Egypt Today",
+   "url": "https://www.egypttoday.com/Article/3/144137/Egypt-s-non-oil-exports-record-44-4B-from-January",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-fed92a949d4b",
+   "date": "2025-12-17",
+   "title": "Golden licences for MAC and Deli Egypt worth EGP 15.1bn",
+   "summary": "The cabinet granted golden licences to MAC (EGP 6.3bn vehicle plant, 42% local content at start, 50% exports) and Deli Egypt (EGP 8.8bn stationery plant, over 50% local sourcing, 50% exports). Together about 3,200 jobs, with export commitments supporting FX earnings.",
+   "figure": "EGP 15.1bn",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "paper and stationery"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/12/17/cabinet-grants-golden-licenses-to-mac-deli-egypt-for-egp-15-1bn-in-new-investments/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-07443499b71a",
+   "date": "2025-12-16",
+   "title": "Chemical and fertiliser exports reach $7.7bn in ten months",
+   "summary": "The Chemicals and Fertilizers Export Council reported $7.723bn in exports for January-October 2025 (+10%), including fertilisers at $2.24bn (+13%). It expects about $1.8bn of new sector investment in 2026-2027.",
+   "figure": "$7.7bn",
+   "category": "trade",
+   "sectors": [
+    "chemicals",
+    "fertilisers",
+    "plastics"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/12/16/chemical-industries-investments-in-egypt-to-reach-1-8bn-in-2026-2027-export-council/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-aa7173f5a421",
+   "date": "2025-12-10",
+   "title": "Second tax facilitation package unveiled to business leaders",
+   "summary": "Finance Minister Ahmed Kouchouk presented the second tax package: faster VAT refunds, offsetting of tax balances, interest deduction on foreign loans for strategic projects, and VAT on medical devices cut from 14% to 5%. Improves manufacturers' liquidity, with some VAT revenue forgone.",
+   "figure": "Medical-device VAT 14% to 5%",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing",
+    "medical devices"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/12/10/egypts-kouchouk-tells-business-leaders-new-tax-package-aims-to-restore-private-sector-confidence/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-555c5e3030da",
+   "date": "2025-12-03",
+   "title": "Egypt PMI returns to growth at 51.1, best in five years",
+   "summary": "The PMI jumped to 51.1 in November 2025 from 49.2, the first improvement since February and the strongest since October 2020, with output and new orders growing at the sharpest pace in five years. Input cost inflation eased to an eight-month low; S&P Global said the reading is consistent with annual GDP growth above 5%.",
+   "figure": "PMI 51.1 (Oct 49.2)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "S&P Global",
+   "url": "https://www.pmi.spglobal.com/Public/Home/PressRelease/4d512c4d6afa4c01860d794c606757ea",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-263f9a5a2fc7",
+   "date": "2025-12-02",
+   "title": "Processed food exports hit record $5.8bn in ten months",
+   "summary": "Food industry exports rose 11% to $5.8bn in January-October 2025, about 14% of non-oil exports. Frozen strawberries ($648m, +81%) led, and exports to the US rose 36% to $371m.",
+   "figure": "$5.8bn",
+   "category": "trade",
+   "sectors": [
+    "food"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/557875.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-01deb95bddcf",
+   "date": "2025-12-02",
+   "title": "Committee formed to fix tariffs that penalise local producers",
+   "summary": "The government formed a committee led by the Investment and Foreign Trade Ministry, with Industry and Finance, to correct cases where finished imports face lower duties than raw materials and inputs. Changes to tariffs would affect customs revenue and the competitiveness of domestic manufacturing.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/12/02/egypt-forms-committee-to-address-customs-disparities-strengthen-local-industry/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-dd12d74c9093",
+   "date": "2025-11-27",
+   "title": "GDP grows 5.3% in Q1 FY2025/26, non-oil manufacturing up 14.5%",
+   "summary": "The Planning Ministry said GDP grew 5.3% in July–September 2025 (3.5% a year earlier), the first quarter above 5% in over three years. Non-oil manufacturing grew 14.5% (vs 7.1%), led by motor vehicles (+50%), chemicals (+44%) and beverages (+37%), a strong base for industrial tax revenue.",
+   "figure": "GDP +5.3%; non-oil mfg +14.5%",
+   "category": "pmi",
+   "sectors": [
+    "automotive",
+    "chemicals",
+    "food and beverages",
+    "manufacturing",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/11/27/egypt-gdp-growth-hits-three-year-high-of-5-3-in-q1-2025-26/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-9869c7a018d7",
+   "date": "2025-11-26",
+   "title": "Government unveils EGP 45bn export support programme for FY2025/26",
+   "summary": "The new export support programme has an EGP 45bn budget: EGP 38bn for export sectors and EGP 7bn for flexible schemes, with incentives for certification, equipment upgrades, freight and Upper Egypt. It is a major budget line for the Finance Ministry, tied to a $145bn export target by 2030.",
+   "figure": "EGP 45bn",
+   "category": "trade",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Business Today Egypt",
+   "url": "https://www.businesstodayegypt.com/Article/1/6943/Egypt-unveils-EGP-45B-export-support-program-for-FY-2025",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-6daf3bf23bef",
+   "date": "2025-11-25",
+   "title": "Engineering exports reach $5.3bn in first ten months of 2025",
+   "summary": "The Engineering Export Council reported $5.3bn in exports for January-October 2025, up 12.4%, with October alone at $591m (+17.7%). Electrical and electronic goods grew fastest (+35.3%).",
+   "figure": "$5.3bn",
+   "category": "trade",
+   "sectors": [
+    "automotive components",
+    "electronics",
+    "engineering"
+   ],
+   "source": "Business Today Egypt",
+   "url": "https://www.businesstodayegypt.com/Article/1/6939/Egypt%E2%80%99s-engineering-exports-record-5-3B-during-first-10-months",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c6664b3d0a5e",
+   "date": "2025-11-24",
+   "title": "Non-oil exports rise 19% to $40.6bn in ten months",
+   "summary": "Minister Hassan El-Khatib said non-oil exports reached $40.6bn in January-October 2025, up 19%. Exports to the top five markets rose 37% to $16.1bn, driven by the UAE ($6.3bn, +142%), a sign of growing FX earnings from manufactured goods.",
+   "figure": "$40.6bn",
+   "category": "trade",
+   "sectors": [
+    "building materials",
+    "chemicals",
+    "engineering",
+    "food"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/NewsContentP/3/557408/Business/Egypt%E2%80%99s-nonoil-exports-rise--in-st--months-of--Inv.aspx",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-f590f411234e",
+   "date": "2025-11-23",
+   "title": "EUR 271m green industry programme launched for private factories",
+   "summary": "Egypt launched the Sustainable Green Industries Programme, worth EUR 271 million (EGP 14.8 billion) from the EIB, EU and AFD, to fund decarbonisation in cement, fertilisers, steel, aluminium and chemicals. Channelled through NBE to the private sector with no burden on the state budget.",
+   "figure": "EUR 271m (EGP 14.8bn)",
+   "category": "policy",
+   "sectors": [
+    "aluminium",
+    "cement",
+    "chemicals",
+    "fertilisers",
+    "steel"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/11/23/egypt-launches-sustainable-green-industries-programme-to-boost-competitiveness-investments/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-a2a7a2e3981e",
+   "date": "2025-11-22",
+   "title": "12th industrial land offering allocates 100 plots",
+   "summary": "The Industry Ministry allocated 185,000 sqm in 100 plots across 16 governorates from about 209 applications, with no submission fees or guarantees and lower down payments, on ownership or usufruct terms. Cheaper land access lowers entry costs for manufacturers but reduces upfront land revenue.",
+   "figure": "185,000 sqm, 100 plots",
+   "category": "policy",
+   "sectors": [
+    "building materials",
+    "chemicals",
+    "engineering",
+    "food",
+    "pharmaceuticals",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/11/22/industry-ministry-allocates-185000-sqm-for-new-industrial-projects-in-16-governorates/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-2a65807f3676",
+   "date": "2025-11-20",
+   "title": "Golden licence for $680m soda ash plant in New Alamein",
+   "summary": "The cabinet granted a golden licence to the Egyptian Soda Ash Company for a $680 million plant, with at least 50% local inputs and completion by mid-2027. Would substitute imports of a key input for glass, detergents, paper and pharmaceuticals.",
+   "figure": "$680m",
+   "category": "policy",
+   "sectors": [
+    "chemicals",
+    "detergents",
+    "glass"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-cabinet-approves-golden-licence-for-esacs-soda-ash-manufacturing-plant/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-9eca953fb2b0",
+   "date": "2025-11-19",
+   "title": "Energy allocations approved for seven SCZONE factories",
+   "summary": "The Ministerial Committee for Industrial Development approved energy supply for seven of eight applicants in the Suez Canal Economic Zone (solar glass, auto glass, nonwoven fabrics, polyester yarn, chemicals) and backed golden licences for MAC and Deli Egypt. Big projects are now screened on energy availability, showing gas supply is a binding constraint on industrial growth.",
+   "figure": "7 of 8 applications approved",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "chemicals",
+    "glass",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/11/19/industry-ministry-approves-energy-allocations-for-seven-companies-in-sczone/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-50c5e19442c4",
+   "date": "2025-11-16",
+   "title": "Cost of subsidised gas for factories rises 16%",
+   "summary": "The cost of subsidising natural gas for factories reached $525 million in Q3 2025, up 16% year on year, as about 40% of gas is imported, often at over $12/MMBtu. A planned tiered pricing could charge $7–8/MMBtu for domestic-market factories and up to $12 for exporters, a direct fiscal saving lever.",
+   "figure": "$525m in Q3 2025",
+   "category": "policy",
+   "sectors": [
+    "cement",
+    "fertilisers",
+    "petrochemicals",
+    "steel"
+   ],
+   "source": "Manassa",
+   "url": "https://manassa.news/en/news/28474",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-e867c70e97e7",
+   "date": "2025-11-09",
+   "title": "Al Mansour opens $11m filter plant; Leoni expands with EUR 40m",
+   "summary": "Al Mansour Automotive opened an $11m factory in Tenth of Ramadan making 15 million filters a year, targeting 35% exports by 2027, while Leoni Egypt expanded its wiring-harness complex with EUR 40m. Both deepen local auto-component supply.",
+   "figure": "$11m; EUR 40m",
+   "category": "investment",
+   "sectors": [
+    "automotive components"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2025/11/09/al-mansour-inaugurates-usd-11-mn-vehicle-filter-factory/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-ca7c86a10045",
+   "date": "2025-11-06",
+   "title": "Industrial production index dips 1.1% in August 2025",
+   "summary": "CAPMAS said the manufacturing and extractive industries index (excluding crude oil and petroleum) fell 1.1% month on month to 126.24 in August 2025 from 127.60. Garments and printing rose, while food and leather declined.",
+   "figure": "Index 126.24 (-1.1% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "food",
+    "leather",
+    "manufacturing",
+    "textiles"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-august-manufacturing-output-dips-1-1-m-m-capmas/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-d4c685c23bbf",
+   "date": "2025-11-05",
+   "title": "Chinese Xinmin Glass signs $70m glassware factory in Sokhna 360",
+   "summary": "Xinmin Glass Egypt, with El Sewedy Industrial Development, will invest over $70m ($30m in phase one) in a glassware plant producing 516 million pieces a year in the first phase. It will create more than 1,000 direct jobs.",
+   "figure": "$70m",
+   "category": "investment",
+   "sectors": [
+    "building materials",
+    "glass"
+   ],
+   "source": "SCZone",
+   "url": "https://sczone.eg/with-investments-exceeding-usd-70-million-sczone-chairman-witnesses-contract-signing-for-new-glass-factory-in-sokhna-360/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-fd3df74f14b0",
+   "date": "2025-11-04",
+   "title": "Egypt PMI rises to 49.2 in October, softest decline in eight months",
+   "summary": "The PMI rose to 49.2 in October 2025 from 48.8, the softest fall in activity in eight months, with new orders declining at the weakest pace in five months. Input costs rose at the fastest rate in five months and wages posted their steepest increase since October 2020.",
+   "figure": "PMI 49.2 (Sep 48.8)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "Trading Economics",
+   "url": "https://tradingeconomics.com/egypt/manufacturing-pmi/news/498901",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-0926b2edb8a0",
+   "date": "2025-10-30",
+   "title": "$3.5bn steel pipe, tyre and fibre-optic projects agreed in Sokhna",
+   "summary": "Kemet Industries Group and Emirati-Chinese Al Qalaa Red Flag agreed $3.5bn of projects in Ain Sokhna: a 250,000-tonne seamless steel pipe plant, a 12-15 million-unit tyre factory and a fibre-optic cable plant. Since mid-2022 the SCZone has attracted 334 projects worth $10.4bn.",
+   "figure": "$3.5bn",
+   "category": "investment",
+   "sectors": [
+    "cables",
+    "steel",
+    "tyres"
+   ],
+   "source": "Arab News",
+   "url": "https://www.arabnews.com/node/2620853/business-economy",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-9296ab905df0",
+   "date": "2025-10-26",
+   "title": "Russian $5bn industrial zone in SCZone to break ground in 2026",
+   "summary": "The $5bn Russian Industrial Zone in the SCZone is due to break ground in 2026 and finish by 2028, with a first phase of about 500,000 sq m. About 30 Russian firms in petrochemicals, pharma, autos and food are exploring investments.",
+   "figure": "$5bn",
+   "category": "investment",
+   "sectors": [
+    "automotive",
+    "industrial zones",
+    "petrochemicals",
+    "pharmaceuticals"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/inside_industry/russias-usd-5-bn-industrial-zone-in-egypt-set-to-break-ground-in-2026/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-482ebadbec77",
+   "date": "2025-10-23",
+   "title": "OPPO smartphone factory opens in Tenth of Ramadan City",
+   "summary": "OPPO's $50m factory in Tenth of Ramadan has capacity of 500,000 phones a month (about 5 million a year) and employs around 2,000 workers. It supports electronics localisation and import substitution.",
+   "figure": "$50m",
+   "category": "investment",
+   "sectors": [
+    "electronics"
+   ],
+   "source": "TechAfrica News",
+   "url": "https://techafricanews.com/2025/10/23/egypt-inaugurates-oppo-smartphone-factory-in-egypt-under-50-million-investment-plan/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-b35fc1f25feb",
+   "date": "2025-10-22",
+   "title": "Non-oil exports jump 21% to $36.6bn in first nine months",
+   "summary": "Non-oil exports reached $36.639bn in January-September 2025, up 21% ($6.3bn), while the non-oil trade deficit narrowed 18% to $22.8bn. Building materials ($11.7bn, +51%) and chemicals/fertilisers ($6.8bn, +10%) led, with exports to the UAE up 169%.",
+   "figure": "$36.6bn",
+   "category": "trade",
+   "sectors": [
+    "building materials",
+    "chemicals",
+    "engineering",
+    "food"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/10/22/egypts-non-oil-exports-jump-21-to-36-6bn-in-9m-2025-el-khatib/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-85f7f0609a63",
+   "date": "2025-10-17",
+   "title": "Fuel prices raised 10.5–12.9%, then frozen for a year",
+   "summary": "Egypt raised fuel prices for the second time in 2025; diesel rose to EGP 17.50 a litre from EGP 15.50, and the government said prices would be frozen for at least a year. Raises transport and energy costs for manufacturers while cutting fuel-subsidy spending under the $8bn IMF programme.",
+   "figure": "Diesel EGP 17.50/litre",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing",
+    "transport"
+   ],
+   "source": "The National",
+   "url": "https://www.thenationalnews.com/business/economy/2025/10/17/egypt-raises-fuel-prices-for-second-time-this-year-but-says-no-more-increases-for-12-months/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-369e08555960",
+   "date": "2025-10-14",
+   "title": "Grace periods and penalty waivers for stalled industrial projects",
+   "summary": "Deputy PM Kamel Al-Wazir announced tiered grace periods (6, 12 and 18 months) with full or partial penalty waivers for delayed projects on industrial land, valid until 30 April 2026; withdrawn land can be re-bought at current market prices. Aims to revive stalled capacity without new spending, at the cost of forgone penalty revenue.",
+   "figure": "6–18 month grace periods",
+   "category": "policy",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/10/14/al-wazir-unveils-facilitation-package-new-deadlines-for-stalled-industrial-projects/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-1842ca73f7eb",
+   "date": "2025-10-12",
+   "title": "Mars inaugurates $280m confectionery plant expansion in 6th of October",
+   "summary": "Mars Wrigley opened a $280m+ expansion (2023-2025) of its 6th of October City plant, making it one of the group's top five factories globally. More than 90% of output will be exported to over 50 markets, a boost to food-industry exports.",
+   "figure": "$280m",
+   "category": "investment",
+   "sectors": [
+    "food processing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2025/10/12/mars-inaugurates-280m-expansion-in-6th-of-october-city/",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-1b3b87de0a08",
+   "date": "2025-10-07",
+   "title": "Trade deficit narrows 5.9% in July 2025 as garment exports rise",
+   "summary": "CAPMAS: July 2025 exports rose 2.9% to $3.7bn and imports fell 2.4% to $9.0bn, cutting the deficit to $5.2bn; ready-made garments (+29.1%) and food preparations (+30.7%) led export growth. A smaller monthly gap eases pressure on the balance of payments.",
+   "figure": "$5.2bn deficit",
+   "category": "trade",
+   "sectors": [
+    "food",
+    "textiles"
+   ],
+   "source": "Egypt Today",
+   "url": "https://www.egypttoday.com/Article/3/142724/Egypt%E2%80%99s-trade-deficit-shrinks-by-5-9-in-July-2025",
+   "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-c11d7ee2b66f",
+   "date": "2025-10-05",
+   "title": "Egypt PMI slips to 48.8 in September as new orders fall",
+   "summary": "The S&P Global Egypt PMI fell to 48.8 in September 2025 from 49.2, with new orders dropping at the fastest pace in five months and exports falling for a 10th month. Input cost inflation eased to its lowest since March thanks to a stronger pound, but staff costs rose at the fastest rate since May 2024.",
+   "figure": "PMI 48.8 (Aug 49.2)",
+   "category": "pmi",
+   "sectors": [
+    "exports",
+    "manufacturing",
+    "non-oil private sector"
+   ],
+   "source": "Reuters via Investing.com",
+   "url": "https://www.investing.com/news/economic-indicators/egypts-nonoil-private-sector-contracts-modestly-in-september-pmi-shows-4271433",
+   "addedAt": "2026-10-05"
+  }
+ ]
+}
