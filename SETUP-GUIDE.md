@@ -6,7 +6,7 @@ What's in this folder:
 
 | File | What it is |
 |---|---|
-| `EgyptIndustry/*.swift` | The app's code (6 files) |
+| `EgyptIndustry/*.swift` | The app's code |
 | `data/news.json` | The timeline data (143 items as of 6 Oct 2026). It goes to GitHub, and a copy goes inside the app. |
 | `build-ipa.sh` | Turns the project into an `.ipa` file that AltStore can install |
 
@@ -41,7 +41,7 @@ How it fits together: **weekly routine → news.json on GitHub → the app downl
    - Interface: **SwiftUI**, Language: **Swift**, Storage/Testing: **None**
 3. Save it somewhere easy, e.g. your Desktop.
 4. In the left sidebar, inside the yellow `EgyptIndustry` folder, select **ContentView.swift** and **EgyptIndustryApp.swift**, then right-click → **Delete → Move to Trash**. You're replacing them with my versions.
-5. From Finder, drag all 6 `.swift` files from this folder's `EgyptIndustry` folder **and** `data/news.json` onto that yellow `EgyptIndustry` folder in Xcode. In the pop-up, tick **Copy items if needed** and make sure the **EgyptIndustry** target is ticked → **Finish**.
+5. From Finder, drag all the `.swift` files from this folder's `EgyptIndustry` folder **and** `data/news.json` onto that yellow `EgyptIndustry` folder in Xcode. In the pop-up, tick **Copy items if needed** and make sure the **EgyptIndustry** target is ticked → **Finish**.
 6. **AppConfig.swift** is already set to your GitHub username (`omarr-y`). Change it only if you use a different account.
 
 **Test it on the Mac first:** at the top of Xcode, choose an iPhone simulator (e.g. "iPhone 16") and press **▶ Run** (or ⌘R). The app should open in a simulated iPhone showing the timeline. If you get a red error, copy the message and send it to me.
@@ -87,3 +87,10 @@ Follow the official guide at **altstore.io** ("Get Started → macOS"). In short
 ## Changing the code later
 
 Edit the `.swift` files in Xcode, test with ▶ Run, then repeat Step 4 and Step 6 (installing again updates the app). You don't need to rebuild the app when new data arrives; it downloads it by itself.
+
+### Getting a new version of the code from GitHub
+
+1. Download the latest code as a zip (the link Claude gives you) and unzip it.
+2. In Xcode's left sidebar, select all the `.swift` files inside the yellow `EgyptIndustry` folder → right-click → **Delete → Move to Trash**. Keep `news.json` and `Assets`.
+3. Drag all the `.swift` files from the unzipped folder onto the yellow `EgyptIndustry` folder, with **Copy items if needed** ticked.
+4. Press ▶ Run to test, then rebuild and reinstall (Steps 4 and 6).

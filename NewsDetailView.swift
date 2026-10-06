@@ -2,6 +2,7 @@ import SwiftUI
 
 /// The screen you see after tapping an item.
 struct NewsDetailView: View {
+    @EnvironmentObject private var store: NewsStore
     let item: NewsItem
 
     var body: some View {
@@ -62,5 +63,17 @@ struct NewsDetailView: View {
             .padding()
         }
         .navigationBarTitleDisplayMode(.inline)
+        .toolbar {
+            ToolbarItem(placement: .topBarTrailing) {
+                Button {
+                    store.toggleStar(item)
+                } label: {
+                    Image(systemName: store.isStarred(item) ? "star.fill" : "star")
+                        .foregroundStyle(.yellow)
+                }
+                .accessibilityLabel(store.isStarred(item) ? "Unstar" : "Star")
+            }
+        }
+        .onAppear { store.markRead(item) }   // opening an item clears its "New" badge
     }
 }

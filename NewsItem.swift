@@ -1,13 +1,28 @@
 import SwiftUI
 
 /// The whole news.json file: { "updated": "...", "count": 143, "items": [ ... ] }
-struct NewsFeed: Codable {
+/// An item that can't be read is skipped instead of making the whole file fail.
+struct NewsFeed: Decodable {
     let updated: String
     let items: [NewsItem]
+
+    private enum CodingKeys: String, CodingKey { case updated, items }
+
+    init(from decoder: Decoder) throws {
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        updated = (try? c.decode(String.self, forKey: .updated)) ?? ""
+        items = try c.decode([Lenient<NewsItem>].self, forKey: .items).compactMap(\.value)
+    }
+}
+
+/// Wraps one item: holds the item if it decodes, or nil if it doesn't.
+private struct Lenient<T: Decodable>: Decodable {
+    let value: T?
+    init(from decoder: Decoder) throws { value = try? T(from: decoder) }
 }
 
 /// One timeline entry. Field names match news.json exactly.
-struct NewsItem: Codable, Identifiable, Hashable {
+struct NewsItem: Decodable, Identifiable, Hashable {
     let id: String
     let date: String          // "YYYY-MM-DD"
     let title: String
@@ -18,6 +33,25 @@ struct NewsItem: Codable, Identifiable, Hashable {
     let source: String
     let url: String
     let addedAt: String?
+
+    private enum CodingKeys: String, CodingKey {
+        case id, date, title, summary, figure, category, sectors, source, url, addedAt
+    }
+
+    /// "figure", "sectors" and "addedAt" may be missing; everything else is required.
+    init(from decoder: Decoder) throws {
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        id = try c.decode(String.self, forKey: .id)
+        date = try c.decode(String.self, forKey: .date)
+        title = try c.decode(String.self, forKey: .title)
+        summary = try c.decode(String.self, forKey: .summary)
+        figure = (try? c.decodeIfPresent(String.self, forKey: .figure)) ?? ""
+        category = try c.decode(String.self, forKey: .category)
+        sectors = (try? c.decodeIfPresent([String].self, forKey: .sectors)) ?? []
+        source = try c.decode(String.self, forKey: .source)
+        url = try c.decode(String.self, forKey: .url)
+        addedAt = try? c.decodeIfPresent(String.self, forKey: .addedAt)
+    }
 
     var kind: NewsCategory { NewsCategory(rawValue: category) ?? .other }
 
