@@ -5,10 +5,15 @@ import SwiftUI
 // It downloads news.json from GitHub by itself (every few hours, when iOS allows),
 // so it doesn't need to share data with the app. This file belongs ONLY to the
 // EgyptIndustryWidgetExtension target, not to the app.
+//
+// Look: same as the app icon. Black background, white text, red accents.
 
 private let feedURL = URL(string:
     "https://raw.githubusercontent.com/omarr-y/egypt-industry-timeline/main/news.json"
 )!
+
+/// The red from the app icon's arrow.
+private let brandRed = Color(red: 1.0, green: 0.23, blue: 0.19)
 
 // MARK: - Data
 
@@ -18,6 +23,7 @@ struct WidgetItem: Decodable, Identifiable {
     let title: String
     let source: String
     let category: String
+    var figure: String? = nil
 
     /// "5 Oct"
     var shortDate: String {
@@ -25,14 +31,21 @@ struct WidgetItem: Decodable, Identifiable {
         return WidgetItem.dayMonth.string(from: d)
     }
 
-    var color: Color {
+    /// "INVESTMENT", "PMI", ...
+    var categoryLabel: String {
         switch category {
-        case "pmi": return .blue
-        case "policy": return .purple
-        case "investment": return .green
-        case "trade": return .orange
-        default: return .gray
+        case "pmi": return "PMI & OUTPUT"
+        case "policy": return "POLICY"
+        case "investment": return "INVESTMENT"
+        case "trade": return "TRADE"
+        default: return category.uppercased()
         }
+    }
+
+    /// The key number, if the item has one ("47.2", "$6.1bn", ...).
+    var keyFigure: String? {
+        guard let f = figure?.trimmingCharacters(in: .whitespaces), !f.isEmpty else { return nil }
+        return f
     }
 
     private static let isoDay: DateFormatter = {
@@ -58,7 +71,7 @@ struct WidgetItem: Decodable, Identifiable {
                    source: "Daily News Egypt", category: "investment"),
         WidgetItem(id: "n-77b7a3870c68", date: "2026-10-05",
                    title: "ECES study identifies 50 industrial products for European investment",
-                   source: "The Middle East Observer", category: "investment"),
+                   source: "The Middle East Observer", category: "investment", figure: "50 products"),
         WidgetItem(id: "n-09d8de08bedf", date: "2026-10-05",
                    title: "Steelmakers and rolling mills push to scrap billet duties",
                    source: "Enterprise", category: "policy"),
@@ -134,10 +147,10 @@ struct Provider: TimelineProvider {
         return sorted(data)
     }
 
-    /// Newest first, at most 6 (the most the large widget shows).
+    /// Newest first, at most 4 (the most the large widget shows).
     private static func sorted(_ data: Data) -> [WidgetItem] {
         guard let feed = try? JSONDecoder().decode(WidgetFeed.self, from: data) else { return [] }
-        return Array(feed.items.sorted { ($0.date, $0.id) > ($1.date, $1.id) }.prefix(6))
+        return Array(feed.items.sorted { ($0.date, $0.id) > ($1.date, $1.id) }.prefix(4))
     }
 }
 
@@ -150,9 +163,13 @@ struct LatestNewsView: View {
     var body: some View {
         Group {
             if entry.items.isEmpty {
-                Text("Open Egypt Industry once to load the news.")
-                    .font(.caption)
-                    .foregroundStyle(.secondary)
+                VStack(alignment: .leading, spacing: 8) {
+                    Header(date: nil)
+                    Text("Open the app once to load the news.")
+                        .font(.system(size: 13, weight: .medium))
+                        .foregroundStyle(.white.opacity(0.6))
+                    Spacer(minLength: 0)
+                }
             } else {
                 switch family {
                 case .systemSmall:
@@ -160,61 +177,64 @@ struct LatestNewsView: View {
                 case .accessoryRectangular:
                     LockScreenView(item: entry.items[0])
                 case .systemLarge:
-                    ListView(items: Array(entry.items.prefix(6)))
+                    ListView(items: Array(entry.items.prefix(4)))
                 default:
-                    ListView(items: Array(entry.items.prefix(3)))
+                    ListView(items: Array(entry.items.prefix(2)))
                 }
             }
         }
         .containerBackground(for: .widget) {
-            Color(.systemBackground)
+            Color.black
         }
     }
 }
 
-/// Small square: the single latest item.
+/// Small square: the latest item, with its key number large if it has one.
 private struct SmallView: View {
     let item: WidgetItem
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 6) {
-            Header()
+        VStack(alignment: .leading, spacing: 0) {
+            Header(date: item.shortDate)
+            Spacer(minLength: 6)
+            if let figure = item.keyFigure {
+                Text(figure)
+                    .font(.system(size: 22, weight: .heavy))
+                    .foregroundStyle(brandRed)
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.6)
+                    .padding(.bottom, 2)
+            }
             Text(item.title)
-                .font(.subheadline.weight(.semibold))
-                .lineLimit(4)
-            Spacer(minLength: 0)
-            Text("\(item.shortDate) · \(item.source)")
-                .font(.caption2)
-                .foregroundStyle(.secondary)
-                .lineLimit(1)
+                .font(.system(size: 14, weight: .semibold))
+                .foregroundStyle(.white)
+                .lineLimit(item.keyFigure == nil ? 4 : 3)
+            Spacer(minLength: 6)
+            Text(item.categoryLabel)
+                .font(.system(size: 9, weight: .bold))
+                .kerning(0.8)
+                .foregroundStyle(brandRed)
         }
         .frame(maxWidth: .infinity, alignment: .leading)
     }
 }
 
-/// Medium and large: a short list.
+/// Medium (2 items) and large (4 items).
 private struct ListView: View {
     let items: [WidgetItem]
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 8) {
-            Header()
-            ForEach(items) { item in
-                HStack(alignment: .top, spacing: 8) {
-                    Circle()
-                        .fill(item.color)
-                        .frame(width: 7, height: 7)
-                        .padding(.top, 5)
-                    VStack(alignment: .leading, spacing: 1) {
-                        Text(item.title)
-                            .font(.caption.weight(.semibold))
-                            .lineLimit(2)
-                        Text("\(item.shortDate) · \(item.source)")
-                            .font(.caption2)
-                            .foregroundStyle(.secondary)
-                            .lineLimit(1)
-                    }
+        VStack(alignment: .leading, spacing: 0) {
+            Header(date: items.first?.shortDate)
+                .padding(.bottom, 10)
+            ForEach(Array(items.enumerated()), id: \.element.id) { index, item in
+                if index > 0 {
+                    Rectangle()
+                        .fill(.white.opacity(0.12))
+                        .frame(height: 0.5)
+                        .padding(.vertical, 8)
                 }
+                Row(item: item)
             }
             Spacer(minLength: 0)
         }
@@ -222,27 +242,77 @@ private struct ListView: View {
     }
 }
 
-/// Lock Screen: the latest headline.
+private struct Row: View {
+    let item: WidgetItem
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 3) {
+            HStack(spacing: 6) {
+                Text(item.categoryLabel)
+                    .foregroundStyle(brandRed)
+                Text(item.shortDate)
+                    .foregroundStyle(.white.opacity(0.5))
+                if let figure = item.keyFigure {
+                    Spacer(minLength: 4)
+                    Text(figure)
+                        .foregroundStyle(.white)
+                        .lineLimit(1)
+                }
+            }
+            .font(.system(size: 9, weight: .bold))
+            .kerning(0.6)
+
+            Text(item.title)
+                .font(.system(size: 13, weight: .semibold))
+                .foregroundStyle(.white)
+                .lineLimit(2)
+                .fixedSize(horizontal: false, vertical: true)
+        }
+    }
+}
+
+/// Lock Screen: the latest headline. iOS tints this one itself.
 private struct LockScreenView: View {
     let item: WidgetItem
 
     var body: some View {
         VStack(alignment: .leading, spacing: 1) {
-            Text("Egypt Industry · \(item.shortDate)")
-                .font(.caption2.weight(.semibold))
+            Text("\(item.categoryLabel) · \(item.shortDate)")
+                .font(.system(size: 10, weight: .bold))
             Text(item.title)
-                .font(.caption)
+                .font(.system(size: 13, weight: .medium))
                 .lineLimit(2)
         }
         .frame(maxWidth: .infinity, alignment: .leading)
     }
 }
 
+/// Small pyramid mark + name, like the app icon.
 private struct Header: View {
+    let date: String?
+
     var body: some View {
-        Label("Egypt Industry", systemImage: "building.2")
-            .font(.caption2.weight(.bold))
-            .foregroundStyle(.teal)
+        HStack(spacing: 5) {
+            PyramidMark()
+                .fill(.white)
+                .frame(width: 11, height: 9)
+            Text("EGYPT INDUSTRY")
+                .font(.system(size: 9, weight: .heavy))
+                .kerning(1)
+                .foregroundStyle(.white)
+            Spacer(minLength: 0)
+        }
+    }
+}
+
+private struct PyramidMark: Shape {
+    func path(in rect: CGRect) -> Path {
+        var p = Path()
+        p.move(to: CGPoint(x: rect.midX, y: rect.minY))
+        p.addLine(to: CGPoint(x: rect.maxX, y: rect.maxY))
+        p.addLine(to: CGPoint(x: rect.minX, y: rect.maxY))
+        p.closeSubpath()
+        return p
     }
 }
 
