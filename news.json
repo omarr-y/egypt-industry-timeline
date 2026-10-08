@@ -1,7 +1,22 @@
 {
- "updated": "2026-10-06",
- "count": 143,
+ "updated": "2026-10-08",
+ "count": 146,
  "items": [
+  {
+   "id": "n-e92812f8d337",
+   "date": "2026-10-08",
+   "title": "Egypt and South Korea launch CEPA trade pact negotiations",
+   "summary": "Sisi and Lee upgraded ties to a strategic partnership and welcomed the launch of talks on a Comprehensive Economic Partnership Agreement, with pledges to expand manufacturing cooperation in shipbuilding and electric vehicles and SCZone development. A CEPA could widen tariff-free market access for Egyptian manufacturers and draw Korean industrial FDI.",
+   "figure": "",
+   "category": "trade",
+   "sectors": [
+    "automotive",
+    "shipbuilding"
+   ],
+   "source": "Egypt Today",
+   "url": "https://www.egypttoday.com/Article/1/149924/Egypt-South-Korea-upgrade-relations-to-strategic-partnership-launch-trade",
+   "addedAt": "2026-10-08"
+  },
   {
    "id": "n-b1252cd96927",
    "date": "2026-10-05",
@@ -130,6 +145,20 @@
    "addedAt": "2026-10-05"
   },
   {
+   "id": "n-dadbcb80a5bc",
+   "date": "2026-09-30",
+   "title": "Bank NXT lends EGP 2.1bn for Ezz Elarab Elsewedy auto expansion",
+   "summary": "Bank NXT extended an EGP 2.1 bn credit facility to Ezz Elarab Elsewedy for Investments to expand its automotive factories and build a new automotive paint plant. It supports the government's car localisation push, which aims to cut vehicle imports.",
+   "figure": "EGP 2.1 bn",
+   "category": "investment",
+   "sectors": [
+    "automotive"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/09/30/bank-nxt-backs-ezz-elarab-elsewedys-paint-plant-and-factory-expansion/",
+   "addedAt": "2026-10-08"
+  },
+  {
    "id": "n-f026837b74c8",
    "date": "2026-09-29",
    "title": "Industry ministry pushes mineral value chains, limits raw phosphate exports",
@@ -159,6 +188,20 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/09/29/government-ready-to-offer-incentives-and-equity-partnerships-to-accelerate-mining-projects-egypt-pm-says/",
    "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-142184f796c7",
+   "date": "2026-09-29",
+   "title": "EU draft would bar Egypt from importing EU steel scrap",
+   "summary": "A European Commission draft under the revamped Waste Shipment Regulation would remove Egypt from the list of countries allowed EU metal scrap from May 2027; Egypt imported 2.12 mn tons of EU scrap in H1 2026 (+59.7% y/y), about half its ferrous scrap supply. Losing it would raise feedstock costs for electric-arc-furnace steel mills.",
+   "figure": "2.12 mn tons (H1 2026)",
+   "category": "trade",
+   "sectors": [
+    "steel"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/09/29/the-eu-is-proposing-to-cut-egypt-off-from-its-steel-scrap/",
+   "addedAt": "2026-10-08"
   },
   {
    "id": "n-efc5f898f06d",
