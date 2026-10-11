@@ -1,7 +1,22 @@
 {
- "updated": "2026-10-08",
- "count": 146,
+ "updated": "2026-10-11",
+ "count": 151,
  "items": [
+  {
+   "id": "n-f29539ac4e5e",
+   "date": "2026-10-10",
+   "title": "Date-processing complex begins in New Valley's Shorbagy Oasis",
+   "summary": "Construction (about 30% complete) began on a 64,000 sqm date-processing complex with about 20,000 tonnes of cold storage and some 1,500 jobs, covering sorting, packaging, processing and export. No investment cost was disclosed; it targets value-added agri-food exports from Upper Egypt.",
+   "figure": "20,000 t storage",
+   "category": "investment",
+   "sectors": [
+    "food processing",
+    "agribusiness"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/10/cornerstone-laid-for-date-processing-complex-in-new-valleys-shorbagy-oasis/",
+   "addedAt": "2026-10-11"
+  },
   {
    "id": "n-e92812f8d337",
    "date": "2026-10-08",
@@ -18,6 +33,22 @@
    "addedAt": "2026-10-08"
   },
   {
+   "id": "n-91d31196b399",
+   "date": "2026-10-06",
+   "title": "Military Production Ministry signs MoUs on joint manufacturing, African exports",
+   "summary": "Helwan Diesel Engines, Military Factory 909 and Arab Contractors agreed on joint manufacturing (generators, distribution panels, pumps), and NOMP signed a second MoU to open African export channels for Egyptian products. No investment values were disclosed; relevant to state-owned industry's push into export markets.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "engineering",
+    "electrical equipment",
+    "military production"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/06/military-production-ministry-signs-two-mous-to-boost-joint-manufacturing-expand-into-africa/",
+   "addedAt": "2026-10-10"
+  },
+  {
    "id": "n-b1252cd96927",
    "date": "2026-10-05",
    "title": "ElAraby and South Africa's Malben team up on auto components",
@@ -30,6 +61,21 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/10/05/egypt-south-africa-seek-deeper-industrial-integration-automotive-cooperation/",
    "addedAt": "2026-10-06"
+  },
+  {
+   "id": "n-ace2cccecb7f",
+   "date": "2026-10-05",
+   "title": "Government unveils 2027-2030 foreign direct investment strategy",
+   "summary": "PM Madbouly reviewed a new FDI strategy for 2027-2030 presented by Investment and Foreign Trade Minister Mohamed Farid, which aims to channel FDI into industrial localisation, technology transfer and export capacity. The article gives no numeric targets.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "manufacturing",
+    "fdi"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/05/egypt-unveils-foreign-direct-investment-strategy-for-2027-2030/",
+   "addedAt": "2026-10-09"
   },
   {
    "id": "n-77b7a3870c68",
@@ -91,6 +137,36 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/10/04/egypt-au-trade-exchange-rises-11-8-to-6-1bn-in-7m-2026/",
    "addedAt": "2026-10-05"
+  },
+  {
+   "id": "n-b7b817766f92",
+   "date": "2026-10-04",
+   "title": "Egypt and TDB discuss export credit for firms entering Africa",
+   "summary": "Investment and Foreign Trade Minister Mohamed Farid met the $10bn-asset Trade and Development Bank on using its loans, guarantees and export credit to help Egyptian exporters enter African markets. External development finance for exporters could ease pressure on budget-funded export support.",
+   "figure": "TDB assets $10bn",
+   "category": "trade",
+   "sectors": [
+    "exports",
+    "trade finance"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypt-african-trade-bank-tdb-discuss-financing-to-help-exporters-expand/",
+   "addedAt": "2026-10-10"
+  },
+  {
+   "id": "n-5d8a28e3e582",
+   "date": "2026-10-04",
+   "title": "Sales of locally made mobile phones fall 20% in 2026",
+   "summary": "Sales of Egyptian-assembled phones are down about 20% this year as a global memory-chip shortage pushed local prices up roughly 55%; output is about 10m units against a 15m target for 2026. This is a setback for the electronics localisation drive, which relies on 38.5-40% extra duties on imported handsets.",
+   "figure": "-20% sales; 10m units vs 15m target",
+   "category": "investment",
+   "sectors": [
+    "electronics",
+    "mobile phones"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/578177.aspx",
+   "addedAt": "2026-10-09"
   },
   {
    "id": "n-5d66999f18d4",
