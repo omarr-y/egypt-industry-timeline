@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-11",
- "count": 151,
+ "updated": "2026-10-12",
+ "count": 153,
  "items": [
+  {
+   "id": "n-85b3cf5e8245",
+   "date": "2026-10-11",
+   "title": "Chemical exports to Saudi Arabia nearly double in eight months",
+   "summary": "The Export Council for Chemical Industries and Fertilisers said chemical exports to Saudi Arabia rose 98% to about $356m in January-August 2026 from $180m, led by petrochemicals ($102m) and fertilisers ($51m). Shows Gulf demand helping diversify non-oil export earnings.",
+   "figure": "$356m (+98% y/y)",
+   "category": "trade",
+   "sectors": [
+    "chemicals",
+    "fertilisers",
+    "plastics"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/11/egypts-chemical-exports-to-saudi-arabia-surge-98-to-356m-in-8m-2026/",
+   "addedAt": "2026-10-12"
+  },
   {
    "id": "n-f29539ac4e5e",
    "date": "2026-10-10",
@@ -16,6 +32,20 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/10/10/cornerstone-laid-for-date-processing-complex-in-new-valleys-shorbagy-oasis/",
    "addedAt": "2026-10-11"
+  },
+  {
+   "id": "n-4aa342f51681",
+   "date": "2026-10-09",
+   "title": "Industry ministry launches unified digital platform for manufacturers",
+   "summary": "The Ministry of Industry launched a single platform with five services covering a factory's life cycle, with binding complaint-response deadlines, a weekly follow-up committee and a database of locally made inputs. Aims to cut red tape and support import substitution; no budget figure was given.",
+   "figure": "5 services",
+   "category": "policy",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/egypt-launches-unified-digital-platform-for-manufacturers/",
+   "addedAt": "2026-10-12"
   },
   {
    "id": "n-e92812f8d337",
