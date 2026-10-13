@@ -1,7 +1,21 @@
 {
- "updated": "2026-10-12",
- "count": 153,
+ "updated": "2026-10-13",
+ "count": 158,
  "items": [
+  {
+   "id": "n-51758db4f633",
+   "date": "2026-10-12",
+   "title": "Egypt 2026 Forum to set local manufacturing targets",
+   "summary": "PM Madbouly said the presidentially mandated Egypt 2026 Forum will present reform priorities, targets for deepening local manufacturing and new private-sector policies, including SCZone incentives and SME support. No numerical targets were given yet; watch for any new fiscal incentives.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/12/egypt-2026-forum-to-outline-manufacturing-and-private-sector-reform-targets/",
+   "addedAt": "2026-10-13"
+  },
   {
    "id": "n-85b3cf5e8245",
    "date": "2026-10-11",
@@ -17,6 +31,50 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/10/11/egypts-chemical-exports-to-saudi-arabia-surge-98-to-356m-in-8m-2026/",
    "addedAt": "2026-10-12"
+  },
+  {
+   "id": "n-811d088e7e99",
+   "date": "2026-10-11",
+   "title": "Semak Pharma to double investment, expand Fayoum plant",
+   "summary": "Semak Pharmaceutical Group plans to double its investment in 2027 to expand production at its 15,600 sqm Brand Pharma site in Fayoum. No amount or capacity figure was disclosed.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "pharmaceuticals"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/11/semak-pharma-to-double-investments-in-2027-expand-fayoum-production/",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "n-48cb1f6394b2",
+   "date": "2026-10-11",
+   "title": "Egyptian Ferroalloys weighs $60m fifth furnace expansion",
+   "summary": "Egyptian Ferroalloys posted EGP 600m FY2025/26 profit and is evaluating six bids for a ~$60m furnace that could lift ferrosilicon capacity about 30% to 65,000 tonnes. About 70% of output is exported, earning $35–40m a year against $15–20m of imported inputs, so it is a net FX earner; electricity cost is a key risk.",
+   "figure": "$60m",
+   "category": "investment",
+   "sectors": [
+    "metals",
+    "ferroalloys"
+   ],
+   "source": "Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/10/11/egyptian-ferroalloys-posts-egp600mn-profit-as-60mn-expansion-plan-advances/",
+   "addedAt": "2026-10-13"
+  },
+  {
+   "id": "n-259b1c395586",
+   "date": "2026-10-11",
+   "title": "Egypt and Indonesia target $5bn trade, joint manufacturing",
+   "summary": "Egypt and Indonesia aim to lift bilateral trade to $5bn by 2030 and expand joint manufacturing, with cooperation on crude palm oil derivatives and phosphate fertilisers. Four MoUs were signed, but no trade agreement or tariff change.",
+   "figure": "$5bn by 2030",
+   "category": "trade",
+   "sectors": [
+    "food",
+    "fertilizers"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/11/egypt-indonesia-target-5bn-in-bilateral-trade-by-2030/",
+   "addedAt": "2026-10-13"
   },
   {
    "id": "n-f29539ac4e5e",
@@ -46,6 +104,22 @@
    "source": "Egyptian Gazette",
    "url": "https://egyptian-gazette.com/egypt/egypt-launches-unified-digital-platform-for-manufacturers/",
    "addedAt": "2026-10-12"
+  },
+  {
+   "id": "n-efa84dba98a2",
+   "date": "2026-10-08",
+   "title": "ECES: customs reforms cut import release times 17%",
+   "summary": "An ECES policy brief finds average import release times fell 17% across 256,310 shipments after customs reforms, with machinery, plastics and steel inputs 10–12% faster. Industrial consignments improved only 3.3%, so manufacturers' working-capital gains remain limited.",
+   "figure": "-17%",
+   "category": "trade",
+   "sectors": [
+    "machinery",
+    "plastics",
+    "steel"
+   ],
+   "source": "Middle East Observer",
+   "url": "https://meobserver.news/trade/2026/10/08/egypt-cuts-import-release-times-17-as-trade-reforms-begin-to-lower-border-frictions/",
+   "addedAt": "2026-10-13"
   },
   {
    "id": "n-e92812f8d337",
