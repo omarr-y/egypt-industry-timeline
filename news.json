@@ -1,7 +1,37 @@
 {
- "updated": "2026-10-13",
- "count": 158,
+ "updated": "2026-10-14",
+ "count": 160,
  "items": [
+  {
+   "id": "n-589f69adf07c",
+   "date": "2026-10-14",
+   "title": "FY2025/26 non-oil exports up 7.8% but non-oil deficit widens",
+   "summary": "Balance-of-payments data show non-oil exports rose 7.8% to $37.3bn in FY2025/26, while non-oil imports jumped 16.9% to $83.9bn, widening the non-oil trade deficit 25.4% to $46.6bn. Net FDI of $18bn, almost all non-oil, helped deliver a $2.8bn overall BoP surplus despite a $22.5bn current account deficit.",
+   "figure": "Non-oil exports $37.3bn (+7.8%)",
+   "category": "trade",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/10/14/egypts-bop-swings-to-a-usd-2-8-bn-surplus-in-fy-2025-26-as-fdi-covers-most-of-a-wider-current-account-gap/",
+   "addedAt": "2026-10-14"
+  },
+  {
+   "id": "n-b44b46279f8c",
+   "date": "2026-10-13",
+   "title": "July trade deficit widens 54% as non-oil exports slip",
+   "summary": "CAPMAS data show the July 2026 trade deficit widened 53.9% y/y to $8.04bn as imports rose to $11.97bn, while non-petroleum exports fell to $3.36bn from $3.50bn even as garment exports rose 18.2%. Weak non-oil export momentum adds pressure on FX inflows and the external financing gap.",
+   "figure": "Deficit $8.04bn (+53.9% y/y)",
+   "category": "trade",
+   "sectors": [
+    "garments",
+    "fertilizers",
+    "pharmaceuticals"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=578873",
+   "addedAt": "2026-10-14"
+  },
   {
    "id": "n-51758db4f633",
    "date": "2026-10-12",
