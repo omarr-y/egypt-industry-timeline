@@ -1,7 +1,37 @@
 {
- "updated": "2026-10-14",
- "count": 160,
+ "updated": "2026-10-15",
+ "count": 165,
  "items": [
+  {
+   "id": "n-a947a29e7be8",
+   "date": "2026-10-14",
+   "title": "Korea's H&L doubles SCZone sportswear plant investment to $30m",
+   "summary": "South Korean sportswear maker H&L Egypt Apparel broke ground in SCZone's West Qantara industrial zone on a 42,000 sqm plant, doubling its planned investment from $15m to $30m and targeting 2,000 direct jobs. It adds to the cluster of export-oriented Asian garment FDI in the Canal zone.",
+   "figure": "$30m; 2,000 jobs",
+   "category": "investment",
+   "sectors": [
+    "textiles",
+    "apparel"
+   ],
+   "source": "Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/10/14/south-korea-doubles-egypt-sportswear-investment-to-30m-targets-2000-jobs/",
+   "addedAt": "2026-10-15"
+  },
+  {
+   "id": "n-86571d1ef662",
+   "date": "2026-10-14",
+   "title": "Local clean-energy equipment manufacturing grows: solar, wind, batteries",
+   "summary": "Elite Solar's 5 GW Sokhna complex (2 GW cells, 3 GW modules) leads local solar manufacturing, while Kemet's $200m Cornex tie-up targets 5 GWh of battery cells. Egypt still imports about $150m of solar panels a year and targets 80% local content by 2030, a possible import-substitution gain.",
+   "figure": "5 GW solar; 5 GWh cells",
+   "category": "investment",
+   "sectors": [
+    "renewable energy equipment",
+    "batteries"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/10/14/egypt-is-building-the-transitions-equipment-from-the-outside-in/",
+   "addedAt": "2026-10-15"
+  },
   {
    "id": "n-589f69adf07c",
    "date": "2026-10-14",
@@ -15,6 +45,35 @@
    "source": "Enterprise",
    "url": "https://enterpriseam.com/egypt/2026/10/14/egypts-bop-swings-to-a-usd-2-8-bn-surplus-in-fy-2025-26-as-fdi-covers-most-of-a-wider-current-account-gap/",
    "addedAt": "2026-10-14"
+  },
+  {
+   "id": "n-4f3acb44ae3a",
+   "date": "2026-10-14",
+   "title": "Cabinet licenses 652-acre Salloum logistics zone, Sadat dry port",
+   "summary": "The cabinet granted an industrial development company a 30-year licence to build and operate a 652-acre integrated logistics zone at the Salloum land port, and approved a new company to build a dry port in Sadat City. Both aim to cut logistics costs for industry and exports, with possible private partnership.",
+   "figure": "652 acres; 30-year licence",
+   "category": "investment",
+   "sectors": [
+    "logistics",
+    "industrial zones"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/14/egypts-cabinet-approves-652-acre-salloum-logistics-zone-and-new-sadat-dry-port-company/",
+   "addedAt": "2026-10-15"
+  },
+  {
+   "id": "n-bf17cb9ae3a8",
+   "date": "2026-10-13",
+   "title": "PM reviews export plan with 12 exporter service centres",
+   "summary": "PM Madbouly reviewed a two-track export development plan under which the Export Development Authority will run 12 governorate service centres and an AI exporter-importer matching platform. Proposed incentives include support for upgrading production lines, certifications and exhibitions, which may carry future budget costs.",
+   "figure": "12 centres",
+   "category": "trade",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/pm-reviews-export-boost-plan-with-12-service-centres-nationwide/",
+   "addedAt": "2026-10-15"
   },
   {
    "id": "n-b44b46279f8c",
@@ -45,6 +104,22 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/10/12/egypt-2026-forum-to-outline-manufacturing-and-private-sector-reform-targets/",
    "addedAt": "2026-10-13"
+  },
+  {
+   "id": "n-f90f3ae12dd4",
+   "date": "2026-10-11",
+   "title": "Egypt-Malaysia trade up 75% as GAFI-MIDA investment MoU signed",
+   "summary": "Egypt-Malaysia trade reached $870m in January-August 2026, up 74.7% y/y, but is heavily import-skewed (2025 exports about $120m vs imports about $600m). A GAFI-MIDA MoU aims to bring Malaysian manufacturers in electronics, pharma and food processing, though no investment values were disclosed.",
+   "figure": "$870m (+74.7%)",
+   "category": "trade",
+   "sectors": [
+    "electronics",
+    "pharmaceuticals",
+    "food processing"
+   ],
+   "source": "Middle East Observer",
+   "url": "https://meobserver.news/economy/2026/10/11/el-sisis-malaysia-visit-opens-new-industrial-investment-prospects-as-bilateral-trade-surges-75/",
+   "addedAt": "2026-10-15"
   },
   {
    "id": "n-85b3cf5e8245",
