@@ -1,7 +1,42 @@
 {
- "updated": "2026-10-15",
- "count": 165,
+ "updated": "2026-10-16",
+ "count": 169,
  "items": [
+  {
+   "id": "n-e243f30e5dd4",
+   "date": "2026-10-14",
+   "title": "State-owned Siegwart localises high-speed rail sleeper production",
+   "summary": "Siegwart will make 200,000 specialised guard-rail sleepers for the National Authority for Tunnels (contract earlier valued at about EGP 740m) and targets EGP 2.19bn revenue in its 2026/27 budget. Localising rail components cuts the import bill for state rail projects; the outlet's reported profit figures appear inconsistent, so check filings.",
+   "figure": "200,000 sleepers",
+   "category": "investment",
+   "sectors": [
+    "rail",
+    "construction materials",
+    "state-owned enterprises"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/business-economix/industry-insights/2026/10/14/egypts-siegwart-expands-rail-manufacturing-as-egp-608mn-profit-slips-2-3/",
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "n-cef711331c49",
+   "date": "2026-10-14",
+   "title": "IDA offers 400 ready-built industrial units in 10 governorates",
+   "summary": "The Industrial Development Authority is offering 400 utility-ready units (48–960 sqm) in 11 complexes, with applications open 15–29 October via the Egypt Industrial Digital Platform, partly re-offering units withdrawn from inactive allottees. Ready-built space lowers entry costs for SMEs and recycles idle state industrial assets.",
+   "figure": "400 units",
+   "category": "policy",
+   "sectors": [
+    "industrial land",
+    "smes",
+    "food processing",
+    "chemicals",
+    "textiles",
+    "engineering"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/14/egypt-offers-400-ready-to-operate-industrial-units-across-10-governorates/",
+   "addedAt": "2026-10-16"
+  },
   {
    "id": "n-a947a29e7be8",
    "date": "2026-10-14",
@@ -60,6 +95,39 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/10/14/egypts-cabinet-approves-652-acre-salloum-logistics-zone-and-new-sadat-dry-port-company/",
    "addedAt": "2026-10-15"
+  },
+  {
+   "id": "n-1a112632edaf",
+   "date": "2026-10-14",
+   "title": "Egypt and Djibouti sign framework trade protocol",
+   "summary": "Investment and Foreign Trade Minister Mohamed Farid and Djibouti's trade minister signed a framework protocol to expand market access, targeting pharmaceuticals, fertilisers, food, electronics and engineering goods under COMESA and AfCFTA. No trade values were given; it supports the push to diversify non-oil exports into Africa.",
+   "figure": "",
+   "category": "trade",
+   "sectors": [
+    "pharmaceuticals",
+    "fertilizers",
+    "food",
+    "electronics",
+    "engineering"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/14/bilateral-trade-protocol-signed-between-egypt-and-djibouti-to-expand-market-access/",
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "n-ed62045e37de",
+   "date": "2026-10-13",
+   "title": "Rolling mills sue to scrap billet anti-dumping duties",
+   "summary": "Rolling mills filed the first lawsuit against the billet anti-dumping duty (now about 12.1%), with an Administrative Court hearing set for 14 November 2026; mills say scrapping it could cut rebar prices by EGP 7–10k/ton. The outcome affects customs revenue, construction input costs and the steel protection policy.",
+   "figure": "~12.1% duty",
+   "category": "policy",
+   "sectors": [
+    "steel",
+    "construction materials"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/10/13/billet-duty-dispute-heads-to-court-as-rolling-mills-sue-to-scrap-anti-dumping-duties/",
+   "addedAt": "2026-10-16"
   },
   {
    "id": "n-bf17cb9ae3a8",
