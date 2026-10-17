@@ -1,7 +1,38 @@
 {
- "updated": "2026-10-16",
- "count": 169,
+ "updated": "2026-10-17",
+ "count": 172,
  "items": [
+  {
+   "id": "n-f4f3bf7e1e26",
+   "date": "2026-10-15",
+   "title": "Fuel prices kept unchanged through December 2026",
+   "summary": "The fuel pricing committee kept gasoline, diesel (EGP 20.5 a litre) and automotive gas prices unchanged until end-December after reviewing Q3 Brent and exchange-rate data. This holds transport and diesel costs for manufacturers steady but leaves fuel-subsidy costs exposed to higher oil prices; industrial gas prices were not covered.",
+   "figure": "Diesel EGP 20.5/litre",
+   "category": "policy",
+   "sectors": [
+    "energy",
+    "transport"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/580080.aspx",
+   "addedAt": "2026-10-17"
+  },
+  {
+   "id": "n-e4ffa94a9ca7",
+   "date": "2026-10-15",
+   "title": "Dangote targets $10–15bn of investments in Egypt",
+   "summary": "Nigeria's Dangote Group says it plans $10–15bn of investment in Egypt across energy, petrochemicals, construction materials and agriculture, and the EGX is studying depositary receipts for Dangote shares. Projects of this size would be a major FDI inflow into heavy industry, though no specific Egyptian plants were named.",
+   "figure": "$10–15bn",
+   "category": "investment",
+   "sectors": [
+    "cement",
+    "petrochemicals",
+    "fertilisers"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/580057.aspx",
+   "addedAt": "2026-10-17"
+  },
   {
    "id": "n-e243f30e5dd4",
    "date": "2026-10-14",
@@ -158,6 +189,22 @@
    "source": "Ahram Online",
    "url": "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=578873",
    "addedAt": "2026-10-14"
+  },
+  {
+   "id": "n-93cbff0120a2",
+   "date": "2026-10-12",
+   "title": "Egypt and Thailand seek to double trade, eye SCZone manufacturing",
+   "summary": "Egypt's foreign minister held talks with Thailand's industry minister on rubber, petrochemicals and tyres, and the two sides seek to double trade to $2.4bn; SCZone signed 117 projects worth about $7.3bn in FY2025/26. More Asian manufacturing FDI in SCZone would support non-oil exports and the external balance.",
+   "figure": "$2.4bn trade target",
+   "category": "trade",
+   "sectors": [
+    "tyres",
+    "rubber",
+    "petrochemicals"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/578749.aspx",
+   "addedAt": "2026-10-17"
   },
   {
    "id": "n-51758db4f633",
