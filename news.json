@@ -1,7 +1,35 @@
 {
- "updated": "2026-10-17",
- "count": 172,
+ "updated": "2026-10-18",
+ "count": 175,
  "items": [
+  {
+   "id": "n-c64835ab0300",
+   "date": "2026-10-17",
+   "title": "Car sales up 26% in eight months, imports take most growth",
+   "summary": "AMIC data show 135,445 vehicles sold in January–August 2026 (+26% y/y). Imports rose 42.6% to 64,923 units and took about 70% of the extra sales, while locally assembled vehicles grew 13.4% to 70,522 (about 52% share). This puts pressure on the import bill and on the auto-localisation strategy.",
+   "figure": "+26% y/y; imports +42.6%",
+   "category": "investment",
+   "sectors": [
+    "automotive"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/10/17/egypts-auto-sales-rise-26-but-imports-capture-most-growth/",
+   "addedAt": "2026-10-18"
+  },
+  {
+   "id": "n-53a6ef1f0531",
+   "date": "2026-10-17",
+   "title": "Russian industrial zone in Sokhna now targets 2030 operations",
+   "summary": "Russia's embassy says the 50-hectare Russian Industrial Zone at Ain Sokhna (SCZone) will be designed and built over 2026–2029, with operations targeted for 2030, later than the 2028 target given earlier. Incentives include zero customs duty and VAT on inputs and a deduction of 50% of investment costs from taxable profit, which means forgone tax revenue.",
+   "figure": "50 ha; ops 2030",
+   "category": "investment",
+   "sectors": [
+    "multi-sector"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/580149.aspx",
+   "addedAt": "2026-10-18"
+  },
   {
    "id": "n-f4f3bf7e1e26",
    "date": "2026-10-15",
@@ -189,6 +217,21 @@
    "source": "Ahram Online",
    "url": "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=578873",
    "addedAt": "2026-10-14"
+  },
+  {
+   "id": "n-802ebc091a6a",
+   "date": "2026-10-13",
+   "title": "Rosatom and Teletech to assemble lithium-ion storage batteries in Egypt",
+   "summary": "Rosatom's fuel division and Egypt's Teletech signed an agreement to set up local assembly of lithium-ion battery storage systems, with a potential capacity of 500 MWh a year. No investment figure or timeline was given. The plant would support localisation of clean-energy equipment under the 2030 energy plan.",
+   "figure": "500 MWh/yr",
+   "category": "investment",
+   "sectors": [
+    "energy equipment",
+    "batteries"
+   ],
+   "source": "www1.ru",
+   "url": "https://www1.ru/en/news/2026/10/13/rosatom-vyvodit-svoiu-produkciiu-na-novyi-rynok-proizvodstvo-litii-ionnyx-batarei-naladiat-v-egipte.html",
+   "addedAt": "2026-10-18"
   },
   {
    "id": "n-93cbff0120a2",
