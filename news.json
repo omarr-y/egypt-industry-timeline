@@ -1,7 +1,51 @@
 {
- "updated": "2026-10-18",
- "count": 175,
+ "updated": "2026-10-19",
+ "count": 179,
  "items": [
+  {
+   "id": "n-a8ed60f4518b",
+   "date": "2026-10-18",
+   "title": "1,000-factory industrial zone planned behind Arish Port",
+   "summary": "The transport minister pushed faster work on the 500-km Sinai railway and a planned industrial zone in Arish Port's hinterland meant to host 1,000 factories, ordered by President El-Sisi. The project implies sizeable public infrastructure spending in North Sinai.",
+   "figure": "1,000 factories",
+   "category": "investment",
+   "sectors": [
+    "industrial zones",
+    "logistics"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/580222.aspx",
+   "addedAt": "2026-10-19"
+  },
+  {
+   "id": "n-a2c4f393e353",
+   "date": "2026-10-18",
+   "title": "Hormuz disruption creates opening for ETHYDCO polyethylene exports",
+   "summary": "ETHYDCO produced 305,000 tonnes of polyethylene in 2025, and its export sales rose 5.4%. Hormuz shipping disruptions could push buyers away from Gulf suppliers, which made up about 43% of global exports, but higher input costs may offset the gains.",
+   "figure": "305,000 t",
+   "category": "trade",
+   "sectors": [
+    "petrochemicals",
+    "chemicals"
+   ],
+   "source": "Middle East Observer",
+   "url": "https://meobserver.news/energy/2026/10/18/hormuz-disruptions-put-egyptian-polyethylene-exporters-to-the-test/",
+   "addedAt": "2026-10-19"
+  },
+  {
+   "id": "n-20dce07f486b",
+   "date": "2026-10-18",
+   "title": "Minister puts 2025 non-oil merchandise exports at $48bn",
+   "summary": "Investment and Foreign Trade Minister Mohamed Farid said non-oil merchandise exports reached $48bn in 2025, and urged firms to use trade agreements and rules of origin to expand abroad. The figure is a benchmark for export-rebate spending and the FX outlook.",
+   "figure": "$48bn",
+   "category": "trade",
+   "sectors": [
+    "exports"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/18/egypts-non-oil-exports-reach-48bn-in-2025-minister/",
+   "addedAt": "2026-10-19"
+  },
   {
    "id": "n-c64835ab0300",
    "date": "2026-10-17",
@@ -110,6 +154,21 @@
    "source": "Middle East Observer",
    "url": "https://meobserver.news/industry/2026/10/14/south-korea-doubles-egypt-sportswear-investment-to-30m-targets-2000-jobs/",
    "addedAt": "2026-10-15"
+  },
+  {
+   "id": "n-9ea7cad4b734",
+   "date": "2026-10-14",
+   "title": "Decree 501 limits metal scrap imports to licensed factories",
+   "summary": "Decree No. 501 of 2026, in force since 13 October, lets only IDA-licensed factories using scrap as an input and licensed recyclers import metal scrap, and each needs an annual WMRA permit. This tightens the feedstock supply for steelmakers and foundries.",
+   "figure": "Decree 501/2026",
+   "category": "policy",
+   "sectors": [
+    "steel",
+    "metals"
+   ],
+   "source": "GOEIC",
+   "url": "https://www.goeic.gov.eg/en/media-center/news/1534",
+   "addedAt": "2026-10-19"
   },
   {
    "id": "n-86571d1ef662",
