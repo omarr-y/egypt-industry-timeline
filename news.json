@@ -1,7 +1,52 @@
 {
- "updated": "2026-10-19",
- "count": 179,
+ "updated": "2026-10-20",
+ "count": 182,
  "items": [
+  {
+   "id": "n-a761df59623e",
+   "date": "2026-10-20",
+   "title": "Fertiglobe weighs $1.5bn-plus phosphate fertiliser complex in Ain Sokhna",
+   "summary": "Adnoc-controlled Fertiglobe is studying a DAP complex worth over $1.5bn in Ain Sokhna, producing 1.3m tons a year by 2031, subject to feasibility studies and long-term local phosphate rock supply. It fits the government push to process phosphate domestically instead of exporting raw rock, which would raise value-added exports.",
+   "figure": "$1.5bn+; 1.3m t/yr",
+   "category": "investment",
+   "sectors": [
+    "fertilisers",
+    "chemicals",
+    "mining"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/10/20/fertiglobe-weighs-a-usd-1-5-bn-plus-phosphate-fertilizer-complex-in-ain-sokhna/",
+   "addedAt": "2026-10-20"
+  },
+  {
+   "id": "n-ebb28790470b",
+   "date": "2026-10-19",
+   "title": "New drug pricing formula as manufacturers' costs rise 30–45%",
+   "summary": "EDA Decision 480 of 2026 links drug price reviews to exchange rates (60%), inflation (30%) and interest rates (10%), with about 400 repricing requests submitted, as producers report 2026 cost increases of 30–45%. Pricing rules for pharmaceuticals affect public health procurement costs and the viability of local drug production.",
+   "figure": "~400 repricing requests",
+   "category": "policy",
+   "sectors": [
+    "pharmaceuticals"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/healthcare/2026/10/19/egypt-overhauls-drug-pricing-as-production-costs-squeeze-manufacturers/",
+   "addedAt": "2026-10-20"
+  },
+  {
+   "id": "n-6ced22e83ccf",
+   "date": "2026-10-19",
+   "title": "Chemical and fertiliser exports to India jump to $627m",
+   "summary": "Chemical and fertiliser exports to India rose about 325% to $627m in January–August 2026, making India the sector's third-largest market; total sector exports reached $8.255bn, up 30%. Fertilisers make up about 88% of the India flow, so the gain depends on gas-intensive products and gas pricing for plants.",
+   "figure": "$627m (+325%)",
+   "category": "trade",
+   "sectors": [
+    "chemicals",
+    "fertilisers"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/19/egypts-chemical-exports-to-india-surge-about-325-to-627m-in-8-months/",
+   "addedAt": "2026-10-20"
+  },
   {
    "id": "n-a8ed60f4518b",
    "date": "2026-10-18",
