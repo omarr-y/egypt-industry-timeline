@@ -1,7 +1,24 @@
 {
- "updated": "2026-10-20",
- "count": 182,
+ "updated": "2026-10-21",
+ "count": 183,
  "items": [
+  {
+   "id": "n-bb9210016c48",
+   "date": "2026-10-20",
+   "title": "Engineering exports rise 4.1% to $4.35bn in eight months",
+   "summary": "Engineering Export Council data show Jan–Aug 2026 engineering exports at $4.351bn, up 4.1% from $4.181bn, a sharp slowdown from 13% growth in 2025 and well below the council's ~15% annual target. Slower growth in cables, appliances and auto components weakens the path to the $100bn export goal and the FX inflows it is meant to bring.",
+   "figure": "$4.35bn (+4.1%)",
+   "category": "trade",
+   "sectors": [
+    "engineering",
+    "cables",
+    "home appliances",
+    "automotive"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/20/egypts-engineering-exports-rise-4-1-to-4-35bn-in-8-months/",
+   "addedAt": "2026-10-21"
+  },
   {
    "id": "n-a761df59623e",
    "date": "2026-10-20",
