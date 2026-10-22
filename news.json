@@ -1,7 +1,50 @@
 {
- "updated": "2026-10-21",
- "count": 183,
+ "updated": "2026-10-22",
+ "count": 186,
  "items": [
+  {
+   "id": "n-c166126d214d",
+   "date": "2026-10-21",
+   "title": "Chemical and fertiliser exports to China jump 678% to $287m",
+   "summary": "GOEIC data cited by the chemicals export council show exports to China reached $287m in January–August 2026, up from $37m a year earlier. It adds to strong gains in India and Saudi Arabia, diversifying the sector's markets beyond Europe.",
+   "figure": "$287m (+678%)",
+   "category": "trade",
+   "sectors": [
+    "chemicals",
+    "fertilisers"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/21/egyptian-chemical-exports-to-china-surge-678-to-287m-in-8-months/",
+   "addedAt": "2026-10-22"
+  },
+  {
+   "id": "n-a9829186b04e",
+   "date": "2026-10-21",
+   "title": "Trade deficit widens 47.7% to $48.1bn in eight months",
+   "summary": "CAPMAS data show the January–August 2026 trade deficit rose to $48.1bn as imports grew 27.5% to $84.7bn while exports rose only 8.3% to $36.6bn; August exports did rise 18.7% to $4.7bn. The import surge widens external financing needs and puts pressure on FX and the budget's import-linked costs.",
+   "figure": "$48.1bn deficit (8M)",
+   "category": "trade",
+   "sectors": [
+    "all manufacturing"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=580545",
+   "addedAt": "2026-10-22"
+  },
+  {
+   "id": "n-640aef14fc2e",
+   "date": "2026-10-21",
+   "title": "Ministers meet steelmakers on billet supply, offer new licences",
+   "summary": "The industry and trade ministers met rolling mills and integrated producers under the Decree 121/2026 billet safeguard duties, offering new billet licences on more flexible pricing and payment terms and setting up a permanent committee to monitor billet supply. The talks are part of monitoring the safeguard decree, which affects both customs revenue and input costs for rolling mills.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "steel"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/21/egyptian-government-tackles-steelmakers-challenges-billet-supply/",
+   "addedAt": "2026-10-22"
+  },
   {
    "id": "n-bb9210016c48",
    "date": "2026-10-20",
