@@ -1,7 +1,38 @@
 {
- "updated": "2026-10-22",
- "count": 186,
+ "updated": "2026-10-23",
+ "count": 188,
  "items": [
+  {
+   "id": "n-8e13adbbf443",
+   "date": "2026-10-22",
+   "title": "EGEMAC's Chinese joint ventures plan up to $500m power-equipment expansion",
+   "summary": "XD-EGEMAC and CHINT-EGEMAC plan new production lines and local manufacturing of grid equipment with initial investment of up to $500m, aiming to cut import dependence. No binding agreement, financing or timetable disclosed yet.",
+   "figure": "Up to $500m",
+   "category": "investment",
+   "sectors": [
+    "electrical equipment",
+    "energy"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/business-economix/industry-insights/2026/10/22/egypt-china-ventures-plan-500m-power-equipment-expansion/",
+   "addedAt": "2026-10-23"
+  },
+  {
+   "id": "n-5b4694dcde75",
+   "date": "2026-10-22",
+   "title": "Arab Organization for Industrialization targets 20% export growth in 2027",
+   "summary": "The state-owned AOI, with 14 factories and about 12,000 staff, targets 20% export growth in 2027 and six partnerships with international OEMs. Relevant to state-enterprise export earnings and localisation goals.",
+   "figure": "+20% exports target",
+   "category": "trade",
+   "sectors": [
+    "defence",
+    "engineering",
+    "state-owned enterprises"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-aoi-targets-20-export-growth-in-2027-plans-6-international-partnerships/",
+   "addedAt": "2026-10-23"
+  },
   {
    "id": "n-c166126d214d",
    "date": "2026-10-21",
