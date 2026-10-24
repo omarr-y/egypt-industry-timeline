@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23",
- "count": 188,
+ "updated": "2026-10-24",
+ "count": 190,
  "items": [
   {
    "id": "n-8e13adbbf443",
@@ -77,6 +77,21 @@
    "addedAt": "2026-10-22"
   },
   {
+   "id": "n-605406bf497d",
+   "date": "2026-10-21",
+   "title": "Saint-Gobain doubles Ain Sokhna float glass, adds Sadat plasterboard plant",
+   "summary": "Saint-Gobain opened a second float glass line in Ain Sokhna (JV with Şişecam), doubling the site's capacity, and will launch a plasterboard plant in Sadat City in November; investment was not disclosed. Its Egypt revenue is about €150m and has tripled in eight years, so more local glass and gypsum supply can substitute for imported building materials.",
+   "figure": "2x capacity",
+   "category": "investment",
+   "sectors": [
+    "glass",
+    "building materials"
+   ],
+   "source": "Saint-Gobain",
+   "url": "https://www.saint-gobain.com/sites/saint-gobain.com/files/media/document/20261021_Saint-Gobain_Egypte_VA.pdf",
+   "addedAt": "2026-10-24"
+  },
+  {
    "id": "n-bb9210016c48",
    "date": "2026-10-20",
    "title": "Engineering exports rise 4.1% to $4.35bn in eight months",
@@ -122,6 +137,20 @@
    "source": "The Middle East Observer",
    "url": "https://meobserver.news/healthcare/2026/10/19/egypt-overhauls-drug-pricing-as-production-costs-squeeze-manufacturers/",
    "addedAt": "2026-10-20"
+  },
+  {
+   "id": "n-7776e9d8fea6",
+   "date": "2026-10-19",
+   "title": "SCZone ranked seventh in fDi global free zones awards",
+   "summary": "fDi Intelligence ranked SCZone 7th worldwide among 2026 Global Free Zones of the Year and named it Africa's best industrial zone, based on growth in occupied space, employees and tenants in 2024-25. The ranking supports SCZone's pitch for manufacturing FDI, which brings in foreign currency.",
+   "figure": "7th globally",
+   "category": "investment",
+   "sectors": [
+    "industrial zones"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-suez-canal-economic-zone-ranks-seventh-globally-in-free-zone-awards/",
+   "addedAt": "2026-10-24"
   },
   {
    "id": "n-6ced22e83ccf",
