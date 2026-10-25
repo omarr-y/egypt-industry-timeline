@@ -1,7 +1,35 @@
 {
- "updated": "2026-10-24",
- "count": 190,
+ "updated": "2026-10-25",
+ "count": 193,
  "items": [
+  {
+   "id": "n-cf1d90532053",
+   "date": "2026-10-24",
+   "title": "Egypt Forum ties industrial tax and customs incentives to local content",
+   "summary": "Egypt Forum 2026 set out plans to link tax and customs exemptions, land and licensing concessions to higher local content, to modernise the export subsidy programme and to create industrial complexes in 1,000 villages by 2030. Tying tax expenditures to local content and redesigning export support both bear directly on the budget.",
+   "figure": "1,000 village complexes by 2030",
+   "category": "policy",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Egypt Today",
+   "url": "https://www.egypttoday.com/Article/1/150233/Egypt-Forum-2026-outlines-sweeping-development-agenda-to-raise-living",
+   "addedAt": "2026-10-25"
+  },
+  {
+   "id": "n-c686a0ea2c4d",
+   "date": "2026-10-24",
+   "title": "Madbouly targets 100,000-plus cars a year with 60% local content",
+   "summary": "PM Madbouly set a target of more than 100,000 vehicles a year with 60% local content within two to three years, and said 16 industrial complexes host about 4,800 small factories and 50,000 jobs. More local car production would cut vehicle imports and the related import bill.",
+   "figure": "100k+ vehicles/yr, 60% local content",
+   "category": "policy",
+   "sectors": [
+    "automotive"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/24/egypt-targets-12-5-million-feddans-of-farmland-annual-car-production-of-100k-madbouly/",
+   "addedAt": "2026-10-25"
+  },
   {
    "id": "n-8e13adbbf443",
    "date": "2026-10-22",
@@ -32,6 +60,20 @@
    "source": "Amwal Al Ghad",
    "url": "https://en.amwalalghad.com/egypts-aoi-targets-20-export-growth-in-2027-plans-6-international-partnerships/",
    "addedAt": "2026-10-23"
+  },
+  {
+   "id": "n-0c48683758d7",
+   "date": "2026-10-22",
+   "title": "Industry minister targets 20% manufacturing share of GDP by 2030",
+   "summary": "Industry Minister Khaled Hashem said industry's share of GDP is 12.8% and the target is 20% by 2030, with non-oil manufacturing contributing about 1.1 percentage points of 5.1% GDP growth. Hitting the target would make manufacturing a much larger base for tax revenue and non-oil exports.",
+   "figure": "12.8% → 20% of GDP",
+   "category": "policy",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Egypt Today",
+   "url": "https://www.egypttoday.com/Article/3/150198/Egypt-targets-20-industrial-contribution-to-GDP-by-2030",
+   "addedAt": "2026-10-25"
   },
   {
    "id": "n-c166126d214d",
