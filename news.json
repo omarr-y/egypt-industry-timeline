@@ -1,7 +1,37 @@
 {
- "updated": "2026-10-25",
- "count": 193,
+ "updated": "2026-10-26",
+ "count": 196,
  "items": [
+  {
+   "id": "n-8de8fecca5cf",
+   "date": "2026-10-25",
+   "title": "PPP committee tenders wastewater plants for four industrial zones",
+   "summary": "The Madbouly-chaired PPP committee approved tendering industrial wastewater plants in Amreya (20,000 m³/day), Abu Rawash (20,000), Wadi El-Natrun (15,000) and El-Raswa (35,000), plus a 900,000 m³/day Port Said desalination plant. Using PPPs shifts industrial-zone infrastructure capex off the budget, though contract values were not disclosed.",
+   "figure": "4 industrial-zone plants, 90,000 m³/day",
+   "category": "investment",
+   "sectors": [
+    "industrial zones",
+    "utilities"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/25/egypt-approves-ppp-projects-for-industrial-wastewater-treatment-desalination/",
+   "addedAt": "2026-10-26"
+  },
+  {
+   "id": "n-2fecede5cba6",
+   "date": "2026-10-25",
+   "title": "Egyptian Swiss Group invests €5m in new pasta line",
+   "summary": "The exporter, which ships about 80% of output to some 60 countries, is adding a €5m (EGP 308.5m) Italian pasta line and targets EGP 11bn turnover this year. It flagged a $50–70/t rise in imported wheat costs over six weeks, a pressure on food-industry margins and import bills.",
+   "figure": "€5m line; EGP 11bn turnover target",
+   "category": "investment",
+   "sectors": [
+    "food processing",
+    "milling"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/25/egyptian-swiss-group-targets-egp-11bn-turnover-invests-e5m-in-new-pasta-line/",
+   "addedAt": "2026-10-26"
+  },
   {
    "id": "n-cf1d90532053",
    "date": "2026-10-24",
@@ -60,6 +90,23 @@
    "source": "Amwal Al Ghad",
    "url": "https://en.amwalalghad.com/egypts-aoi-targets-20-export-growth-in-2027-plans-6-international-partnerships/",
    "addedAt": "2026-10-23"
+  },
+  {
+   "id": "n-47aa020a0049",
+   "date": "2026-10-22",
+   "title": "Egypt pitches food, chemicals, garment exports to Kazakhstan",
+   "summary": "Madbouly told Kazakhstan's foreign minister that bilateral trade of about $300m (end-2025) is below potential, offering processed food, chemicals, fertilisers and garments and proposing a Kazakh logistics centre in SCZone. A joint committee will meet in Astana.",
+   "figure": "$300m bilateral trade",
+   "category": "trade",
+   "sectors": [
+    "food processing",
+    "chemicals",
+    "fertilisers",
+    "garments"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/580575.aspx",
+   "addedAt": "2026-10-26"
   },
   {
    "id": "n-0c48683758d7",
