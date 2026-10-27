@@ -1,7 +1,22 @@
 {
- "updated": "2026-10-26",
- "count": 196,
+ "updated": "2026-10-27",
+ "count": 198,
  "items": [
+  {
+   "id": "n-66cad03386a9",
+   "date": "2026-10-26",
+   "title": "Industry ministry moves to introduce 'Qeema' value certificate",
+   "summary": "Minister Khaled Hashem said the ministry will introduce the 'Qeema' certificate, scoring manufacturers on local content, supplier development and R&D and linking incentives to that score. If adopted, it would turn industrial incentives (and their fiscal cost) into performance-based rather than blanket support; no criteria or launch date yet.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "manufacturing",
+    "startups"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/26/industry-ministry-to-introduce-qeema-certificate-to-boost-local-industrial-value/",
+   "addedAt": "2026-10-27"
+  },
   {
    "id": "n-8de8fecca5cf",
    "date": "2026-10-25",
@@ -59,6 +74,22 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/10/24/egypt-targets-12-5-million-feddans-of-farmland-annual-car-production-of-100k-madbouly/",
    "addedAt": "2026-10-25"
+  },
+  {
+   "id": "n-a9244afac593",
+   "date": "2026-10-22",
+   "title": "Egypt explores tyre, palm oil plants in Côte d'Ivoire",
+   "summary": "The industry minister and Ivorian ambassador agreed to identify near-term Egyptian manufacturing projects in tyres, palm oil and agro-industry, while noting no Egyptian bank or maritime agreement exists. Africa takes only about 15% of Egypt's exports, which the 2030 industrial strategy aims to raise.",
+   "figure": "Africa ≈15% of exports",
+   "category": "trade",
+   "sectors": [
+    "tyres",
+    "food processing",
+    "agro-industry"
+   ],
+   "source": "Ahram Online",
+   "url": "https://english.ahram.org.eg/News/580598.aspx",
+   "addedAt": "2026-10-27"
   },
   {
    "id": "n-8e13adbbf443",
