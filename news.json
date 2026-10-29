@@ -1,7 +1,37 @@
 {
- "updated": "2026-10-27",
- "count": 198,
+ "updated": "2026-10-29",
+ "count": 202,
  "items": [
+  {
+   "id": "n-0365c50cfa9f",
+   "date": "2026-10-28",
+   "title": "Dairy maker Beyti plans EGP 8.7bn investment over 2025–2027",
+   "summary": "Beyti says it has invested more than EGP 7bn in Egypt and plans EGP 8.7bn of spending in 2025–2027; it exports to over 45 countries and sources 67% of inputs locally. A 7.6 MW solar plant covers about 20% of factory energy needs, easing exposure to industrial energy prices.",
+   "figure": "EGP 8.7bn plan",
+   "category": "investment",
+   "sectors": [
+    "food",
+    "dairy"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/28/beyti-invests-over-egp-7bn-in-egypt-plans-egp-8-7bn-spending-by-2027/",
+   "addedAt": "2026-10-29"
+  },
+  {
+   "id": "n-9178fad685e6",
+   "date": "2026-10-27",
+   "title": "Industry ministry prepares African Industrial Integration Initiative",
+   "summary": "At an AmCham–Afreximbank forum, the industry minister said Egypt is developing an African Industrial Integration Initiative to promote joint investment and regional value chains, prioritising food processing and pharmaceuticals. Egypt accounts for about $9.3bn of the $214bn intra-African trade, a market for non-oil export growth.",
+   "figure": "$9.3bn Egypt share of intra-African trade",
+   "category": "policy",
+   "sectors": [
+    "food",
+    "pharmaceuticals"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/egypt-to-expand-industrial-co-operation-with-african-countries",
+   "addedAt": "2026-10-29"
+  },
   {
    "id": "n-66cad03386a9",
    "date": "2026-10-26",
@@ -31,6 +61,38 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/10/25/egypt-approves-ppp-projects-for-industrial-wastewater-treatment-desalination/",
    "addedAt": "2026-10-26"
+  },
+  {
+   "id": "n-8bbb62891fbf",
+   "date": "2026-10-25",
+   "title": "Ismailia Vaccines and Biotechnology City opens first phase",
+   "summary": "The city is expected to draw about $150m in investment, with capacity targets of 140m human and 5.5bn veterinary vaccine doses a year by 2030 and a large share earmarked for export. The state aims to localise 50% of vaccine production by 2030, cutting the import bill.",
+   "figure": "$150m; 140m human doses by 2030",
+   "category": "investment",
+   "sectors": [
+    "pharmaceuticals",
+    "biotechnology"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/10/25/egypt-opens-first-phase-of-ismailia-vaccines-and-biotechnology-city-tomorrow/",
+   "addedAt": "2026-10-29"
+  },
+  {
+   "id": "n-777148bd5fa6",
+   "date": "2026-10-25",
+   "title": "Industrial production index rises 4.5% in August 2026",
+   "summary": "CAPMAS said the manufacturing and extractive index (excluding oil) rose 4.5% to 129.31 in August from 123.80 in July, led by ready-made garments (+12%), while chemicals fell 6.5% on maintenance halts. The rebound partly reverses July's 9.6% drop, a positive signal for Q1 FY2026/27 activity and tax receipts.",
+   "figure": "Index 129.31 (+4.5% m/m)",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "textiles",
+    "chemicals",
+    "automotive"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-manufacturing-extractive-industries-index-rises-4-5-in-august-capmas/",
+   "addedAt": "2026-10-29"
   },
   {
    "id": "n-2fecede5cba6",
