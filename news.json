@@ -1,7 +1,24 @@
 {
- "updated": "2026-10-29",
- "count": 202,
+ "updated": "2026-10-30",
+ "count": 206,
  "items": [
+  {
+   "id": "n-44c86f3d349c",
+   "date": "2026-10-28",
+   "title": "Egypt courts Qatari firms for mining, fertiliser and petrochemical investment",
+   "summary": "At the 2026 World Investment Forum in Doha, the investment minister pitched Aamal, Qatar Mining and Qatar Industrial Manufacturing Company on projects in industry, mining and metals, fertilisers, chemicals and petrochemicals. These are early-stage talks and no investment amounts were given.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "mining",
+    "metals",
+    "fertilizers",
+    "petrochemicals"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypt-courts-investment-in-mining-industry-from-3-qatari-firms/",
+   "addedAt": "2026-10-30"
+  },
   {
    "id": "n-0365c50cfa9f",
    "date": "2026-10-28",
@@ -18,6 +35,20 @@
    "addedAt": "2026-10-29"
   },
   {
+   "id": "n-fca0c4dffd24",
+   "date": "2026-10-27",
+   "title": "World Bank manufacturing conference: Egypt sets three-pillar industrial policy",
+   "summary": "At the 5th World Bank Group Global Manufacturing Conference in Cairo (26–28 October), the planning minister said industrial policy under the 2027–2030 Economic Transformation Programme rests on three pillars: private-sector empowerment, industrial clusters and green manufacturing, and de-risking investment and widening finance. The emphasis on de-risking and finance points to possible future guarantee or credit-line costs for the budget, and green manufacturing is framed around meeting the EU CBAM.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/manufacturing-key-to-egypts-economic-growth",
+   "addedAt": "2026-10-30"
+  },
+  {
    "id": "n-9178fad685e6",
    "date": "2026-10-27",
    "title": "Industry ministry prepares African Industrial Integration Initiative",
@@ -31,6 +62,37 @@
    "source": "Egyptian Gazette",
    "url": "https://egyptian-gazette.com/egypt/egypt-to-expand-industrial-co-operation-with-african-countries",
    "addedAt": "2026-10-29"
+  },
+  {
+   "id": "n-277b28ac3815",
+   "date": "2026-10-27",
+   "title": "Investment minister presses WTO chief on CBAM burden for exporters",
+   "summary": "Minister Mohamed Farid asked WTO Director-General Okonjo-Iweala to recognise equivalence between carbon-market systems so that the EU CBAM burden on Egyptian exporters is reduced, and to restore WTO dispute settlement. No figures were given, but CBAM is a growing cost risk for Egypt's energy-intensive exports to the EU.",
+   "figure": "",
+   "category": "trade",
+   "sectors": [
+    "manufacturing",
+    "exports"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/27/investment-minister-wto-chief-discuss-measures-to-boost-egyptian-exports/",
+   "addedAt": "2026-10-30"
+  },
+  {
+   "id": "n-b98c56797171",
+   "date": "2026-10-26",
+   "title": "Madbouly urges local manufacturing of water and sanitation equipment",
+   "summary": "At IWWI 2026, PM Madbouly called for local production of electromechanical equipment, water-treatment technologies and chemicals such as polyaluminium chloride, so that water projects rely less on imports. State water and sanitation capex is large, so higher local content could reduce import bills and FX demand on public projects.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "water equipment",
+    "chemicals",
+    "engineering"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/26/egypts-pm-madbouly-urges-localisation-of-water-equipment-manufacturing-and-private-sector-partnerships-at-iwwi-2026/",
+   "addedAt": "2026-10-30"
   },
   {
    "id": "n-66cad03386a9",
