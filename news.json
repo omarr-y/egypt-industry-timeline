@@ -1,7 +1,22 @@
 {
- "updated": "2026-10-30",
- "count": 206,
+ "updated": "2026-10-31",
+ "count": 209,
  "items": [
+  {
+   "id": "n-c496dc34c112",
+   "date": "2026-10-28",
+   "title": "Scatec secures $217m debt for Egypt Aluminium solar-storage plant",
+   "summary": "EBRD, AfDB and EIB will lend $217m (about 80% of $271m phase-one capex) for a 569 MW solar plant with 100 MWh storage supplying Egypt Aluminium under a 25-year, sovereign-guaranteed PPA, with operation targeted for H1 2028. Cheaper green power cuts the smelter's energy costs and CBAM exposure, but the sovereign guarantee is a contingent liability for the budget.",
+   "figure": "$217m",
+   "category": "investment",
+   "sectors": [
+    "aluminium",
+    "energy"
+   ],
+   "source": "Energy-pedia",
+   "url": "https://www.energy-pedia.com/news/egypt/scatec-secures-financing-for-the-first-phase-of-the-dandara-solar-and-bess-project-in-egypt-205865",
+   "addedAt": "2026-10-31"
+  },
   {
    "id": "n-44c86f3d349c",
    "date": "2026-10-28",
@@ -95,6 +110,21 @@
    "addedAt": "2026-10-30"
   },
   {
+   "id": "n-b8358b300c34",
+   "date": "2026-10-26",
+   "title": "State-owned KIMA posts record EGP 11.23bn revenue, profit up 82%",
+   "summary": "Egyptian Chemical Industries (KIMA) reported FY2025/26 revenue of EGP 11.23bn (+31%), net profit of EGP 1.79bn (+82%) and exports of EGP 8.26bn (+24%), even as urea export volumes fell to 293,005 tonnes. Stronger profits at a state holding-company affiliate can lift dividend transfers to the treasury.",
+   "figure": "EGP 11.23bn",
+   "category": "investment",
+   "sectors": [
+    "fertilizers",
+    "chemicals"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/business-economix/industry-insights/2026/10/26/egypts-kima-posts-record-egp11-23bn-revenue-as-profit-jumps-82/",
+   "addedAt": "2026-10-31"
+  },
+  {
    "id": "n-66cad03386a9",
    "date": "2026-10-26",
    "title": "Industry ministry moves to introduce 'Qeema' value certificate",
@@ -108,6 +138,21 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/10/26/industry-ministry-to-introduce-qeema-certificate-to-boost-local-industrial-value/",
    "addedAt": "2026-10-27"
+  },
+  {
+   "id": "n-1cded33781c2",
+   "date": "2026-10-26",
+   "title": "Sugar byproduct exports up 54% to $176m in 2025",
+   "summary": "Food Export Council data show sugar-processing byproduct exports rose 54% to $176m in 2025 (about 889,000 tonnes), making Egypt the world's second-largest exporter, with China the top buyer at $46m. A small but fast-growing non-oil export line from agro-industry.",
+   "figure": "$176m",
+   "category": "trade",
+   "sectors": [
+    "food",
+    "sugar"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/business/2026/10/27/egypts-sugar-byproduct-exports-surge-54-as-china-becomes-top-buyer/",
+   "addedAt": "2026-10-31"
   },
   {
    "id": "n-8de8fecca5cf",
