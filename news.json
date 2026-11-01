@@ -1,7 +1,22 @@
 {
- "updated": "2026-10-31",
- "count": 209,
+ "updated": "2026-11-01",
+ "count": 210,
  "items": [
+  {
+   "id": "n-607198e9edc8",
+   "date": "2026-10-31",
+   "title": "IDA speeds industrial building permits, eases construction insurance rules",
+   "summary": "From 1 November 2026, the Decennial Insurance Pool reviews structural designs only after the IDA approves architectural drawings, and a 90% cut in the construction-cost basis exempts most small and medium factories from submitting insurance policies. This lowers setup time and compliance costs for new industrial facilities.",
+   "figure": "90% cut in insurance cost basis",
+   "category": "policy",
+   "sectors": [
+    "manufacturing",
+    "construction"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/10/31/ida-streamlines-industrial-building-permit-procedures-from-1-november/",
+   "addedAt": "2026-11-01"
+  },
   {
    "id": "n-c496dc34c112",
    "date": "2026-10-28",
