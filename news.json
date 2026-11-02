@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-01",
- "count": 210,
+ "updated": "2026-11-02",
+ "count": 213,
  "items": [
+  {
+   "id": "n-dd8d0247c65e",
+   "date": "2026-11-01",
+   "title": "First locally assembled electric car rolls off El Nasr line",
+   "summary": "State-owned El Nasr Automotive began assembling the Dongfeng MAGE EV in Helwan through SN Automotive, a $40m joint venture with Al Safy Group, at 45% local content per the Cabinet. It is a first step for the automotive localisation programme, but more than half the car is still imported, limiting the import-substitution gain.",
+   "figure": "45% local content; $40m JV",
+   "category": "investment",
+   "sectors": [
+    "automotive",
+    "electric vehicles"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/11/01/the-countrys-first-locally-assembled-ev-rolls-off-the-line-at-el-nasr/",
+   "addedAt": "2026-11-02"
+  },
+  {
+   "id": "n-1c63a7a95876",
+   "date": "2026-11-01",
+   "title": "Chemical and fertiliser exports jump 34% to $9.54bn in nine months",
+   "summary": "The Chemical and Fertilisers Export Council said exports reached $9.54bn in January–September 2026, up from $7.14bn a year earlier, led by fertilisers ($2.53bn) and petrochemicals ($2.43bn), with the EU taking 36.4%. The extra $2.4bn in FX earnings supports the current account, though the sector depends on subsidised-gas pricing decisions.",
+   "figure": "$9.54bn (+34%)",
+   "category": "trade",
+   "sectors": [
+    "chemicals",
+    "fertilisers",
+    "petrochemicals",
+    "plastics"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/01/egypts-chemical-industries-fertiliser-exports-jump-34-to-9-54bn-in-9m-2026/",
+   "addedAt": "2026-11-02"
+  },
   {
    "id": "n-607198e9edc8",
    "date": "2026-10-31",
@@ -16,6 +48,20 @@
    "source": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/10/31/ida-streamlines-industrial-building-permit-procedures-from-1-november/",
    "addedAt": "2026-11-01"
+  },
+  {
+   "id": "n-e27d7b51cfcd",
+   "date": "2026-10-29",
+   "title": "Edita plans EGP 4bn investment, new 6th of October plant",
+   "summary": "Snack maker Edita plans to invest up to EGP 4bn in 2026 and open a four-line plant in 6th of October City in Q1 2027, lifting capacity about 10%, while targeting sales of EGP 26bn. Private food-processing capex like this supports manufacturing growth and future corporate tax receipts.",
+   "figure": "EGP 4bn",
+   "category": "investment",
+   "sectors": [
+    "food processing"
+   ],
+   "source": "Zawya",
+   "url": "https://www.tradingview.com/news/reuters.com,2026-10-29:newsml_Zawb2XmJm:0-zawya-egypt-edita-plans-up-to-71-3mln-in-investments-for-2026/",
+   "addedAt": "2026-11-02"
   },
   {
    "id": "n-c496dc34c112",
