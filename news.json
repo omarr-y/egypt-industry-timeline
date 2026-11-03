@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-02",
- "count": 213,
+ "updated": "2026-11-03",
+ "count": 217,
  "items": [
+  {
+   "id": "n-62dbdeaa9835",
+   "date": "2026-11-02",
+   "title": "Free-zone levy shelved until IMF review; state covers factory property tax",
+   "summary": "Tax official Ramy Youssef said the planned levy of up to 4% on free-zone goods sold domestically won't come before the IMF's eighth review closes, and the state is carrying factories' property tax while talks with the Federation of Industries continue. A business zones bill offering tax and customs incentives to export-oriented firms still needs Cabinet approval.",
+   "figure": "Free-zone levy up to 4%",
+   "category": "policy",
+   "sectors": [
+    "manufacturing",
+    "free zones"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/11/02/coffee-with-ramy-youssef-on-what-egypts-tax-strategy-will-say-and-what-it-wont/",
+   "addedAt": "2026-11-03"
+  },
+  {
+   "id": "n-1f31a53821b6",
+   "date": "2026-11-02",
+   "title": "China's Boomy discusses solar cell factory with Egyptian ministers",
+   "summary": "Electricity and Military Production ministers met China's Boomy Intelligent Group, which reportedly plans a solar cell factory in Egypt and may partner on components for solar projects. No investment amount or capacity was given.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "solar equipment",
+    "electronics"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/electricity-military-production-ministers-discuss-solar-cell-manufacturing-with-chinas-boomy/",
+   "addedAt": "2026-11-03"
+  },
   {
    "id": "n-dd8d0247c65e",
    "date": "2026-11-01",
@@ -16,6 +46,21 @@
    "source": "Enterprise",
    "url": "https://enterpriseam.com/egypt/2026/11/01/the-countrys-first-locally-assembled-ev-rolls-off-the-line-at-el-nasr/",
    "addedAt": "2026-11-02"
+  },
+  {
+   "id": "n-d34503b13fed",
+   "date": "2026-11-01",
+   "title": "PM reviews 1,000 MW 'Shams El-Senaa' solar plan for 7,000 factories",
+   "summary": "Madbouly reviewed rollout of the Shams El-Senaa initiative, which plans 1,000 MW of solar capacity for about 7,000 factories to cut industrial electricity bills and gas use. Lower energy costs for manufacturers could reduce pressure on energy subsidies and free gas for export; costs and financing were not disclosed.",
+   "figure": "1,000 MW for ~7,000 factories",
+   "category": "policy",
+   "sectors": [
+    "energy",
+    "manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/01/egypt-plans-1000mw-solar-capacity-to-power-7000-factories/",
+   "addedAt": "2026-11-03"
   },
   {
    "id": "n-1c63a7a95876",
@@ -109,6 +154,23 @@
    "source": "Daily News Egypt",
    "url": "https://www.dailynewsegypt.com/2026/10/28/beyti-invests-over-egp-7bn-in-egypt-plans-egp-8-7bn-spending-by-2027/",
    "addedAt": "2026-10-29"
+  },
+  {
+   "id": "n-ff407f053431",
+   "date": "2026-10-27",
+   "title": "Egypt's exports to African Union countries slip to $7.6bn in 2025",
+   "summary": "Exports to AU countries fell to about $7.6bn in 2025 from $7.8bn, led by electrical machinery ($634m), plastics ($544m) and iron and steel ($528m); Libya, Algeria and Morocco were top buyers. Egypt's share of the $214bn intra-African trade was about 4.4%.",
+   "figure": "$7.6bn (2025)",
+   "category": "trade",
+   "sectors": [
+    "engineering",
+    "plastics",
+    "steel",
+    "food"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://www.dailynewsegypt.com/2026/10/27/egypt-seeks-to-expand-exports-to-africa-as-intra-african-trade-reaches-214bn/",
+   "addedAt": "2026-11-03"
   },
   {
    "id": "n-fca0c4dffd24",
