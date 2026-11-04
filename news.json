@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-03",
- "count": 217,
+ "updated": "2026-11-04",
+ "count": 220,
  "items": [
+  {
+   "id": "n-ea169d709438",
+   "date": "2026-11-03",
+   "title": "Egypt PMI flat at 47.2 in October, tenth month of contraction",
+   "summary": "S&P Global's Egypt non-oil PMI held at 47.2 in October, with output and new orders falling at the fastest pace in four months and employment back in contraction. Input-cost inflation hit a five-month high (imports, energy, shipping, weaker pound), pointing to pass-through pressure on prices and weaker activity-linked tax receipts.",
+   "figure": "PMI 47.2",
+   "category": "pmi",
+   "sectors": [
+    "non-oil private sector",
+    "manufacturing"
+   ],
+   "source": "FX.co (S&P Global data)",
+   "url": "https://www.fx.co/en/forex-news/3268328",
+   "addedAt": "2026-11-04"
+  },
+  {
+   "id": "n-7fed9fa29488",
+   "date": "2026-11-03",
+   "title": "Supreme Energy Council reviews power supply for 11 industrial projects",
+   "summary": "The Supreme Energy Council reviewed electricity, gas and water requests for 11 new industrial projects and factory expansions (food, tyres, steel, iron rolling, ceramics in SCZone) and approved a number of them. Energy allocation to energy-intensive plants shapes both industrial capacity and the energy subsidy bill.",
+   "figure": "11 projects",
+   "category": "policy",
+   "sectors": [
+    "steel",
+    "food",
+    "tyres",
+    "ceramics",
+    "energy"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/03/supreme-energy-council-discusses-electricity-supply-for-11-new-industrial-projects-factory-expansions/",
+   "addedAt": "2026-11-04"
+  },
+  {
+   "id": "n-00232a2bd6b0",
+   "date": "2026-11-03",
+   "title": "Mansour Group targets Q1 2027 completion of 6th October EV plant",
+   "summary": "PM Madbouly reviewed Mansour Automotive Group's electric-vehicle and components plant in 6th of October City, due for completion in Q1 2027 (construction began late 2025); no investment or capacity figure was given. It adds to the government's car-localisation push aimed at cutting import bills.",
+   "figure": "Completion Q1 2027",
+   "category": "investment",
+   "sectors": [
+    "automotive",
+    "electric vehicles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/03/mansour-group-targets-q1-2027-completion-for-electric-vehicle-plant-in-6th-of-october-city/",
+   "addedAt": "2026-11-04"
+  },
   {
    "id": "n-62dbdeaa9835",
    "date": "2026-11-02",
