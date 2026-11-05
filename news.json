@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-04",
- "count": 220,
+ "updated": "2026-11-05",
+ "count": 225,
  "items": [
+  {
+   "id": "n-29fe0f6dbdc8",
+   "date": "2026-11-05",
+   "title": "Government waives 5% development fee for zone-based phone makers",
+   "summary": "The 5% development fee will no longer apply to handsets that economic- and investment-zone manufacturers sell domestically, in return for commitments to new investment and capacity. A direct revenue cost to the budget, aimed at reviving local handset sales, which fell about 20% this year.",
+   "figure": "5% fee waived",
+   "category": "policy",
+   "sectors": [
+    "electronics",
+    "mobile phones"
+   ],
+   "source": "EnterpriseAM",
+   "url": "https://enterpriseam.com/egypt/2026/11/05/govt-waives-the-5-development-fee-for-zone-based-phone-makers-selling-locally/",
+   "addedAt": "2026-11-05"
+  },
+  {
+   "id": "n-c64d97a4dd03",
+   "date": "2026-11-04",
+   "title": "Ministry negotiating takeovers of about 30 distressed factories",
+   "summary": "Industry Minister Khaled Hashem told Parliament the ministry is negotiating stakes in around 30 distressed factories and assessing 51 for restructuring, with the EGP 1bn restructuring fund eyeing its first deal (a chemicals maker) in December. Contributions of EGP 30–50mn per factory imply contingent quasi-fiscal exposure via state-backed funds.",
+   "figure": "~30 factories",
+   "category": "policy",
+   "sectors": [
+    "chemicals",
+    "manufacturing"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/11/04/egypt-targets-30-factory-takeovers-as-industrial-revival-fund-eyes-first-december-deal/",
+   "addedAt": "2026-11-05"
+  },
   {
    "id": "n-ea169d709438",
    "date": "2026-11-03",
@@ -34,6 +64,37 @@
    "source": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/11/03/supreme-energy-council-discusses-electricity-supply-for-11-new-industrial-projects-factory-expansions/",
    "addedAt": "2026-11-04"
+  },
+  {
+   "id": "n-45f00b3404da",
+   "date": "2026-11-03",
+   "title": "Jiangsu General plans $295m tyre plant in SCZone",
+   "summary": "China's Jiangsu General board approved a $295m factory in the Suez Canal Economic Zone with capacity of 6 million semi-steel and 800,000 all-steel radial tyres a year. Adds import-substituting and export capacity in a sector Egypt largely imports.",
+   "figure": "$295m",
+   "category": "investment",
+   "sectors": [
+    "tyres",
+    "automotive"
+   ],
+   "source": "Tyrepress",
+   "url": "https://www.tyrepress.com/2026/11/jiangsu-general-plans-egypt-tyre-plant-and-cambodia-expansion/",
+   "addedAt": "2026-11-05"
+  },
+  {
+   "id": "n-1d8ccad49879",
+   "date": "2026-11-03",
+   "title": "MOPCO says output continues despite reported 20% gas cut",
+   "summary": "Fertiliser maker MOPCO told the EGX it is adjusting production to available gas after reports of a 20% cut in natural gas supplies to fertiliser plants amid rising import costs. Gas curbs risk fertiliser export earnings (MOPCO exported 956,000 t of urea in 2025) while easing the import bill.",
+   "figure": "20% gas cut",
+   "category": "policy",
+   "sectors": [
+    "fertilisers",
+    "chemicals",
+    "energy"
+   ],
+   "source": "Egypt Oil & Gas",
+   "url": "https://egyptoil-gas.com/news/mopco-reports-uninterrupted-operations-despite-reported-gas-supply-cuts-to-fertilizer-plants/",
+   "addedAt": "2026-11-05"
   },
   {
    "id": "n-00232a2bd6b0",
@@ -79,6 +140,21 @@
    "source": "Egyptian Gazette",
    "url": "https://egyptian-gazette.com/egypt/electricity-military-production-ministers-discuss-solar-cell-manufacturing-with-chinas-boomy/",
    "addedAt": "2026-11-03"
+  },
+  {
+   "id": "n-05c22ceb8b3b",
+   "date": "2026-11-02",
+   "title": "Garment exports rise 16% to $2.88bn in nine months",
+   "summary": "Ready-made garment exports grew 16% to $2.88bn in January–September 2026, according to the Ready-Made Garments Export Council, which says the sector met its growth targets. Keeps garments among the fastest-growing non-oil export lines and a key user of export rebate funds.",
+   "figure": "$2.88bn (+16%)",
+   "category": "trade",
+   "sectors": [
+    "textiles",
+    "garments"
+   ],
+   "source": "Business Today (via PressBee)",
+   "url": "https://eng.pressbee.net/show4953306.html",
+   "addedAt": "2026-11-05"
   },
   {
    "id": "n-dd8d0247c65e",
