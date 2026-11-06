@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05",
- "count": 225,
+ "updated": "2026-11-06",
+ "count": 230,
  "items": [
   {
    "id": "n-29fe0f6dbdc8",
@@ -18,6 +18,36 @@
    "addedAt": "2026-11-05"
   },
   {
+   "id": "n-f0907683a1ec",
+   "date": "2026-11-04",
+   "title": "Global automaker to build three EV models, 100,000 a year by 2032",
+   "summary": "Industry Minister Khaled Hashem told PM Madbouly a major international automaker will start making three EV models in Egypt in 2027, reaching 100,000 vehicles a year by 2032 with local content rising from 10% to 27%. The government is studying further EV incentives, a possible future tax-expenditure cost under the automotive programme.",
+   "figure": "100,000 EVs/yr by 2032",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "electric vehicles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/04/egypt-targets-annual-production-of-100000-electric-vehicles-by-2032/",
+   "addedAt": "2026-11-06"
+  },
+  {
+   "id": "n-e9cd85beec6b",
+   "date": "2026-11-04",
+   "title": "Government weighs large EgyptAlum stake sale on EGX before year-end",
+   "summary": "A senior official says a large stake in Egypt Aluminium will be sold on the EGX before year-end, size pending a fair-value study. The sale would feed the state's IMF-linked asset-sale proceeds target.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "aluminium",
+    "metals"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/11/04/the-government-is-weighing-a-large-egyptalum-stake-sale-on-the-egx-before-year-end/",
+   "addedAt": "2026-11-06"
+  },
+  {
    "id": "n-c64d97a4dd03",
    "date": "2026-11-04",
    "title": "Ministry negotiating takeovers of about 30 distressed factories",
@@ -31,6 +61,22 @@
    "source": "The Middle East Observer",
    "url": "https://meobserver.news/industry/2026/11/04/egypt-targets-30-factory-takeovers-as-industrial-revival-fund-eyes-first-december-deal/",
    "addedAt": "2026-11-05"
+  },
+  {
+   "id": "n-987438f0e1be",
+   "date": "2026-11-04",
+   "title": "Sisi wants AOI turned into an industrial integration platform",
+   "summary": "President Sisi asked the Arab Organization for Industrialization to become a platform combining its factories, private-sector expertise and foreign investment, with plans to localise new manufacturing technologies. No investment figures were given; it signals a bigger state-owned role in localisation drives such as transport equipment.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "engineering",
+    "automotive",
+    "transport equipment"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/04/al-sisi-calls-for-transforming-aoi-into-industrial-integration-platform/",
+   "addedAt": "2026-11-06"
   },
   {
    "id": "n-ea169d709438",
@@ -81,6 +127,20 @@
    "addedAt": "2026-11-05"
   },
   {
+   "id": "n-3fc11cd31f17",
+   "date": "2026-11-03",
+   "title": "Egypt and Samsung discuss local ultrasound and mobile X-ray production",
+   "summary": "The health minister discussed a factory in Egypt to make Samsung ultrasound devices with local agent Al-Radwan, plus a study on digital mobile X-ray units. No investment value or timetable was disclosed; local production could cut the import bill for public-hospital equipment.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "medical devices"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/03/egypt-discusses-local-production-of-ultrasound-mobile-x-ray-devices-with-samsung/",
+   "addedAt": "2026-11-06"
+  },
+  {
    "id": "n-1d8ccad49879",
    "date": "2026-11-03",
    "title": "MOPCO says output continues despite reported 20% gas cut",
@@ -95,6 +155,21 @@
    "source": "Egypt Oil & Gas",
    "url": "https://egyptoil-gas.com/news/mopco-reports-uninterrupted-operations-despite-reported-gas-supply-cuts-to-fertilizer-plants/",
    "addedAt": "2026-11-05"
+  },
+  {
+   "id": "n-157e4a6b9ecc",
+   "date": "2026-11-03",
+   "title": "Battery storage push targets 13.85 GWh and $3bn by 2030",
+   "summary": "Egypt plans to raise battery storage from about 500 MWh to 13.85 GWh by 2030, targeting USD 3bn of investment, with Chinese partners behind most announced battery factories. It shows a new manufacturing cluster forming largely on development-lender finance.",
+   "figure": "13.85 GWh / $3bn by 2030",
+   "category": "investment",
+   "sectors": [
+    "batteries",
+    "renewable energy equipment"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/goinggreens/egypts-battery-push-leans-on-development-lenders-and-chinese-factories/",
+   "addedAt": "2026-11-06"
   },
   {
    "id": "n-00232a2bd6b0",
