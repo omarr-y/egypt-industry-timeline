@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-06",
- "count": 230,
+ "updated": "2026-11-07",
+ "count": 232,
  "items": [
+  {
+   "id": "n-387a7c88284b",
+   "date": "2026-11-06",
+   "title": "Cabinet approves new export rebate programme, support up 35% on average",
+   "summary": "The cabinet approved on 5 November a new export support programme raising rebates by an average 35% (free zones excluded) for shipments from November, adding the US and Southeast Asian markets. The FY2026/27 budget allocates EGP 48bn for export support versus EGP 28bn a year earlier, so the higher rates raise pressure on that line.",
+   "figure": "+35% avg support; EGP 48bn budget",
+   "category": "trade",
+   "sectors": [
+    "exports"
+   ],
+   "source": "Zawia3",
+   "url": "https://zawia3.com/en/export-subsidy/",
+   "addedAt": "2026-11-07"
+  },
   {
    "id": "n-29fe0f6dbdc8",
    "date": "2026-11-05",
@@ -92,6 +106,20 @@
    "source": "FX.co (S&P Global data)",
    "url": "https://www.fx.co/en/forex-news/3268328",
    "addedAt": "2026-11-04"
+  },
+  {
+   "id": "n-9cfdeadba349",
+   "date": "2026-11-03",
+   "title": "Madbouly backs steel trade remedies at 19th Arab Steel Summit",
+   "summary": "Opening the Arab Steel Summit in Cairo (3–4 November), PM Madbouly said Arab steel output reached about 45m tonnes in 2025 and Egypt will keep using trade remedies where justified. Signals continued protection amid the billet anti-dumping dispute, with the industry ministry pushing localisation and higher value added in steel.",
+   "figure": "45m t Arab steel output (2025)",
+   "category": "policy",
+   "sectors": [
+    "steel"
+   ],
+   "source": "SteelOrbis",
+   "url": "https://www.steelorbis.com/steel-news/latest-news/egypt-emphasizes-steel-industry-competitiveness-and-regional-cooperation-at-19th-arab-steel-summit-1487855.htm",
+   "addedAt": "2026-11-07"
   },
   {
    "id": "n-7fed9fa29488",
