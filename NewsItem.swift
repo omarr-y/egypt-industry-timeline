@@ -28,7 +28,7 @@ struct NewsItem: Decodable, Identifiable, Hashable {
     let title: String
     let summary: String
     let figure: String        // may be ""
-    let category: String      // "pmi" | "policy" | "investment" | "trade"
+    let category: String      // "pmi" | "policy" | "investment" | "trade" | "construction"
     let sectors: [String]
     let source: String
     let url: String
@@ -96,13 +96,13 @@ struct NewsItem: Decodable, Identifiable, Hashable {
     }()
 }
 
-/// The four categories, with a label, icon and colour for each.
+/// The five categories, with a label, icon and colour for each.
 enum NewsCategory: String, CaseIterable, Identifiable {
-    case pmi, policy, investment, trade, other
+    case pmi, policy, investment, trade, construction, other
 
     var id: String { rawValue }
 
-    static var filterable: [NewsCategory] { [.pmi, .policy, .investment, .trade] }
+    static var filterable: [NewsCategory] { [.pmi, .policy, .investment, .trade, .construction] }
 
     var label: String {
         switch self {
@@ -110,6 +110,7 @@ enum NewsCategory: String, CaseIterable, Identifiable {
         case .policy: return "Policy"
         case .investment: return "Investment"
         case .trade: return "Trade"
+        case .construction: return "Construction"
         case .other: return "Other"
         }
     }
@@ -120,6 +121,7 @@ enum NewsCategory: String, CaseIterable, Identifiable {
         case .policy: return "building.columns"
         case .investment: return "building.2"
         case .trade: return "shippingbox"
+        case .construction: return "hammer"
         case .other: return "circle"
         }
     }
@@ -130,6 +132,10 @@ enum NewsCategory: String, CaseIterable, Identifiable {
         case .policy: return .purple
         case .investment: return .green
         case .trade: return .orange
+        // #5E7A2E in light mode, #A9C46A in dark mode.
+        case .construction: return Color(UIColor { $0.userInterfaceStyle == .dark
+            ? UIColor(red: 0.663, green: 0.769, blue: 0.416, alpha: 1)
+            : UIColor(red: 0.369, green: 0.478, blue: 0.180, alpha: 1) })
         case .other: return .gray
         }
     }

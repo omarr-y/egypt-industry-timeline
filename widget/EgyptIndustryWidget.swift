@@ -31,13 +31,14 @@ struct WidgetItem: Decodable, Identifiable {
         return WidgetItem.dayMonth.string(from: d)
     }
 
-    /// "INVESTMENT", "PMI", ...
+    /// "INVESTMENT", "PMI", "CONSTRUCTION", ...
     var categoryLabel: String {
         switch category {
         case "pmi": return "PMI & OUTPUT"
         case "policy": return "POLICY"
         case "investment": return "INVESTMENT"
         case "trade": return "TRADE"
+        case "construction": return "CONSTRUCTION"
         default: return category.uppercased()
         }
     }

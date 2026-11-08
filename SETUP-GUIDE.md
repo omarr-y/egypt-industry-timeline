@@ -80,7 +80,7 @@ Follow the official guide at **altstore.io** ("Get Started → macOS"). In short
 ## Using the app
 
 - **Pull down** on the list to fetch the latest data from GitHub.
-- **Category chips** at the top filter by PMI & output, Policy, Investment or Trade. Tap again to clear.
+- **Category chips** at the top filter by PMI & output, Policy, Investment, Trade or Construction. Tap again to clear.
 - **Search** matches titles, summaries, sectors and sources.
 - **Tap an item** for the full summary, the key figure, and a button to open the original article.
 

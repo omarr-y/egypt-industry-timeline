@@ -186,7 +186,7 @@ struct StarButton: View {
     }
 }
 
-/// Horizontal row of filter buttons: All, New, PMI, Policy, Investment, Trade.
+/// Horizontal row of filter buttons: All, New, PMI, Policy, Investment, Trade, Construction.
 struct FilterChips: View {
     @Binding var selected: NewsCategory?
     @Binding var onlyNew: Bool
