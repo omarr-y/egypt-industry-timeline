@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-07",
- "count": 232,
+ "updated": "2026-11-08",
+ "count": 236,
  "items": [
+  {
+   "id": "n-70286fc34798",
+   "date": "2026-11-07",
+   "title": "Sisi calls for localising military vehicle production and EV manufacturing",
+   "summary": "President Al-Sisi directed deeper local production of military vehicles, equipment and spare parts with an eye to exports, and reviewed EV prototypes under plans to expand local EV manufacturing. No figures were given; a defence industries chamber is planned.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "defence"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/07/al-sisi-calls-for-localising-military-vehicle-production-expanding-ev-manufacturing/",
+   "addedAt": "2026-11-08"
+  },
+  {
+   "id": "n-0c1c9116d383",
+   "date": "2026-11-07",
+   "title": "Chemical and fertiliser exports to France up 10.1% to $333m",
+   "summary": "The Chemical and Fertilisers Export Council reports exports to France of $333m in January–September 2026 (fertilisers $153m), with total sector exports to the EU up 16% to $3.47bn. EU demand supports FX earnings, though CBAM exposure looms for fertilisers.",
+   "figure": "$333m (+10.1%)",
+   "category": "trade",
+   "sectors": [
+    "chemicals",
+    "fertilisers"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/07/egyptian-chemical-fertiliser-exports-to-france-reach-333m-in-9-months-up-10-1/",
+   "addedAt": "2026-11-08"
+  },
   {
    "id": "n-387a7c88284b",
    "date": "2026-11-06",
@@ -77,6 +107,21 @@
    "addedAt": "2026-11-05"
   },
   {
+   "id": "n-afce08bf40f9",
+   "date": "2026-11-04",
+   "title": "Egyptalum raises domestic aluminium prices 7–8% for November",
+   "summary": "Egypt Aluminium lifted local prices by EGP 15,000/tonne from 1 November (cold-rolled sheet EGP 229,000/t), citing power costs that rose 16% to EGP 8.5bn in FY2025/26 and a weaker pound. Higher input costs squeeze downstream manufacturers and matter for the planned state stake sale.",
+   "figure": "+EGP 15,000/t",
+   "category": "policy",
+   "sectors": [
+    "aluminium",
+    "metals"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/11/04/egypt-aluminium-raises-prices-8-as-energy-costs-and-pound-devaluation-squeeze-local-manufacturers/",
+   "addedAt": "2026-11-08"
+  },
+  {
    "id": "n-987438f0e1be",
    "date": "2026-11-04",
    "title": "Sisi wants AOI turned into an industrial integration platform",
@@ -91,6 +136,24 @@
    "source": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/11/04/al-sisi-calls-for-transforming-aoi-into-industrial-integration-platform/",
    "addedAt": "2026-11-06"
+  },
+  {
+   "id": "n-6a21f63920de",
+   "date": "2026-11-04",
+   "title": "August exports rise 12.4% to $4.7bn, deficit widens 29%",
+   "summary": "CAPMAS data show total exports up 12.4% y/y to $4.7bn in August 2026, led by petroleum products (+75.6%) with garments up 21.2% and fertilisers 5.2%, while medicines (-8%) and furniture (-16.1%) fell. The trade deficit widened 29% to $6.4bn, so non-oil export momentum remains narrow.",
+   "figure": "$4.7bn (+12.4%)",
+   "category": "trade",
+   "sectors": [
+    "garments",
+    "fertilisers",
+    "food",
+    "pharmaceuticals",
+    "furniture"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-exports-rise-12-4-in-august-2026-as-trade-deficit-widens-capmas/",
+   "addedAt": "2026-11-08"
   },
   {
    "id": "n-ea169d709438",
