@@ -1,7 +1,50 @@
 {
- "updated": "2026-11-08",
- "count": 236,
+ "updated": "2026-11-09",
+ "count": 242,
  "items": [
+  {
+   "id": "n-6c7ec822b86c",
+   "date": "2026-11-09",
+   "title": "Gas curtailments to fertiliser and methanol plants deepened to 33%",
+   "summary": "The government raised gas supply cuts to fertiliser and methanol plants to 33% as LNG import costs surge, up from roughly 20% cuts reported earlier this month. This lowers the LNG import bill but threatens output and export earnings in one of Egypt's largest non-oil export sectors.",
+   "figure": "33% gas cut",
+   "category": "policy",
+   "sectors": [
+    "fertilisers",
+    "chemicals"
+   ],
+   "source": "EnterpriseAM",
+   "url": "https://enterpriseam.com/egypt/issues/govt-deepens-gas-cuts-to-fertilizer-methanol-plants-to-33-as-lng-costs-surge/",
+   "addedAt": "2026-11-09"
+  },
+  {
+   "id": "n-97b901437375",
+   "date": "2026-11-08",
+   "title": "Cabinet reviews FEI proposals on local procurement and zone incentives",
+   "summary": "PM Madbouly reviewed Federation of Egyptian Industries proposals: a five-year government procurement forecast giving manufacturers 12–18 months' notice, enforcing the 2015 local-product preference law, and extending Investment Law incentives to Development Zones A and B. Wider zone incentives would carry a tax-expenditure cost; stricter local preference shifts public procurement toward domestic producers.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/08/egypt-moves-to-deepen-local-manufacturing-expand-investment-incentives/",
+   "addedAt": "2026-11-09"
+  },
+  {
+   "id": "n-62a241eb8b94",
+   "date": "2026-11-08",
+   "title": "Real estate contracted sales reach EGP 1.065trn in 9M 2026",
+   "summary": "The Board Consulting data show 9M 2026 contracted sales up only 2% to EGP 1.065trn (about 52,000 units, +4%), with the North Coast and East Cairo taking 83% while West Cairo sales fell 52%. Nominal growth well below 13.9% inflation implies a real contraction in property demand, a drag on construction activity and related tax receipts.",
+   "figure": "EGP 1.065trn (+2%)",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/08/egypts-real-estate-sales-reach-egp-1-065trn-in-9m-2026-up-2/",
+   "addedAt": "2026-11-09"
+  },
   {
    "id": "n-70286fc34798",
    "date": "2026-11-07",
@@ -31,6 +74,20 @@
    "source": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/11/07/egyptian-chemical-fertiliser-exports-to-france-reach-333m-in-9-months-up-10-1/",
    "addedAt": "2026-11-08"
+  },
+  {
+   "id": "n-4017fe146dbe",
+   "date": "2026-11-06",
+   "title": "Egypt steel consumption seen slipping to 9.9m tonnes in 2026",
+   "summary": "At the Arab Steel Summit, El Marakby Steel's CEO put Egypt's steel consumption at about 10m tonnes in 2025 and an estimated 9.9m tonnes in 2026, with 2025 production of 8.4m tonnes at only about 54% capacity utilisation. Flat steel demand points to weak construction activity, a key rebar end-market.",
+   "figure": "9.9m t (2026e)",
+   "category": "construction",
+   "sectors": [
+    "steel"
+   ],
+   "source": "SteelOrbis",
+   "url": "https://www.steelorbis.com/steel-news/latest-news/aisu-steel-industry-in-arab-countries-faces-challenges-but-has-significant-growth-potential-1489090.htm",
+   "addedAt": "2026-11-09"
   },
   {
    "id": "n-387a7c88284b",
@@ -278,6 +335,20 @@
    "addedAt": "2026-11-04"
   },
   {
+   "id": "n-d21fe6f05bca",
+   "date": "2026-11-02",
+   "title": "Industry minister announces major industrial project with African partner",
+   "summary": "Industry Minister Khaled Hashem said a major new industrial project with an African partner will be detailed this month, with integration talks under way with Ivory Coast and Mauritania. Egypt holds only about $9bn of roughly $220bn intra-African trade, so the push targets new export markets for manufacturers.",
+   "figure": "~$9bn of $220bn",
+   "category": "policy",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/egypt-eyes-africa-as-its-next-industrial-frontier",
+   "addedAt": "2026-11-09"
+  },
+  {
    "id": "n-62dbdeaa9835",
    "date": "2026-11-02",
    "title": "Free-zone levy shelved until IMF review; state covers factory property tax",
@@ -351,6 +422,20 @@
    "source": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/11/01/egypt-plans-1000mw-solar-capacity-to-power-7000-factories/",
    "addedAt": "2026-11-03"
+  },
+  {
+   "id": "n-a938b272834f",
+   "date": "2026-11-01",
+   "title": "KW Egypt: property sales EGP 1.048trn in first nine months",
+   "summary": "A KW Egypt report puts Jan–Sep 2026 contractual sales at EGP 1.048trn across about 64,500 units, with Q3 sales (EGP 302bn) well below Q2 (EGP 454bn); the top 10 developers took EGP 955bn, led by TMG at EGP 301bn. The quarterly slowdown signals cooling developer cash flow that feeds construction spending.",
+   "figure": "EGP 1.048trn",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/01/egypts-real-estate-sales-hit-egp-1-048trn-in-nine-months/",
+   "addedAt": "2026-11-09"
   },
   {
    "id": "n-1c63a7a95876",
