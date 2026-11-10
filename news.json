@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-09",
- "count": 242,
+ "updated": "2026-11-10",
+ "count": 251,
  "items": [
+  {
+   "id": "n-e889f96f9f49",
+   "date": "2026-11-09",
+   "title": "Madbouly reviews easing building-violations settlement scheme",
+   "summary": "PM reviewed overhauling the building-violations settlement scheme after Egypt Forum 2026, with recommendations to finish settlements within 12 months of a law amendment, area-based fees and longer instalments. Settlement fees are a non-tax revenue stream, and faster legalisation could unlock housing stock for the formal market.",
+   "figure": "12-month target",
+   "category": "construction",
+   "sectors": [
+    "real estate",
+    "housing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/09/madbouly-reviews-plans-to-ease-egypts-building-violations-settlement-scheme/",
+   "addedAt": "2026-11-10"
+  },
+  {
+   "id": "n-e62a5feecc71",
+   "date": "2026-11-09",
+   "title": "Egypt and ITFC discuss export financing and investment zones",
+   "summary": "Farid proposed the Sovereign Fund of Egypt channel ITFC money to export factoring firms, and outlined plans for 15–20 investment zones of 20–80 feddans each. Off-budget trade finance could ease exporters' liquidity without adding to the rebate bill.",
+   "figure": "15–20 zones",
+   "category": "trade",
+   "sectors": [
+    "exports"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/09/egypt-explores-export-financing-start-up-support-investment-zone-development-with-itfc/",
+   "addedAt": "2026-11-10"
+  },
+  {
+   "id": "n-d43d6a05ff80",
+   "date": "2026-11-09",
+   "title": "Egypt targets $77bn FDI by 2030, plans 18 new zones",
+   "summary": "The plan targets $77bn FDI over FY2026/27–FY2029/30 (about $19.25bn a year vs $18bn net in FY2025/26) and adds nine investment zones and nine public free zones. Zone expansion implies tax-expenditure costs to weigh against investment gains.",
+   "figure": "$77bn",
+   "category": "policy",
+   "sectors": [
+    "investment zones",
+    "free zones"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/economy/2026/11/09/egypt-targets-77bn-in-fdi-by-2030-plans-18-investment-and-free-zones/",
+   "addedAt": "2026-11-10"
+  },
   {
    "id": "n-6c7ec822b86c",
    "date": "2026-11-09",
@@ -16,6 +60,50 @@
    "source": "EnterpriseAM",
    "url": "https://enterpriseam.com/egypt/issues/govt-deepens-gas-cuts-to-fertilizer-methanol-plants-to-33-as-lng-costs-surge/",
    "addedAt": "2026-11-09"
+  },
+  {
+   "id": "n-2e1f53ebc92e",
+   "date": "2026-11-09",
+   "title": "France's Salins Group studies new salt project in Egypt",
+   "summary": "Investment minister Farid met Salins, which produces about 4.5mn tonnes a year (3mn tonnes salt) with ~$550mn revenue in 2025, as it studies an Egyptian project serving food, chemicals, agriculture and water treatment. No investment amount was given.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "chemicals",
+    "mining"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/09/farid-meets-frances-salins-group-as-salt-producer-studies-new-egypt-project/",
+   "addedAt": "2026-11-10"
+  },
+  {
+   "id": "n-d653267e8048",
+   "date": "2026-11-08",
+   "title": "Dama Developments signs partners for New Sohag Rawasin project",
+   "summary": "Dama signed consultancy, operations and finishing contractors for a 7.5-feddan mixed-use project in New Sohag, including a mall with about 6,280 sqm of commercial space. A sign of private development spreading to Upper Egypt's new cities.",
+   "figure": "7.5 feddans",
+   "category": "construction",
+   "sectors": [
+    "real estate",
+    "contractors"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/08/dama-developments-signs-agreements-with-multiple-firms-for-new-sohags-rawasin-project/",
+   "addedAt": "2026-11-10"
+  },
+  {
+   "id": "n-a7f435eb0cf2",
+   "date": "2026-11-08",
+   "title": "Industrial Development Bank posts first EGP 1bn annual profit",
+   "summary": "State-owned IDB earned EGP 1bn in 2025; loans rose 34% to EGP 34.6bn and NPLs fell to 8.1% from 13.9%. A stronger state industrial lender expands financing for manufacturers and lowers contingent risk to the budget.",
+   "figure": "EGP 1bn",
+   "category": "policy",
+   "sectors": [
+    "industrial finance"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/08/egypts-industrial-development-bank-posts-first-egp-1bn-profit-as-restructuring-pays-off/",
+   "addedAt": "2026-11-10"
   },
   {
    "id": "n-97b901437375",
@@ -44,6 +132,49 @@
    "source": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/11/08/egypts-real-estate-sales-reach-egp-1-065trn-in-9m-2026-up-2/",
    "addedAt": "2026-11-09"
+  },
+  {
+   "id": "n-3ee82bdee324",
+   "date": "2026-11-08",
+   "title": "Egyptian delegation visits Dangote complex to discuss industrial expansion",
+   "summary": "A delegation led by Investment Minister Farid (with EGPC, ECHEM and the Sovereign Fund) visited Dangote's Lagos complex to discuss refining, petrochemicals and fertiliser manufacturing in Egypt. No amounts given; follows earlier talk of $10–15bn Dangote investment.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "fertilisers",
+    "petrochemicals"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/08/dangote-group-explores-industrial-expansion-into-egypt/",
+   "addedAt": "2026-11-10"
+  },
+  {
+   "id": "n-3266a84b9904",
+   "date": "2026-11-08",
+   "title": "Egypt and Oman explore joint real estate investment",
+   "summary": "Housing Minister Al-Minshawi met Oman's ambassador and 20 Omani developers to discuss projects in NUCA new cities and coastal areas. No deal values; part of the push to draw Gulf capital into real estate and state land.",
+   "figure": "20 developers",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/08/egypt-oman-explore-joint-investment-opportunities-in-real-estate-sector/",
+   "addedAt": "2026-11-10"
+  },
+  {
+   "id": "n-9c0e1c4d9ea0",
+   "date": "2026-11-07",
+   "title": "Kitchener Drain project: 11 of 20 works done, four retendered",
+   "summary": "The irrigation ministry has completed 11 of 20 Kitchener Drain water-quality works, awarded two more and will retender four, including rehabilitating seven pumping stations and 46.7 km of dredging. Retendering points to delays in public infrastructure spending.",
+   "figure": "11 of 20",
+   "category": "construction",
+   "sectors": [
+    "infrastructure"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/07/egypt-completes-11-of-20-kitchener-drain-water-quality-projects-plans-to-retender-four/",
+   "addedAt": "2026-11-10"
   },
   {
    "id": "n-70286fc34798",
