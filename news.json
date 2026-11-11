@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-10",
- "count": 251,
+ "updated": "2026-11-11",
+ "count": 255,
  "items": [
+  {
+   "id": "n-ae403b803434",
+   "date": "2026-11-10",
+   "title": "Investment minister raises barriers to Egyptian goods with USTR",
+   "summary": "Minister Mohamed Farid met US Trade Representative Jamieson Greer in Washington on trade flows and regulatory obstacles facing Egyptian goods, agreeing on regular consultations; no figures were given. It matters for manufacturers' access to the US market under current tariffs.",
+   "figure": "",
+   "category": "trade",
+   "sectors": [
+    "exports"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/10/egypts-investment-minister-holds-talks-in-washington-to-boost-us-trade-african-market-access/",
+   "addedAt": "2026-11-11"
+  },
   {
    "id": "n-e889f96f9f49",
    "date": "2026-11-09",
@@ -163,6 +177,21 @@
    "addedAt": "2026-11-10"
   },
   {
+   "id": "n-2f95c078e533",
+   "date": "2026-11-08",
+   "title": "X-GEN plans up to EGP 5bn to localise drone, robotics production",
+   "summary": "X-GEN plans to invest up to EGP 5bn over three years in local drone, robotics and autonomous-systems manufacturing, having already invested about EGP 1bn; no integrated facility or construction timetable yet. It adds to the localisation push in high-tech manufacturing.",
+   "figure": "EGP 5bn",
+   "category": "investment",
+   "sectors": [
+    "electronics",
+    "drones"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/technology/2026/11/08/egypts-x-gen-targets-egp5bn-investment-to-localise-drone-and-robotics-production/",
+   "addedAt": "2026-11-11"
+  },
+  {
    "id": "n-9c0e1c4d9ea0",
    "date": "2026-11-07",
    "title": "Kitchener Drain project: 11 of 20 works done, four retendered",
@@ -233,6 +262,20 @@
    "source": "Zawia3",
    "url": "https://zawia3.com/en/export-subsidy/",
    "addedAt": "2026-11-07"
+  },
+  {
+   "id": "n-db4f47b13977",
+   "date": "2026-11-05",
+   "title": "Non-resident property purchases reach $2.8bn in FY2025/26, up 47%",
+   "summary": "CBE data show real-estate purchases by non-residents rose 47.3% to $2.8bn in FY2025/26 (about 64% of Suez Canal income), excluding mega land deals like Ras El Hekma. It marks real-estate exports as a growing FX source, though still about 2% of total forex receipts.",
+   "figure": "$2.8bn",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "TIME Africa",
+   "url": "https://africa.time.com/africa/egypts-big-bet-on-exporting-real-estate/",
+   "addedAt": "2026-11-11"
   },
   {
    "id": "n-29fe0f6dbdc8",
@@ -538,6 +581,21 @@
    "source": "Enterprise",
    "url": "https://enterpriseam.com/egypt/2026/11/01/the-countrys-first-locally-assembled-ev-rolls-off-the-line-at-el-nasr/",
    "addedAt": "2026-11-02"
+  },
+  {
+   "id": "n-d6c2e39b360e",
+   "date": "2026-11-01",
+   "title": "Government signs 17 developers to build 20,000 affordable flats",
+   "summary": "NUCA and the Social Housing and Mortgage Finance Fund signed private developers to build about 20,000 units in eight new cities, 80% affordable and 20% market-priced, with an 8% declining mortgage over up to 20 years. It shifts social-housing construction toward the private sector, under a plan for about 1 million units in four years, though mortgage subsidies remain a fiscal cost.",
+   "figure": "20,000 units",
+   "category": "construction",
+   "sectors": [
+    "housing",
+    "real estate"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/govt-teams-up-with-developers-for-20000-new-flats",
+   "addedAt": "2026-11-11"
   },
   {
    "id": "n-d34503b13fed",
