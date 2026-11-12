@@ -1,7 +1,67 @@
 {
- "updated": "2026-11-11",
- "count": 255,
+ "updated": "2026-11-12",
+ "count": 260,
  "items": [
+  {
+   "id": "n-ab01220ca7d1",
+   "date": "2026-11-11",
+   "title": "Egypt–Germany trade rises to €6bn; Egyptian exports €1.64bn",
+   "summary": "Bilateral trade grew from €5.5bn in 2024 to €6bn in 2025, with Egyptian exports to Germany at €1.64bn versus German exports of €4.38bn; manufacturing and automotive suppliers are target sectors. The widening gap underlines the deficit with a key EU partner; debt swaps of €254m are committed.",
+   "figure": "€1.64bn exports",
+   "category": "trade",
+   "sectors": [
+    "automotive components",
+    "manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/11/egypt-germany-deepen-economic-partnership-across-investment-trade/",
+   "addedAt": "2026-11-12"
+  },
+  {
+   "id": "n-1a009a251f7c",
+   "date": "2026-11-11",
+   "title": "Red Sea state land allocated to finance ministry for debt reduction",
+   "summary": "A presidential decree allocates about 26,690 feddans of Red Sea state land to the Ministry of Finance for debt reduction and sovereign sukuk, as Madbouly reviews a 2030 target of about 69.5% debt-to-GDP. Land monetisation (Ras El-Hekma style) is becoming a direct fiscal financing tool.",
+   "figure": "26,690 feddans",
+   "category": "construction",
+   "sectors": [
+    "real estate",
+    "land"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/11/egypt-allocates-red-sea-land-to-cut-public-debt-as-madbouly-reviews-2030-debt-target/",
+   "addedAt": "2026-11-12"
+  },
+  {
+   "id": "n-b368fba64dda",
+   "date": "2026-11-10",
+   "title": "PRE Group and Hilton sign EGP 14bn deal for 10 projects",
+   "summary": "Developer PRE Group and Hilton agreed an EGP 14bn partnership for six hotels and four branded residential projects (about 2,000 rooms and units) in Ain Sokhna and Alamein. Branded residences target foreign buyers, supporting real-estate exports.",
+   "figure": "EGP 14bn",
+   "category": "construction",
+   "sectors": [
+    "real estate",
+    "hospitality"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypts-pre-group-hilton-sign-egp-14bn-partnership-to-develop-10-projects-in-egypt/",
+   "addedAt": "2026-11-12"
+  },
+  {
+   "id": "n-b25a1615dede",
+   "date": "2026-11-10",
+   "title": "SCZone and Shanghai Pudong Development Bank explore manufacturing financing",
+   "summary": "SCZone's chair met China's SPDB (assets above RMB 10trn) to discuss financing manufacturing of wind-turbine blades, transformers and electronic components plus zone infrastructure; no deal was signed. Chinese bank finance could ease the zone's reliance on state funding for infrastructure.",
+   "figure": "",
+   "category": "investment",
+   "sectors": [
+    "renewable equipment",
+    "electronics"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/10/sczone-shanghai-pudong-development-bank-explore-investment-financing-partnership/",
+   "addedAt": "2026-11-12"
+  },
   {
    "id": "n-ae403b803434",
    "date": "2026-11-10",
@@ -15,6 +75,20 @@
    "source": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/11/10/egypts-investment-minister-holds-talks-in-washington-to-boost-us-trade-african-market-access/",
    "addedAt": "2026-11-11"
+  },
+  {
+   "id": "n-26beaaed3504",
+   "date": "2026-11-10",
+   "title": "NBE lends EGP 975m for Ras El Hekma KOUN project",
+   "summary": "National Bank of Egypt signed a five-year EGP 975m loan to developer Mabany Idris for its KOUN project in Ras El Hekma (about 110 feddans, over 1,500 units). It shows state-bank credit flowing into North Coast real estate around the Ras El-Hekma deal.",
+   "figure": "EGP 975m",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/business/2026/11/10/nbe-signs-egp-975mn-koun-loan-as-ras-el-hekma-project-advances-deliveries/",
+   "addedAt": "2026-11-12"
   },
   {
    "id": "n-e889f96f9f49",
