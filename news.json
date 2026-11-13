@@ -1,7 +1,22 @@
 {
- "updated": "2026-11-12",
- "count": 260,
+ "updated": "2026-11-13",
+ "count": 262,
  "items": [
+  {
+   "id": "n-e09be55d3a94",
+   "date": "2026-11-11",
+   "title": "Rate hike strains developers' 10-year instalment plans",
+   "summary": "Developers booked an estimated EGP 1.35trn in 9M 2026 sales, mostly on 8–12 year plans with 5–10% down, while the CBE's 100bp hike on 29 October (deposit rate 20%) raises their financing cost. Long plans make up 51–67% of listings in New Cairo, Mostakbal City and the New Capital, a risk to developer cash flow and construction activity.",
+   "figure": "EGP 1.35trn 9M sales",
+   "category": "construction",
+   "sectors": [
+    "real estate",
+    "mortgage finance"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/hardhats/with-rates-up-who-carries-the-property-markets-10-year-payment-plans/",
+   "addedAt": "2026-11-13"
+  },
   {
    "id": "n-ab01220ca7d1",
    "date": "2026-11-11",
@@ -459,6 +474,20 @@
    "source": "Amwal Al Ghad",
    "url": "https://en.amwalalghad.com/egypts-exports-rise-12-4-in-august-2026-as-trade-deficit-widens-capmas/",
    "addedAt": "2026-11-08"
+  },
+  {
+   "id": "n-4dfbf8a83de0",
+   "date": "2026-11-04",
+   "title": "Tatweer Misr books EGP 62bn contracted sales in nine months",
+   "summary": "Tatweer Misr reported EGP 62bn of contracted sales from 3,600 units and EGP 9.2bn of investment in 9M 2026, led by Montegalala in Ain Sokhna (EGP 41.5bn). Another sign that developer pre-sales remain strong even as the wider market cools.",
+   "figure": "EGP 62bn sales",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Al Mal News",
+   "url": "https://almalnews.com/2145364/",
+   "addedAt": "2026-11-13"
   },
   {
    "id": "n-ea169d709438",
