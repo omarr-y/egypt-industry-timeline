@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13",
- "count": 262,
+ "updated": "2026-11-14",
+ "count": 264,
  "items": [
   {
    "id": "n-e09be55d3a94",
@@ -195,6 +195,21 @@
    "addedAt": "2026-11-10"
   },
   {
+   "id": "n-bf3b61a43d47",
+   "date": "2026-11-08",
+   "title": "Livingyards signs KONE agent for elevators across EGP 30bn portfolio",
+   "summary": "Developer Livingyards (AM Group) signed United Elevators, KONE's Middle East agent, to supply and install lifts and escalators in its projects, starting with the EGP 1.5bn NOIR project in New Cairo; its six projects total over EGP 30bn of investment. A sign of continued developer spending on New Cairo projects and imported building equipment.",
+   "figure": "EGP 30bn portfolio",
+   "category": "construction",
+   "sectors": [
+    "real estate",
+    "contractors"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/08/livingyards-partners-with-kones-regional-agent-for-elevators-escalators/",
+   "addedAt": "2026-11-14"
+  },
+  {
    "id": "n-a7f435eb0cf2",
    "date": "2026-11-08",
    "title": "Industrial Development Bank posts first EGP 1bn annual profit",
@@ -235,6 +250,20 @@
    "source": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/11/08/egypts-real-estate-sales-reach-egp-1-065trn-in-9m-2026-up-2/",
    "addedAt": "2026-11-09"
+  },
+  {
+   "id": "n-593146adba6d",
+   "date": "2026-11-08",
+   "title": "NUCA moves Bo Island North Coast land from Maxim to Tahya Misr",
+   "summary": "NUCA's board approved transferring two Bo Island plots in Sidi Abdel Rahman from Maxim Investment Group to Tahya Misr Holding, the Tahya Misr Fund's investment arm; no money figures or construction timeline were given. It shows state-linked entities stepping in to take over stalled North Coast developments, with buyers' delivery schedules still unclear.",
+   "figure": "2 plots",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/08/maxim-transfers-bo-island-project-land-to-tahya-misr-holding/",
+   "addedAt": "2026-11-14"
   },
   {
    "id": "n-3ee82bdee324",
