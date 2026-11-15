@@ -1,7 +1,99 @@
 {
- "updated": "2026-11-14",
- "count": 264,
+ "updated": "2026-11-15",
+ "count": 270,
  "items": [
+  {
+   "id": "n-492a73b91436",
+   "date": "2026-11-15",
+   "title": "India's Goyal in Cairo with 132-member delegation; trade $6.5bn",
+   "summary": "Indian Commerce Minister Piyush Goyal began a two-day Cairo visit with a 132-member business delegation; bilateral trade is about $6.5bn, with Indian exports to Egypt of $3.87bn and imports of $2.60bn in 2025-26. Egypt runs a sizeable bilateral deficit, and Egyptian FDI into India has been just $11.5m since 2000.",
+   "figure": "$6.5bn bilateral trade",
+   "category": "trade",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "DT Next (PTI)",
+   "url": "https://www.dtnext.in/news/business/india-egypt-look-to-strengthen-trade-investment-ties-goyal",
+   "addedAt": "2026-11-15"
+  },
+  {
+   "id": "n-3c4f61b249e6",
+   "date": "2026-11-14",
+   "title": "Mit Ghamr investment zone fully occupied, 160 projects waiting",
+   "summary": "PM Madbouly inspected GAFI's Mit Ghamr investment zone in Dakahlia: 107 industrial units, 100% occupancy, over EGP 500m invested, about 2,500 jobs and 160 projects on the waiting list. He ordered the small-unit industrial-zone model replicated in other governorates, implying more public spending on serviced industrial space.",
+   "figure": "107 units; EGP 500m+",
+   "category": "investment",
+   "sectors": [
+    "electronics",
+    "engineering",
+    "metals"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/egypt-pm-reviews-investment-projects-in-dakahlia/",
+   "addedAt": "2026-11-15"
+  },
+  {
+   "id": "n-166696e80002",
+   "date": "2026-11-14",
+   "title": "REDY RONG lighting factory in Dakahlia reaches 35m units a year",
+   "summary": "Madbouly visited REDY RONG's EGP 100m LED and electrical-components plant in the Mit Ghamr zone, which grew from one to nine units since 2022, employs 350 and makes up to 35m units a year with about 60% local components. An example of import-substituting electrical manufacturing the government wants scaled up.",
+   "figure": "35m units/yr; EGP 100m",
+   "category": "investment",
+   "sectors": [
+    "electrical equipment",
+    "electronics"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/egypt-pm-urges-expansion-of-local-electrical-manufacturing",
+   "addedAt": "2026-11-15"
+  },
+  {
+   "id": "n-84c4476badcd",
+   "date": "2026-11-13",
+   "title": "Kuwait's Urbnlanes buys 430 feddans for Ras El Hekma project",
+   "summary": "Kuwaiti developer Urbnlanes acquired 430 feddans at Ras El Hekma for a tourism project previously estimated at EGP 80bn (price undisclosed), and plans to lift construction spending to EGP 10bn in 2027 from EGP 4bn. Shows Gulf capital continuing to flow into North Coast land around the state-UAE megaproject.",
+   "figure": "430 feddans; ~EGP 80bn project",
+   "category": "construction",
+   "sectors": [
+    "real estate",
+    "tourism"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/tourism-egypt/2026/11/13/kuwaits-urbnlanes-acquires-430-feddans-for-ras-el-hekma-tourism-project/",
+   "addedAt": "2026-11-15"
+  },
+  {
+   "id": "n-78df8a181df7",
+   "date": "2026-11-13",
+   "title": "Industry minister courts Central Japan business delegation",
+   "summary": "Minister Khaled Hashem pitched automotive, electronics, electrical equipment, pharmaceuticals and renewables to a Central Japan Economic Federation delegation, stressing technology transfer and export-oriented component manufacturing. No investment figures were announced.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "electronics",
+    "pharmaceuticals"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/egypt-woos-japanese-investment-in-key-industries/",
+   "addedAt": "2026-11-15"
+  },
+  {
+   "id": "n-44f6094d6b58",
+   "date": "2026-11-13",
+   "title": "Military Production Ministry and SCZone sign utilities and components protocol",
+   "summary": "The Military Production Ministry and SCZone signed a protocol for the ministry to build desalination, wastewater, power and utility networks in the zone and supply locally made cables and transmission lines, aiming at import substitution. No value was disclosed; it channels zone infrastructure work to state-owned factories.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "electrical equipment",
+    "cables",
+    "utilities"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/military-production-ministry-sczone-sign-co-operation-deal",
+   "addedAt": "2026-11-15"
+  },
   {
    "id": "n-e09be55d3a94",
    "date": "2026-11-11",
