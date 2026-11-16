@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-15",
- "count": 270,
+ "updated": "2026-11-16",
+ "count": 275,
  "items": [
+  {
+   "id": "n-bfbcbc881d62",
+   "date": "2026-11-15",
+   "title": "TMG Q3 profit up 12.5% to EGP 5.06bn; contracted sales EGP 71bn",
+   "summary": "Talaat Moustafa Group's Q3 2026 net profit rose 12.5% to EGP 5.06bn on revenue up 24.7% to EGP 17.36bn, with quarterly contracted sales up 54.6% to EGP 71bn and 9M sales of EGP 290.1bn. Strong top-developer sales despite higher rates point to continued real-estate demand and construction activity.",
+   "figure": "EGP 5.06bn Q3 profit",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/15/tmg-q3-profit-up-12-5-to-egp-5-06bn/",
+   "addedAt": "2026-11-16"
+  },
   {
    "id": "n-492a73b91436",
    "date": "2026-11-15",
@@ -15,6 +29,52 @@
    "source": "DT Next (PTI)",
    "url": "https://www.dtnext.in/news/business/india-egypt-look-to-strengthen-trade-investment-ties-goyal",
    "addedAt": "2026-11-15"
+  },
+  {
+   "id": "n-0e5f0f099f60",
+   "date": "2026-11-15",
+   "title": "Industry minister tours five Third Settlement factories worth EGP 820m",
+   "summary": "Industry Minister Khaled Hashem inspected five factories in the Third Settlement industrial zone with combined investments of about EGP 820.2m, including Technometer (EGP 300m, EGP 1bn sales) and Multi Care Egypt (EGP 252.2m). Local content ranges from 30% to 75%, in line with the localisation push behind import-substitution goals.",
+   "figure": "EGP 820.2m",
+   "category": "investment",
+   "sectors": [
+    "electrical equipment",
+    "automotive components",
+    "pharmaceuticals",
+    "engineering"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/15/industry-minister-inspects-five-factories-with-combined-investments-of-egp-820m/",
+   "addedAt": "2026-11-16"
+  },
+  {
+   "id": "n-effd668ce1aa",
+   "date": "2026-11-14",
+   "title": "Holcim Egypt restarts fifth Ain Sokhna cement line after seven years",
+   "summary": "Holcim Egypt restarted the fifth production line at its Ain Sokhna cement plant after a seven-year shutdown, with investments exceeding EGP 1.3bn and 560 direct and indirect jobs. Added clinker capacity supports cement exports and building-material supply as the state weighs new cement licences.",
+   "figure": "EGP 1.3bn",
+   "category": "investment",
+   "sectors": [
+    "cement"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/14/holcim-egypt-restarts-fifth-cement-production-line-after-egp-1-3bn-investment/",
+   "addedAt": "2026-11-16"
+  },
+  {
+   "id": "n-a6e03d5152e3",
+   "date": "2026-11-14",
+   "title": "Jotun Egypt plans over EGP 2bn investment in 2027",
+   "summary": "Paint maker Jotun Egypt plans to invest more than EGP 2bn in 2027 to expand capacity (now over 72m litres a year), self-financed; exports more than doubled this year to over 10% of production. Shows FDI-backed producers reinvesting and pivoting to exports.",
+   "figure": "EGP 2bn+",
+   "category": "investment",
+   "sectors": [
+    "chemicals",
+    "paints"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/14/jotun-egypt-plans-egp-2bn-investments-in-2027-to-expand-production-capacity/",
+   "addedAt": "2026-11-16"
   },
   {
    "id": "n-3c4f61b249e6",
@@ -31,6 +91,21 @@
    "source": "Egyptian Gazette",
    "url": "https://egyptian-gazette.com/egypt/egypt-pm-reviews-investment-projects-in-dakahlia/",
    "addedAt": "2026-11-15"
+  },
+  {
+   "id": "n-1756734e10d9",
+   "date": "2026-11-14",
+   "title": "Sixteen Sinai development communities built with 1,141 homes",
+   "summary": "The irrigation ministry says 16 residential-agricultural communities in North and South Sinai now have 1,141 homes, 269 groundwater wells and 28 pumping units, each beneficiary getting a 200 sqm home and five feddans. Part of state-funded public investment in Sinai housing and infrastructure.",
+   "figure": "1,141 homes",
+   "category": "construction",
+   "sectors": [
+    "housing",
+    "infrastructure"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/14/egypt-establishes-16-development-communities-in-sinai-with-1141-homes-269-groundwater-wells/",
+   "addedAt": "2026-11-16"
   },
   {
    "id": "n-166696e80002",
