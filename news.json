@@ -1,7 +1,65 @@
 {
- "updated": "2026-11-16",
- "count": 275,
+ "updated": "2026-11-17",
+ "count": 280,
  "items": [
+  {
+   "id": "n-bef48d58aa9f",
+   "date": "2026-11-16",
+   "title": "Private-sector minimum wage rises 21% to EGP 8,500 from January",
+   "summary": "The National Wages Council raised the private-sector minimum wage to EGP 8,500 a month from 1 January 2027, up from EGP 7,000, covering 26.5m private workers. Raises labour costs for labour-intensive manufacturers such as textiles and garments.",
+   "figure": "EGP 8,500/month (+21%)",
+   "category": "policy",
+   "sectors": [
+    "labour",
+    "manufacturing"
+   ],
+   "source": "EnterpriseAM",
+   "url": "https://enterpriseam.com/egypt/2026/11/16/raising-the-wage-floor/",
+   "addedAt": "2026-11-17"
+  },
+  {
+   "id": "n-41bca1aad1c4",
+   "date": "2026-11-16",
+   "title": "Housing minister denies property bubble, plans developer regulator law",
+   "summary": "Housing Minister Randa El Menshawy said stalled projects number only a few dozen and will be resolved via Tahya Misr Holding, with a draft law creating an independent developer regulator due in parliament within 1–2 months. State-held vehicle absorbing stalled projects is a potential contingent fiscal liability.",
+   "figure": "Draft law in 1–2 months",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "EnterpriseAM",
+   "url": "https://enterpriseam.com/egypt/2026/11/16/government-highlights-real-estate-and-industrial-challenges/",
+   "addedAt": "2026-11-17"
+  },
+  {
+   "id": "n-38b4327049d8",
+   "date": "2026-11-16",
+   "title": "Egypt moves from car assembly toward integrated automotive manufacturing",
+   "summary": "National programme targets 100,000 vehicles a year, 60% local value added and over 35% domestic components; the CATL-linked battery plant starts at 1 GWh, expandable to 5 GWh. Deeper localisation would cut the auto import bill but relies on incentives still being negotiated.",
+   "figure": "100,000 vehicles/yr target",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "batteries"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/business-economix/2026/11/16/egypt-shifts-gears-from-car-assembly-to-building-a-fully-integrated-automotive-industry/",
+   "addedAt": "2026-11-17"
+  },
+  {
+   "id": "n-c4281fac89af",
+   "date": "2026-11-15",
+   "title": "Madbouly reviews activating Export Credit Guarantee Agency",
+   "summary": "PM Madbouly met ministers and the FEI chairman to make the Export Credit Guarantee Agency operational and push the new export support programme, including export cost reimbursement and product testing. No figures were given; the agency would add contingent liabilities alongside budgeted export rebates.",
+   "figure": "",
+   "category": "trade",
+   "sectors": [
+    "exports"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/pm-reviews-activation-of-export-risk-guarantee-agency/",
+   "addedAt": "2026-11-17"
+  },
   {
    "id": "n-bfbcbc881d62",
    "date": "2026-11-15",
@@ -168,6 +226,20 @@
    "source": "Egyptian Gazette",
    "url": "https://egyptian-gazette.com/egypt/military-production-ministry-sczone-sign-co-operation-deal",
    "addedAt": "2026-11-15"
+  },
+  {
+   "id": "n-ada17f4017a9",
+   "date": "2026-11-12",
+   "title": "Orascom Development 9M profit up 24% to EGP 4.7bn",
+   "summary": "Orascom Development Egypt's nine-month 2026 net profit rose 24% to EGP 4.7bn on revenue up 35% to EGP 23.3bn, with real estate sales up 31% to EGP 21.2bn led by El Gouna. Shows resort/second-home demand holding up despite higher rates.",
+   "figure": "EGP 4.7bn profit (+24%)",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Billionaires.Africa",
+   "url": "https://www.billionaires.africa/2026/11/12/egyptian-billionaire-samih-sawiriss-orascom-development-lifts-nine-month-profit-to-85-million/",
+   "addedAt": "2026-11-17"
   },
   {
    "id": "n-e09be55d3a94",
