@@ -1,7 +1,82 @@
 {
- "updated": "2026-11-17",
- "count": 280,
+ "updated": "2026-11-18",
+ "count": 287,
  "items": [
+  {
+   "id": "n-fe9a0c681731",
+   "date": "2026-11-17",
+   "title": "Sisi at WEF meeting: 5.1% growth, manufacturing 20% GDP target",
+   "summary": "Sisi cited 5.1% GDP growth in FY2025/26, FDI of about $18bn and roughly EGP 1trn a year of state infrastructure spending, and restated the 2030 target of manufacturing at 20% of GDP. The infrastructure figure frames the fiscal weight of construction-led growth as the IMF programme nears its end.",
+   "figure": "5.1% growth; EGP 1trn/yr infrastructure",
+   "category": "policy",
+   "sectors": [
+    "manufacturing",
+    "infrastructure"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/17/al-sisi-egypts-imf-programme-nears-completion-as-economy-grows-5-1-in-fy2025-26/",
+   "addedAt": "2026-11-18"
+  },
+  {
+   "id": "n-d4f32ebb708a",
+   "date": "2026-11-17",
+   "title": "Egypt and India set up working group on preferential trade pact",
+   "summary": "The Joint Trade Committee agreed a working group to assess a preferential trade agreement, targeting about $12bn bilateral trade by 2030; April–September 2026 trade was $5.04bn, up about 64%. A PTA could open tariff concessions for Egyptian manufacturers, with customs-revenue implications.",
+   "figure": "$12bn by 2030",
+   "category": "trade",
+   "sectors": [
+    "chemicals",
+    "petrochemicals",
+    "manufacturing"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/economy/2026/11/17/egypt-india-lay-groundwork-for-trade-pact-as-they-target-12bn-by-2030/",
+   "addedAt": "2026-11-18"
+  },
+  {
+   "id": "n-614c06e722b3",
+   "date": "2026-11-17",
+   "title": "PM reviews plan to deliver one million housing units by 2030",
+   "summary": "Madbouly reviewed six housing programmes to deliver 1 million units by 2030, with social, rental and rent-to-own housing about 65% of the target and a programme for industrial workers' housing. The plan implies sustained public housing spending through the next budget cycles.",
+   "figure": "1m units by 2030",
+   "category": "construction",
+   "sectors": [
+    "housing"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/pm-reviews-plan-to-deliver-1-million-housing-units-by-2030/",
+   "addedAt": "2026-11-18"
+  },
+  {
+   "id": "n-5bb27fe2381a",
+   "date": "2026-11-17",
+   "title": "Industry minister seeks Singaporean investment in smart manufacturing",
+   "summary": "Industry Minister Khaled Hashem asked Singapore's ambassador for investment in smart and technology-based manufacturing with technology transfer; four Singaporean firms already operate in Egypt. No investment amounts were given.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "smart manufacturing",
+    "technology"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/17/egypt-seeks-to-attract-singaporean-industrial-investments-in-smart-manufacturing/",
+   "addedAt": "2026-11-18"
+  },
+  {
+   "id": "n-3ba23df01d65",
+   "date": "2026-11-17",
+   "title": "Phosphate export prices up 30%; Chinese firm weighs $100m plant",
+   "summary": "DAP export prices reached $915–920/t FOB versus about $710 at the start of the year, and TSP rose 31% to $692/t; Kunming Chuan Jin Nuo is considering a $100m plant. Higher prices lift fertiliser export receipts, which totalled about $422m for phosphate fertilisers in 2025.",
+   "figure": "DAP $915–920/t",
+   "category": "trade",
+   "sectors": [
+    "fertilisers",
+    "chemicals"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/11/17/egypt-phosphate-export-prices-rise-30-as-chinese-firm-weighs-100mn-plant/",
+   "addedAt": "2026-11-18"
+  },
   {
    "id": "n-bef48d58aa9f",
    "date": "2026-11-16",
@@ -331,6 +406,20 @@
    "addedAt": "2026-11-11"
   },
   {
+   "id": "n-2e9e01f5132d",
+   "date": "2026-11-10",
+   "title": "Madinet Masr 9M new sales up 25% to EGP 45.4bn",
+   "summary": "Madinet Masr's new sales rose 25% to EGP 45.4bn in 9M 2026, revenue rose 10.2% to EGP 8.1bn, deliveries rose 76% and the backlog reached EGP 111bn. Strong developer sales support construction activity despite a slowing overall market.",
+   "figure": "EGP 45.4bn",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Egy Gate News",
+   "url": "https://www.egygatenews.com/2026/11/madinet-masr-delivers-another-record.html",
+   "addedAt": "2026-11-18"
+  },
+  {
    "id": "n-26beaaed3504",
    "date": "2026-11-10",
    "title": "NBE lends EGP 975m for Ras El Hekma KOUN project",
@@ -343,6 +432,21 @@
    "source": "The Middle East Observer",
    "url": "https://meobserver.news/business/2026/11/10/nbe-signs-egp-975mn-koun-loan-as-ras-el-hekma-project-advances-deliveries/",
    "addedAt": "2026-11-12"
+  },
+  {
+   "id": "n-1a9fccda99b0",
+   "date": "2026-11-10",
+   "title": "Ezz Steel, Suez Steel and Beshay hit by 30% gas cut",
+   "summary": "Gas supply to Ezz Steel was cut 30% (about 30m cubic feet a day), with Suez Steel and Beshay Steel facing the same cut, as spot LNG cargoes cost close to $120m. Gas rationing now extends from fertilisers to steel, risking lower output and exports while easing the import bill.",
+   "figure": "30% gas cut",
+   "category": "policy",
+   "sectors": [
+    "steel",
+    "energy"
+   ],
+   "source": "Billionaires.Africa",
+   "url": "https://www.billionaires.africa/2026/11/10/egyptian-billionaire-ahmed-ezzs-ezz-steel-hit-by-30-gas-cut-as-120-million-lng-cargoes-squeeze-egypt/",
+   "addedAt": "2026-11-18"
   },
   {
    "id": "n-e889f96f9f49",
