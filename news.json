@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18",
- "count": 287,
+ "updated": "2026-11-19",
+ "count": 290,
  "items": [
   {
    "id": "n-fe9a0c681731",
@@ -32,6 +32,21 @@
    "source": "The Middle East Observer",
    "url": "https://meobserver.news/economy/2026/11/17/egypt-india-lay-groundwork-for-trade-pact-as-they-target-12bn-by-2030/",
    "addedAt": "2026-11-18"
+  },
+  {
+   "id": "n-cdda283eb240",
+   "date": "2026-11-17",
+   "title": "PM opens second phase of Haier Egypt complex in 10th of Ramadan",
+   "summary": "Madbouly inaugurated the second phase of Haier Egypt's industrial complex, which is expected to provide nearly 3,000 jobs; the company plans to triple production over five years and raise business volume to $500m. A golden-licence holder since 2022, Haier adds to appliance export capacity and import substitution.",
+   "figure": "$500m business volume target",
+   "category": "investment",
+   "sectors": [
+    "home appliances",
+    "electronics"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/pm-inaugurates-2nd-phase-of-haier-egypt-industrial-complex",
+   "addedAt": "2026-11-19"
   },
   {
    "id": "n-614c06e722b3",
@@ -76,6 +91,21 @@
    "source": "The Middle East Observer",
    "url": "https://meobserver.news/industry/2026/11/17/egypt-phosphate-export-prices-rise-30-as-chinese-firm-weighs-100mn-plant/",
    "addedAt": "2026-11-18"
+  },
+  {
+   "id": "n-1b92fca2ce5b",
+   "date": "2026-11-17",
+   "title": "Fertiliser makers face temporary 50% gas price rise until year-end",
+   "summary": "Abu Qir Fertilizers told the EGX it was notified of a temporary gas price increase from 16 November to 31 December 2026, responding to reports of a 50% hike for fertiliser producers; this follows a 33% supply cut from 8 November. The hike shifts part of the state's high LNG import cost onto exporters, easing the energy subsidy burden but squeezing fertiliser margins and export earnings.",
+   "figure": "+50% gas price",
+   "category": "policy",
+   "sectors": [
+    "fertilisers",
+    "energy"
+   ],
+   "source": "Egypt Oil & Gas",
+   "url": "https://egyptoil-gas.com/news/abu-qir-fertilizers-confirms-government-gas-price-increase/",
+   "addedAt": "2026-11-19"
   },
   {
    "id": "n-bef48d58aa9f",
@@ -404,6 +434,21 @@
    "source": "Daily News Egypt",
    "url": "https://dailynewsegypt.com/2026/11/10/egypts-investment-minister-holds-talks-in-washington-to-boost-us-trade-african-market-access/",
    "addedAt": "2026-11-11"
+  },
+  {
+   "id": "n-4c6e7c1cedd9",
+   "date": "2026-11-10",
+   "title": "Cabinet approves 'productive village' protocol for rural industrial clusters",
+   "summary": "The Cabinet approved a protocol between the industry, agriculture and local development ministries to set up industrial clusters in 1,000 villages by 2030, offering 1,000 investment opportunities in 14 quarterly rounds of about 100–150 each. Sites are allocated by annual usufruct through the Industrial Development Authority, a low-capital-cost route to industrial land rather than outright sales.",
+   "figure": "1,000 villages by 2030",
+   "category": "policy",
+   "sectors": [
+    "industrial land",
+    "smes"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/cabinet-approves-protocol-to-implement-productive-village-initiative",
+   "addedAt": "2026-11-19"
   },
   {
    "id": "n-2e9e01f5132d",
