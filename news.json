@@ -1,7 +1,66 @@
 {
- "updated": "2026-11-19",
- "count": 290,
+ "updated": "2026-11-20",
+ "count": 294,
  "items": [
+  {
+   "id": "n-541eea58c4fc",
+   "date": "2026-11-19",
+   "title": "AMEA Power signs $200m wind turbine factory deal in SCZone",
+   "summary": "AMEA Power and China's Mingyang will build a $200m wind turbine factory in SCZone with 3 GW annual capacity, alongside a $650m 500 MW Red Sea wind farm. First operations are targeted for H2 2028, localising renewable-equipment supply as Egypt aims for 42% renewables by 2030.",
+   "figure": "$200m factory; $850m total",
+   "category": "investment",
+   "sectors": [
+    "renewable energy equipment"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/business/2026/11/19/amea-power-signs-850mn-egypt-wind-farm-turbine-factory-deals/",
+   "addedAt": "2026-11-20"
+  },
+  {
+   "id": "n-50d974d9a07c",
+   "date": "2026-11-19",
+   "title": "ADD Properties plans up to EGP 18.5bn for three hotels",
+   "summary": "ADD Properties plans EGP 17–18.5bn for three hotels with 1,530 rooms in Hurghada and western Cairo over two years, including a EGP 9–10bn Grand Hyatt near the Pyramids. It adds to private construction demand, backed partly by a $265m EBRD/IFC-led syndicated loan.",
+   "figure": "EGP 18.5bn",
+   "category": "construction",
+   "sectors": [
+    "real estate",
+    "hospitality"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/tourism-egypt/2026/11/19/egypts-add-properties-plans-egp18-5bn-investment-in-three-new-hotels/",
+   "addedAt": "2026-11-20"
+  },
+  {
+   "id": "n-d5b94e9f4e6c",
+   "date": "2026-11-18",
+   "title": "Gulf developers shift coastal land deals to the Red Sea",
+   "summary": "Gulf developers are advancing Red Sea projects by partnering with existing landowners, including Qatari Diar's 29m sqm Hurghada-Safaga site and Emaar Misr's EGP 900bn Marassi Red Sea. Following Ras El-Hekma, such land deals remain a key FX and state-land revenue channel.",
+   "figure": "EGP 900bn Marassi Red Sea",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "EnterpriseAM",
+   "url": "https://enterpriseam.com/egypt/2026/11/18/a-new-wave-of-gulf-investment-hits-the-coast/",
+   "addedAt": "2026-11-20"
+  },
+  {
+   "id": "n-4a1d1abb512a",
+   "date": "2026-11-18",
+   "title": "Exports to African Union countries rise 8.5% to $6.1bn in 9M",
+   "summary": "CAPMAS data show Egypt's trade with AU countries rose 15.3% to $8.2bn in Jan–Sep 2026; exports grew 8.5% to $6.1bn but imports jumped 41.6% to $2.1bn. Machinery ($518m), plastics ($478m) and iron and steel ($345m) led manufactured exports.",
+   "figure": "$6.1bn exports, +8.5%",
+   "category": "trade",
+   "sectors": [
+    "machinery",
+    "plastics",
+    "steel"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/18/egypts-trade-with-african-union-countries-rises-by-1-1bn-to-8-2bn-in-9m-2026/",
+   "addedAt": "2026-11-20"
+  },
   {
    "id": "n-fe9a0c681731",
    "date": "2026-11-17",
