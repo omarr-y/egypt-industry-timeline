@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20",
- "count": 294,
+ "updated": "2026-11-21",
+ "count": 297,
  "items": [
   {
    "id": "n-541eea58c4fc",
@@ -44,6 +44,21 @@
    "source": "EnterpriseAM",
    "url": "https://enterpriseam.com/egypt/2026/11/18/a-new-wave-of-gulf-investment-hits-the-coast/",
    "addedAt": "2026-11-20"
+  },
+  {
+   "id": "n-6e3546d33b42",
+   "date": "2026-11-18",
+   "title": "GDP grows 4.9% in Q1 FY2026/27; non-oil manufacturing up 3.9%",
+   "summary": "The Planning Minister said real GDP grew 4.9% in Q1 FY2026/27, with non-oil manufacturing up 3.9% (0.96 pp of growth) and petroleum refining up 19.6%. Manufacturing, agriculture, ICT, construction and trade together made up 68% of growth, a check on the revenue base assumed in the FY2026/27 budget.",
+   "figure": "Non-oil manufacturing +3.9%",
+   "category": "pmi",
+   "sectors": [
+    "manufacturing",
+    "construction"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/18/egypts-gdp-grows-by-4-9-in-q1-fy-2026-27-planning-minister/",
+   "addedAt": "2026-11-21"
   },
   {
    "id": "n-4a1d1abb512a",
@@ -180,6 +195,23 @@
    "source": "EnterpriseAM",
    "url": "https://enterpriseam.com/egypt/2026/11/16/raising-the-wage-floor/",
    "addedAt": "2026-11-17"
+  },
+  {
+   "id": "n-96cbdd5f88a5",
+   "date": "2026-11-16",
+   "title": "Egypt invites India to set up dedicated industrial zone in SCZone",
+   "summary": "Foreign Minister Abdelatty invited Indian firms to set up an Indian industrial zone in the SCZone during Goyal's Cairo visit; both sides target $12bn in bilateral trade and named pharma, petrochemicals, automotive and textiles as priority sectors. No zone size or investment figure was given yet.",
+   "figure": "$12bn trade target",
+   "category": "investment",
+   "sectors": [
+    "pharmaceuticals",
+    "petrochemicals",
+    "automotive",
+    "textiles"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/16/abdelatty-goyal-discuss-indian-industrial-zone-in-suez-canal-economic-zone/",
+   "addedAt": "2026-11-21"
   },
   {
    "id": "n-41bca1aad1c4",
@@ -404,6 +436,20 @@
    "source": "Billionaires.Africa",
    "url": "https://www.billionaires.africa/2026/11/12/egyptian-billionaire-samih-sawiriss-orascom-development-lifts-nine-month-profit-to-85-million/",
    "addedAt": "2026-11-17"
+  },
+  {
+   "id": "n-944f8c4183a2",
+   "date": "2026-11-12",
+   "title": "Resale property market loses ground to developers' long payment plans",
+   "summary": "Enterprise reports that resale homes in Cairo struggle to compete as developers stretch instalment terms from seven to 10 years, with policy rates at 20–21%; JLL data show 2Q 2026 prices up 2.8% q-o-q in 6th of October and 2.4% in New Cairo. Longer developer credit puts more of the market's financing risk on developers' balance sheets, not on banks.",
+   "figure": "Prices +2.8% q-o-q",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "EnterpriseAM",
+   "url": "https://enterpriseam.com/egypt/2026/11/12/why-cairos-resale-property-market-struggles-to-compete-with-developers-payment-plans/",
+   "addedAt": "2026-11-21"
   },
   {
    "id": "n-e09be55d3a94",
