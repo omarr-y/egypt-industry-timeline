@@ -1,7 +1,50 @@
 {
- "updated": "2026-11-21",
- "count": 297,
+ "updated": "2026-11-22",
+ "count": 303,
  "items": [
+  {
+   "id": "n-321d3c961d05",
+   "date": "2026-11-21",
+   "title": "Planning minister inspects EGP 5bn of public projects in Suez",
+   "summary": "The planning minister toured Suez projects worth over EGP 5bn, including the EGP 3bn, 360-bed Suez University Hospital and an alternative residential city in Ataqa with 104 buildings at about EGP 2bn. These are examples of state-funded investment-budget spending on housing and social infrastructure.",
+   "figure": "EGP 5bn",
+   "category": "construction",
+   "sectors": [
+    "infrastructure",
+    "housing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/21/planning-minister-inspects-development-service-projects-worth-over-egp-5bn-in-suez/",
+   "addedAt": "2026-11-22"
+  },
+  {
+   "id": "n-c045a8738dfb",
+   "date": "2026-11-20",
+   "title": "Housing and industry ministers discuss new-city land for industrial zones",
+   "summary": "Housing Minister Randa El-Menshawy and Industry Minister Khaled Hashem discussed allocating new-city land for new industrial zones and expanding existing ones; no areas or amounts were given. Supplying industrial land through NUCA bears on both land revenue and the industrial-land bottleneck.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "industrial land"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/egypt-offers-land-for-industrial-zones-in-new-cities/",
+   "addedAt": "2026-11-22"
+  },
+  {
+   "id": "n-df88dcff2da1",
+   "date": "2026-11-19",
+   "title": "Namaa Al Khaleej plans two urban projects worth up to EGP 30bn",
+   "summary": "NAD Developments plans two integrated urban projects with EGP 25–30bn of investment; its Mohwar Plaza in 6th of October has logged nearly EGP 5bn in sales. It shows developers continuing to launch large projects despite higher interest rates.",
+   "figure": "EGP 30bn",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Invest-Gate",
+   "url": "https://invest-gate.me/news/namaa-al-khaleej-developments-plans-two-urban-projects-with-egp-30bn-investments/",
+   "addedAt": "2026-11-22"
+  },
   {
    "id": "n-541eea58c4fc",
    "date": "2026-11-19",
@@ -32,6 +75,35 @@
    "addedAt": "2026-11-20"
   },
   {
+   "id": "n-4944d9192b6c",
+   "date": "2026-11-19",
+   "title": "Egypt's first Sharia-compliant real estate investment fund launches",
+   "summary": "Al Salem Holding and Bokra Holding are launching Egypt's first Sharia-compliant real estate investment fund after FRA approval, with a first issuance targeting assets above EGP 25bn and a minimum subscription of EGP 1,000. It is a new channel of non-bank finance for the property market.",
+   "figure": "EGP 25bn",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Invest-Gate",
+   "url": "https://invest-gate.me/news/launch-of-al-salem-bokra-egypts-first-sharia-compliant-real-estate-investment-fund/",
+   "addedAt": "2026-11-22"
+  },
+  {
+   "id": "n-ea7355d8db4c",
+   "date": "2026-11-18",
+   "title": "Hassan Allam to lead 36m sqm NEVERA project in West Cairo",
+   "summary": "Hassan Allam Holding, through Grova Developments, will lead NEVERA, a 36m sqm phased tourism and mixed-use destination in Greater West Cairo targeting about 6,000 hotel rooms. No investment value was disclosed, but the project's scale makes it one of the largest private land developments this year.",
+   "figure": "36m sqm",
+   "category": "construction",
+   "sectors": [
+    "real estate",
+    "contractors"
+   ],
+   "source": "Invest-Gate",
+   "url": "https://invest-gate.me/news/nevera-a-new-vision-putting-greater-west-cairo-on-the-global-tourism-and-investment-map-in-partnership-with-hassan-allam-holding/",
+   "addedAt": "2026-11-22"
+  },
+  {
    "id": "n-d5b94e9f4e6c",
    "date": "2026-11-18",
    "title": "Gulf developers shift coastal land deals to the Red Sea",
@@ -44,6 +116,21 @@
    "source": "EnterpriseAM",
    "url": "https://enterpriseam.com/egypt/2026/11/18/a-new-wave-of-gulf-investment-hits-the-coast/",
    "addedAt": "2026-11-20"
+  },
+  {
+   "id": "n-7ebd5133cbf3",
+   "date": "2026-11-18",
+   "title": "EBRD buys 30% of Hassan Allam's desalination platform for $31m",
+   "summary": "EBRD takes a 30% stake in Hassan Allam's RWD water platform for up to $31m, with the parent adding $61m for $92m of new equity; the 79-plant platform serving hotels and factories plans up to 15k cbm/d more capacity by 2030. Private and IFI equity funding utility infrastructure eases the pressure on public capex.",
+   "figure": "$31m (30%)",
+   "category": "construction",
+   "sectors": [
+    "infrastructure",
+    "contractors"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/11/18/ebrd-takes-30-of-hassan-allams-water-platform-for-up-to-usd-31-mn/",
+   "addedAt": "2026-11-22"
   },
   {
    "id": "n-6e3546d33b42",
