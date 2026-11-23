@@ -1,7 +1,80 @@
 {
- "updated": "2026-11-22",
- "count": 303,
+ "updated": "2026-11-23",
+ "count": 309,
  "items": [
+  {
+   "id": "n-8a48c7a5d0c3",
+   "date": "2026-11-22",
+   "title": "Industry minister pushes auto-parts localisation under AIDP at automotive summit",
+   "summary": "At the 11th Egypt Automotive Summit, Industry Minister Khaled Hashem said the Automotive Industry Development Programme (AIDP) will be used to raise local content, localise components and integrate testing labs for parts certification. AIDP incentives are a contingent fiscal cost tied to local-content thresholds.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "automotive",
+    "auto parts"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/22/egypt-targets-deeper-local-manufacturing-auto-parts-production-under-national-automotive-programme/",
+   "addedAt": "2026-11-23"
+  },
+  {
+   "id": "n-416c6e539b6b",
+   "date": "2026-11-22",
+   "title": "Madbouly orders study to regulate mobile phone market, raise local content",
+   "summary": "PM Madbouly ordered ministries to study regulating the mobile phone market and curbing price rises driven by memory-chip and AI-processor shortages, and to tie any incentives to a higher local component ratio. Signals more conditional incentives for zone-based phone assemblers.",
+   "figure": "",
+   "category": "policy",
+   "sectors": [
+    "electronics",
+    "mobile phones"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/22/egypt-moves-to-regulate-mobile-phone-market-curb-price-increases/",
+   "addedAt": "2026-11-23"
+  },
+  {
+   "id": "n-15be66dde7e4",
+   "date": "2026-11-22",
+   "title": "Egypt seeks wider access for its products in Iraqi market",
+   "summary": "Investment and Foreign Trade Minister Mohamed Farid discussed with Iraq's ambassador a permanent Egyptian products exhibition in Iraq, Iraqi buyer visits to Egyptian factories and easier registration for Egyptian pharmaceuticals, ahead of the joint committee meetings. No trade figures were given.",
+   "figure": "",
+   "category": "trade",
+   "sectors": [
+    "pharmaceuticals",
+    "manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/22/egypt-seeks-to-boost-trade-exchange-expand-access-for-products-to-iraqi-market/",
+   "addedAt": "2026-11-23"
+  },
+  {
+   "id": "n-0e08a3fb382d",
+   "date": "2026-11-22",
+   "title": "Egypt and Greece sign business pact at Piraeus forum",
+   "summary": "The Euro-Mediterranean forum in Piraeus ended with a renewed Egyptian-Greek business MoU covering nine areas; bilateral trade was EUR 1.45bn in 2025, with Egyptian exports to Greece at EUR 920m. No new investment contracts were confirmed.",
+   "figure": "EUR 1.45bn trade (2025)",
+   "category": "trade",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/economy/2026/11/22/piraeus-summit-advances-mediterranean-trade-integration-as-egypt-greece-sign-business-pact/",
+   "addedAt": "2026-11-23"
+  },
+  {
+   "id": "n-398ef786660d",
+   "date": "2026-11-21",
+   "title": "Industry minister restates five-pillar plan: incentives for 6,000 factories",
+   "summary": "Khaled Hashem outlined five initiatives: extending investment incentives to about 6,000 factories, financing 500 young manufacturers via Tahya Misr Fund (2027-2030), local-content-linked tax and customs incentives, reviving 60% of distressed factories in 2027-28, and 1,000 rural production projects by 2030. The tax/customs leg implies revenue forgone from 2027.",
+   "figure": "6,000 factories",
+   "category": "policy",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Egyptian Gazette",
+   "url": "https://egyptian-gazette.com/egypt/egypts-5-pillar-action-to-optimise-local-product-assets/",
+   "addedAt": "2026-11-23"
+  },
   {
    "id": "n-321d3c961d05",
    "date": "2026-11-21",
@@ -328,6 +401,20 @@
    "source": "The Middle East Observer",
    "url": "https://meobserver.news/business-economix/2026/11/16/egypt-shifts-gears-from-car-assembly-to-building-a-fully-integrated-automotive-industry/",
    "addedAt": "2026-11-17"
+  },
+  {
+   "id": "n-26f62832fc23",
+   "date": "2026-11-16",
+   "title": "Arabian Cement 9M net income up 20.2% to EGP 3.04bn",
+   "summary": "Arabian Cement posted consolidated net income of EGP 3.035bn for January-September 2026 versus EGP 2.525bn a year earlier, though H1 alone was EGP 2.172bn, implying a slower Q3. Cement profitability is a read on construction demand and pricing.",
+   "figure": "EGP 3.035bn, +20.2%",
+   "category": "construction",
+   "sectors": [
+    "cement"
+   ],
+   "source": "AD HOC NEWS",
+   "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/arabian-cement-stock-posts-20-2-prozent-nine-month-net-income-rise/70518433",
+   "addedAt": "2026-11-23"
   },
   {
    "id": "n-c4281fac89af",
