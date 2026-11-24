@@ -1,7 +1,112 @@
 {
- "updated": "2026-11-23",
- "count": 309,
+ "updated": "2026-11-24",
+ "count": 317,
  "items": [
+  {
+   "id": "n-d1f6ee682a1a",
+   "date": "2026-11-23",
+   "title": "Three LNG cargoes bound for Egypt diverted as Europe outbids Cairo",
+   "summary": "Three US LNG cargoes turned away from Egypt; with one cargo costing about $100m, November's import bill is near $1bn, and the government asked for about 10 cargoes this month and deferred five of 15 contracted cargoes into 2027. Tighter LNG supply prolongs gas curtailments to factories and raises the fiscal cost of energy imports.",
+   "figure": "~$1bn November LNG bill",
+   "category": "policy",
+   "sectors": [
+    "energy",
+    "fertilisers",
+    "steel"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/11/23/three-lng-cargoes-bound-for-egypt-turn-away-as-europe-outbids-cairo/",
+   "addedAt": "2026-11-24"
+  },
+  {
+   "id": "n-d061780d8f6b",
+   "date": "2026-11-23",
+   "title": "TDA plans 17 tourism centres, 60,000 rooms within two years",
+   "summary": "The Tourism Development Authority plans 17 new tourism centres (14 on the Red Sea, two in North Sinai, one in Fayoum) for private investment and targets 60,000 hotel and accommodation units within two years. State land offerings of this kind are a source of non-tax revenue and a driver of construction demand.",
+   "figure": "60,000 units",
+   "category": "construction",
+   "sectors": [
+    "real estate",
+    "hotels"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/tourism-egypt/2026/11/23/egypt-plans-17-tourism-centres-targets-60000-additional-accommodation-units/",
+   "addedAt": "2026-11-24"
+  },
+  {
+   "id": "n-4136ddd9e20d",
+   "date": "2026-11-23",
+   "title": "Ezz rebar at EGP 41,000–41,390/t; grey cement around EGP 4,000/t",
+   "summary": "Market quotes on 23 November put Ezz rebar at EGP 41,000–41,390/t, Suez Steel at EGP 39,950 and investment-grade rebar at EGP 38,700–38,900, while grey cement averaged EGP 3,940–4,100/t to consumers (about EGP 3,820 ex-factory). These input prices feed directly into contractor costs and price-escalation claims on state projects.",
+   "figure": "Rebar EGP 41,390/t",
+   "category": "construction",
+   "sectors": [
+    "steel",
+    "cement"
+   ],
+   "source": "Al-Badil",
+   "url": "https://akhbar.elbadil.com/880423/steel-cement-prices-egypt-november-23-2026",
+   "addedAt": "2026-11-24"
+  },
+  {
+   "id": "n-21e2e4f61c49",
+   "date": "2026-11-23",
+   "title": "BME–CATL EV battery plant to start production mid-2027",
+   "summary": "Industry Minister Khaled Hashem said BME's EGP 2bn+ battery-pack plant, using CATL technology, should start production in May–June 2027 with 1 GWh/yr for heavy commercial vehicles, later 5 GWh/yr, at 40% local content. It is a key input for the automotive localisation programme.",
+   "figure": "EGP 2bn; 1 GWh/yr",
+   "category": "investment",
+   "sectors": [
+    "automotive",
+    "batteries"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/11/23/egypt-targets-mid-2027-launch-of-egp2bn-ev-battery-plant-with-catl-technology/",
+   "addedAt": "2026-11-24"
+  },
+  {
+   "id": "n-e55cf0fa9f28",
+   "date": "2026-11-22",
+   "title": "Brassbell and Misr Abu Dhabi plan $55m hotel near Grand Egyptian Museum",
+   "summary": "Brassbell Hospitality Group and Misr Abu Dhabi signed an MoU for a $55m, 200-room hotel opposite the Grand Egyptian Museum, with MAD supplying the land. It is part of a wave of hotel construction aimed at GEM-driven tourism demand.",
+   "figure": "$55m; 200 rooms",
+   "category": "construction",
+   "sectors": [
+    "hotels",
+    "real estate"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/22/brassbell-misr-abu-dhabi-sign-mou-for-55m-hotel-project-opposite-grand-egyptian-museum/",
+   "addedAt": "2026-11-24"
+  },
+  {
+   "id": "n-af2ac25292e9",
+   "date": "2026-11-22",
+   "title": "Beit Al-Watan plot owners get build extensions for dollar payments",
+   "summary": "NUCA gave Egyptians abroad with Beit Al-Watan plots a free six-month grace period if over 70% built, or a one-year extension at 35–70% for 10% of the land's current price paid in dollars from abroad, plus an extra floor for a dollar premium. The scheme is designed to bring foreign-currency inflows into NUCA.",
+   "figure": "10% of land price in USD",
+   "category": "construction",
+   "sectors": [
+    "housing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/22/egypt-extends-construction-deadlines-offers-building-area-incentives-for-beit-al-watan-clients/",
+   "addedAt": "2026-11-24"
+  },
+  {
+   "id": "n-ab431e7d93ac",
+   "date": "2026-11-22",
+   "title": "Dubai Egypt hires CSCEC for Obsidier Tower facades in New Capital",
+   "summary": "Dubai Egypt Developments signed China State Construction Engineering Corporation to execute the glass facades of its three-tower Obsidier project (13,750 sqm) in the New Administrative Capital; no contract value was disclosed. It shows Chinese contractors' growing role in private New Capital projects.",
+   "figure": "13,750 sqm",
+   "category": "construction",
+   "sectors": [
+    "contractors",
+    "real estate"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/22/dubai-egypt-signs-cscec-deal-to-execute-obsidier-towers-glass-facades/",
+   "addedAt": "2026-11-24"
+  },
   {
    "id": "n-8a48c7a5d0c3",
    "date": "2026-11-22",
@@ -117,6 +222,20 @@
    "source": "Invest-Gate",
    "url": "https://invest-gate.me/news/namaa-al-khaleej-developments-plans-two-urban-projects-with-egp-30bn-investments/",
    "addedAt": "2026-11-22"
+  },
+  {
+   "id": "n-81eef92ec682",
+   "date": "2026-11-19",
+   "title": "Arabian Cement approves €22m mill adding 1 Mt/yr at Sokhna",
+   "summary": "Arabian Cement's board approved a €22m, 150 t/hr vertical cement mill at its Ain Sokhna plant, expected to add about 1 Mt/yr of cement capacity. It follows H1 2026 profit up 54.6% to $40.3m, a sign that cement makers see enough demand to expand despite gas constraints.",
+   "figure": "€22m; +1 Mt/yr",
+   "category": "investment",
+   "sectors": [
+    "cement"
+   ],
+   "source": "Global Cement",
+   "url": "https://globalcement.com/news/21514-arabian-cement-approves-22m-vertical-mill-investment",
+   "addedAt": "2026-11-24"
   },
   {
    "id": "n-541eea58c4fc",
