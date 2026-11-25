@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-24",
- "count": 317,
+ "updated": "2026-11-25",
+ "count": 322,
  "items": [
+  {
+   "id": "n-bc6273b99de3",
+   "date": "2026-11-24",
+   "title": "IDA pitches Egypt's private industrial-developer model to Oman's Madayn",
+   "summary": "The Industrial Development Authority said Egypt has 28 industrial zones run by 14 private developers across 39.8m sqm in seven new cities; Polaris Parks alone has invested $560m and attracted about $4.5bn. The developer model shifts zone infrastructure costs off the budget.",
+   "figure": "28 zones, 39.8m sqm",
+   "category": "policy",
+   "sectors": [
+    "industrial zones"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/24/egypt-offers-oman-expertise-in-industrial-zone-development-model/",
+   "addedAt": "2026-11-25"
+  },
+  {
+   "id": "n-a96a786c89ff",
+   "date": "2026-11-24",
+   "title": "Egypt and Iraq sign 11 deals; Egyptian exports $641m in 9M",
+   "summary": "Egypt and Iraq signed 11 cooperation documents and agreed to lift visas; CAPMAS data show Egyptian exports to Iraq at $641.4m in 9M 2026 with bilateral trade down 5.6%. Iraq is also studying supplying about 10m barrels of crude, which could ease Egypt's energy import bill.",
+   "figure": "$641.4m",
+   "category": "trade",
+   "sectors": [
+    "exports"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/economy/2026/11/24/egypt-and-iraq-forge-a-new-economic-partnership/",
+   "addedAt": "2026-11-25"
+  },
+  {
+   "id": "n-39d1ef5e3aaa",
+   "date": "2026-11-24",
+   "title": "Transformation programme targets 3 million jobs via five productive sectors",
+   "summary": "Planning Minister Rostom said the National Economic Transformation Programme targets 3 million jobs through manufacturing, agriculture, ICT, tourism and energy, and aims to lift the private share of investment from 61% to 67% by 2030. Unemployment stood at 6% at end-Q3 2026.",
+   "figure": "3m jobs",
+   "category": "policy",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/24/national-economic-transformation-programme-targets-3-million-jobs-through-five-productive-sectors-rostom/",
+   "addedAt": "2026-11-25"
+  },
+  {
+   "id": "n-12ccd2345b67",
+   "date": "2026-11-24",
+   "title": "HIDAB Properties enters market targeting EGP 10bn over two years",
+   "summary": "New developer HIDAB Properties targets EGP 10bn of investment over two years and EGP 7.5bn in sales from its first New Cairo project, FORMS (about 240 units, delivery H1 2027). New entrants keep adding supply despite signs of a market correction.",
+   "figure": "EGP 10bn",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Daily News Egypt",
+   "url": "https://dailynewsegypt.com/2026/11/24/hidab-properties-enters-egyptian-market-targeting-egp-10bn-in-investments-over-two-years/",
+   "addedAt": "2026-11-25"
+  },
   {
    "id": "n-d1f6ee682a1a",
    "date": "2026-11-23",
@@ -32,6 +88,21 @@
    "source": "The Middle East Observer",
    "url": "https://meobserver.news/tourism-egypt/2026/11/23/egypt-plans-17-tourism-centres-targets-60000-additional-accommodation-units/",
    "addedAt": "2026-11-24"
+  },
+  {
+   "id": "n-8b2dfc8b9e7f",
+   "date": "2026-11-23",
+   "title": "Delemar targets $150m auto-glass plant for 1.5m vehicles by 2028",
+   "summary": "Delemar Auto plans about $150m by end-2028 for glass sets supplying 1.5 million vehicles a year; a $110m first phase (700,000 vehicles) starts output in Q1 2027. It is export-oriented (60–80% of output), supporting FX earnings and auto-component localisation.",
+   "figure": "$150m",
+   "category": "investment",
+   "sectors": [
+    "automotive",
+    "glass"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/11/23/egypts-delemar-targets-150mn-auto-glass-investment-1-5mn-vehicle-capacity-by-2028/",
+   "addedAt": "2026-11-25"
   },
   {
    "id": "n-4136ddd9e20d",
