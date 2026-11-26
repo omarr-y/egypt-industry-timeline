@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25",
- "count": 322,
+ "updated": "2026-11-26",
+ "count": 323,
  "items": [
   {
    "id": "n-bc6273b99de3",
@@ -293,6 +293,21 @@
    "source": "Invest-Gate",
    "url": "https://invest-gate.me/news/namaa-al-khaleej-developments-plans-two-urban-projects-with-egp-30bn-investments/",
    "addedAt": "2026-11-22"
+  },
+  {
+   "id": "n-df5e55df1acd",
+   "date": "2026-11-19",
+   "title": "Orascom Construction Q3 net income doubles to $102.7m",
+   "summary": "Orascom Construction's Q3 2026 net income attributable to shareholders rose 103% to $102.7m on revenue up 22.5% to $1.8bn, with backlog at a record ~$11.6bn. Strong contractor earnings point to a still-busy project pipeline, part of it state-funded infrastructure that weighs on public investment spending.",
+   "figure": "+103% to $102.7m",
+   "category": "construction",
+   "sectors": [
+    "contractors",
+    "infrastructure"
+   ],
+   "source": "Enterprise",
+   "url": "https://enterpriseam.com/egypt/2026/11/19/efg-holdings-and-orascom-construction-report-their-3q-earnings/",
+   "addedAt": "2026-11-26"
   },
   {
    "id": "n-81eef92ec682",
