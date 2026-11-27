@@ -1,7 +1,35 @@
 {
- "updated": "2026-11-26",
- "count": 323,
+ "updated": "2026-11-27",
+ "count": 327,
  "items": [
+  {
+   "id": "n-e88c853fa45d",
+   "date": "2026-11-26",
+   "title": "MALAAZ Developments puts EGP 1bn into construction to speed delivery",
+   "summary": "MALAAZ Developments said it is investing EGP 1bn in construction works, with overall completion at 65% (phase one 70%, phase two 30%). A small sign of developers prioritising delivery amid buyer concern over off-plan execution.",
+   "figure": "EGP 1bn",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Egy Gate News",
+   "url": "https://www.egygatenews.com/2026/11/malaaz-developments-invests-egp-1.html",
+   "addedAt": "2026-11-27"
+  },
+  {
+   "id": "n-84deaef51d76",
+   "date": "2026-11-25",
+   "title": "Cabinet extends 15% industrial loan scheme to working capital",
+   "summary": "The Cabinet amended the 15% subsidised industrial financing initiative, splitting its EGP 30bn ceiling equally between machinery and working capital and raising single-project caps to EGP 200m (EGP 250m with related parties) for projects at least 60% built. A wider scope raises the treasury's interest-subsidy bill.",
+   "figure": "EGP 30bn ceiling",
+   "category": "policy",
+   "sectors": [
+    "manufacturing"
+   ],
+   "source": "Amwal Al Ghad",
+   "url": "https://en.amwalalghad.com/egypt-eases-terms-of-15-industrial-financing-initiative-adds-working-capital/",
+   "addedAt": "2026-11-27"
+  },
   {
    "id": "n-bc6273b99de3",
    "date": "2026-11-24",
@@ -118,6 +146,20 @@
    "source": "Al-Badil",
    "url": "https://akhbar.elbadil.com/880423/steel-cement-prices-egypt-november-23-2026",
    "addedAt": "2026-11-24"
+  },
+  {
+   "id": "n-2c286f0c6e50",
+   "date": "2026-11-23",
+   "title": "DM Developments launches EGP 8bn VYNT project in New Zayed",
+   "summary": "DM Developments launched VYNT, an EGP 8bn phased project on 35 feddans in New Zayed, with 5% down payments over 8–10 years and handovers from 2030. Long instalment plans keep developers' sales growing but stretch their financing needs.",
+   "figure": "EGP 8bn",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Egy Gate News",
+   "url": "https://www.egygatenews.com/2026/11/dm-developments-launches-egp-8bn-vynt.html",
+   "addedAt": "2026-11-27"
   },
   {
    "id": "n-21e2e4f61c49",
@@ -365,6 +407,20 @@
    "source": "Invest-Gate",
    "url": "https://invest-gate.me/news/launch-of-al-salem-bokra-egypts-first-sharia-compliant-real-estate-investment-fund/",
    "addedAt": "2026-11-22"
+  },
+  {
+   "id": "n-167b655e8d26",
+   "date": "2026-11-19",
+   "title": "September trade deficit widens 60.6% to $5.3bn as imports surge",
+   "summary": "CAPMAS data show September 2026 imports up 29.7% y/y to $10.6bn while exports rose only 7.4% to $5.3bn, pushing the deficit up 60.6% to $5.3bn (down from $6.4bn in August). Import growth far outpacing exports keeps pressure on the external balance and FX needs.",
+   "figure": "$5.3bn deficit",
+   "category": "trade",
+   "sectors": [
+    "all"
+   ],
+   "source": "Bloom Gate",
+   "url": "https://bloom-gate.com/%d8%a3%d8%b3%d9%88%d8%a7%d9%82/%d8%b9%d8%ac%d8%b2-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d9%86-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a-%d9%84%d9%85%d8%b5%d8%b1-%d9%8a%d8%b1%d8%aa%d9%81%d8%b9-60-6-%d8%ae%d9%84%d8%a7%d9%84-%d8%b3/",
+   "addedAt": "2026-11-27"
   },
   {
    "id": "n-ea7355d8db4c",
