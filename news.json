@@ -1,7 +1,36 @@
 {
- "updated": "2026-11-27",
- "count": 327,
+ "updated": "2026-11-28",
+ "count": 332,
  "items": [
+  {
+   "id": "n-e44b8b682faf",
+   "date": "2026-11-27",
+   "title": "Techno Group targets over $110m Egypt investment in 2027",
+   "summary": "Techno Group plans to lift its Egypt investment to more than $110m in 2027 from over $75m now, including a $2m wellhead-equipment factory in 10th of Ramadan in Q1 2027, and to raise exports to 50% of sales from 30–35%. A small but export-oriented engineering expansion.",
+   "figure": "$110m+",
+   "category": "investment",
+   "sectors": [
+    "engineering",
+    "oil and gas equipment"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/11/27/egypts-techno-group-targets-over-110mn-in-investment-in-2027/",
+   "addedAt": "2026-11-28"
+  },
+  {
+   "id": "n-49c75fd4cf2d",
+   "date": "2026-11-27",
+   "title": "GM Egypt starts $20m Chevrolet Groove production with 45% local content",
+   "summary": "GM Egypt launched regular production of the Chevrolet Groove in 6th of October City on 25 November with a $20m investment and 45% local content; its cumulative Egypt investment exceeds $530m. Adds to the automotive localisation push (AIDP) that aims to cut the car import bill.",
+   "figure": "$20m",
+   "category": "investment",
+   "sectors": [
+    "automotive"
+   ],
+   "source": "The Middle East Observer",
+   "url": "https://meobserver.news/industry/2026/11/27/gm-egypt-launches-20mn-chevrolet-groove-production-with-45-local-content/",
+   "addedAt": "2026-11-28"
+  },
   {
    "id": "n-e88c853fa45d",
    "date": "2026-11-26",
@@ -17,6 +46,34 @@
    "addedAt": "2026-11-27"
   },
   {
+   "id": "n-5f8049d3b382",
+   "date": "2026-11-26",
+   "title": "Cement demand up 7.6% in 9M 2026; exports fall 13%",
+   "summary": "Egyptian cement demand rose 7.6% in January–September 2026, while combined cement and clinker exports fell 13% y/y to 12.61Mt; the Cement Division expects 2026 exports of 16–17Mt versus 18.6Mt in 2025. Firmer domestic demand signals construction activity holding up even as export receipts soften.",
+   "figure": "+7.6% demand",
+   "category": "construction",
+   "sectors": [
+    "cement"
+   ],
+   "source": "CemNet (International Cement Review)",
+   "url": "https://www.cemnet.com/News/story/182522/mena-cement-demand-holds-up-as-gulf-clinker-exports-fall.html",
+   "addedAt": "2026-11-28"
+  },
+  {
+   "id": "n-d00025076824",
+   "date": "2026-11-25",
+   "title": "SODIC offers ready homes with 10% down, 10-year instalments",
+   "summary": "SODIC is selling move-in-ready units in East and West Cairo projects (VYE, Karmell, The Estates, Villette) with down payments from 10% and instalments up to 10 years. Easier terms on finished stock point to developers working harder to keep sales moving.",
+   "figure": "10% down",
+   "category": "construction",
+   "sectors": [
+    "real estate"
+   ],
+   "source": "Invest-Gate",
+   "url": "https://invest-gate.me/news/sodic-offers-immediate-homeownership-across-major-east-and-west-cairo-developments-with-just-a-10-down-payment/",
+   "addedAt": "2026-11-28"
+  },
+  {
    "id": "n-84deaef51d76",
    "date": "2026-11-25",
    "title": "Cabinet extends 15% industrial loan scheme to working capital",
@@ -29,6 +86,20 @@
    "source": "Amwal Al Ghad",
    "url": "https://en.amwalalghad.com/egypt-eases-terms-of-15-industrial-financing-initiative-adds-working-capital/",
    "addedAt": "2026-11-27"
+  },
+  {
+   "id": "n-0f69bc021b91",
+   "date": "2026-11-25",
+   "title": "Food industry exports hit record $6.56bn in ten months, up 14.5%",
+   "summary": "Food Export Council data show processed food exports reached $6.557bn in Jan–Oct 2026, up 14.5% from $5.727bn, with October alone at about $666m (+19.6% y/y). One of the fastest-growing non-oil export lines, supporting FX inflows.",
+   "figure": "$6.56bn (+14.5%)",
+   "category": "trade",
+   "sectors": [
+    "food processing"
+   ],
+   "source": "Logistics Update Africa",
+   "url": "https://www.logupdateafrica.com/trade/egypt-food-exports-hit-record-656bn-as-trade-expands-12840670",
+   "addedAt": "2026-11-28"
   },
   {
    "id": "n-bc6273b99de3",
